@@ -4,4 +4,4 @@ reemplzar gl-Market gl-Market_General gl-Market_General-columnheader gl-Market_G
 reemplazar gl-ParticipantCenteredStacked gl-Participant_General gl-Market_General-cn1 gl-ParticipantCenteredStacked-wide con odds
 
 sph-FixturePodHeader_BottomInfoWrapper con game
-cm-MarketGroupWithIconsButton_Text cambiar por market
+market cambiar por market
