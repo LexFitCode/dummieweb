@@ -3,4 +3,4 @@ gl-Market gl-Market_General gl-Market_General-columnheader gl-Market_General-pwi
 reemplzar gl-Market gl-Market_General gl-Market_General-columnheader gl-Market_General-pwidth25 con over
 reemplazar gl-ParticipantCenteredStacked gl-Participant_General gl-Market_General-cn1 gl-ParticipantCenteredStacked-wide con odds
 
-cm-MarketGroupWithIconsButton_Text cambiar por marketss
+cm-MarketGroupWithIconsButton_Text cambiar por market
