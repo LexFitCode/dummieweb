@@ -1,6 +1,18 @@
-gl-MarketGroupPod cm-CouponPlayerSubMarketGrid_MarketGroup gl-MarketGroup con general
-gl-Market gl-Market_General gl-Market_General-columnheader gl-Market_General-pwidth25 gl-Market_General-lastinrow con under
-gl-Market gl-Market_General gl-Market_General-columnheader gl-Market_General-pwidth25 con over
-gl-ParticipantCenteredStacked gl-Participant_General gl-Market_General-cn1 gl-ParticipantCenteredStacked-wide con odds
+general
+gl-MarketGroupPod cm-CouponPlayerSubMarketGrid_MarketGroup gl-MarketGroup
 
-cm-MarketGroupWithIconsButton_Text cambiar por market
+
+under
+gl-Market gl-Market_General gl-Market_General-columnheader gl-Market_General-pwidth25 gl-Market_General-lastinrow
+
+
+over
+gl-Market gl-Market_General gl-Market_General-columnheader gl-Market_General-pwidth25
+
+
+odds
+gl-ParticipantCenteredStacked gl-Participant_General gl-Market_General-cn1 gl-ParticipantCenteredStacked-wide
+
+
+market
+cm-MarketGroupWithIconsButton_Text
