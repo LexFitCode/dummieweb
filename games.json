@@ -29,13 +29,6 @@
 
   },
   {
-    "hour": "8:30 PM",
-    "awayName": "Pelicans",
-    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Pelicans.png",
-    "homeName": "Timberwolves",
-    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Timberwolves.png"
-  },
-  {
     "hour": "6:00 PM",
     "awayName": "Hornets",
     "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Hornets.png",
