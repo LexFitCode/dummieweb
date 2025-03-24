@@ -20,6 +20,13 @@
     "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Wizards.png"
   },
   {
+    "hour": "17:40",
+    "awayName": "Nets",
+    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Nets.png",
+    "homeName": "Mavericks",
+    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Mavs.png"
+  },
+  {
     "hour": "18:10",
     "awayName": "76ers",
     "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/76ers.png",
