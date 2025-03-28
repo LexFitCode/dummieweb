@@ -2,46 +2,55 @@
     {
         "away":"Rockies",
         "home":"Rays",
-        "hora":"15:10"
+        "hora":"15:10",
+    "sport" : "bsb"
     },
     {
         "away":"Orioles",
         "home":"Blue Jays",
-        "hora":"18:07"
+        "hora":"18:07",
+    "sport" : "bsb"
     },
     {
         "away":"Red Sox",
         "home":"Rangers",
-        "hora":"19:05"
+        "hora":"19:05",
+    "sport" : "bsb"
     },
     {
         "away":"Pirates",
         "home":"Marlins",
-        "hora":"18:10"
+        "hora":"18:10",
+    "sport" : "bsb"
     },
     {
         "away":"Mets",
         "home":"Astros",
-        "hour":"19:10"
+        "hour":"19:10",
+    "sport" : "bsb"
     },
     {
         "away":"Braves",
         "home":"Padres",
-        "hour":"20:10"
+        "hour":"20:10",
+    "sport" : "bsb"
     },
     {
         "away":"Cubs",
         "home":"Diamondbacks",
-        "hour":"20:40"
+        "hour":"20:40",
+    "sport" : "bsb"
     },
     {
         "away":"Athletics",
         "home":"Mariners",
-        "hour":"20:40"
+        "hour":"20:40",
+    "sport" : "bsb"
     },
     {
         "away":"Tigers",
         "home":"Dodgers",
-        "hour":"21:40"
+        "hour":"21:40",
+    "sport" : "bsb"
     }
 ]
