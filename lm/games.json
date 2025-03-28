@@ -2,46 +2,55 @@
     {
         "awayName":"Rockies",
         "homeName":"Rays",
-        "hora":"15:10"
+        "hora":"15:10",
+        "sport": "bsb"
     },
     {
         "awayName":"Orioles",
         "homeName":"Blue Jays",
-        "hora":"18:07"
+        "hora":"18:07",
+        "sport": "bsb"
     },
     {
         "awayName":"Red Sox",
         "homeName":"Rangers",
-        "hora":"19:05"
+        "hora":"19:05",
+        "sport": "bsb"
     },
     {
         "awayName":"Pirates",
         "homeName":"Marlins",
-        "hora":"18:10"
+        "hora":"18:10",
+        "sport": "bsb"
     },
     {
         "awayName":"Mets",
         "homeName":"Astros",
-        "hour":"19:10"
+        "hour":"19:10",
+        "sport": "bsb"
     },
     {
         "awayName":"Braves",
         "homeName":"Padres",
-        "hour":"20:10"
+        "hour":"20:10",
+        "sport": "bsb"
     },
     {
         "awayName":"Cubs",
         "homeName":"Diamondbacks",
-        "hour":"20:40"
+        "hour":"20:40",
+        "sport": "bsb"
     },
     {
         "awayName":"Athletics",
         "homeName":"Mariners",
-        "hour":"20:40"
+        "hour":"20:40",
+        "sport": "bsb"
     },
     {
         "awayName":"Tigers",
         "homeName":"Dodgers",
-        "hour":"21:40"
+        "hour":"21:40",
+        "sport": "bsb"
     }
 ]
