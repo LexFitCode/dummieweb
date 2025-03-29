@@ -33,14 +33,6 @@
   },
   {
     "hour": "18:10",
-    "awayName": "Suns",
-    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Suns.png",
-    "homeName": "Timberwolves",
-    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Timberwolves.png",
-    "sport" : "bsk"
-  },
-  {
-    "hour": "18:10",
     "awayName": "Mavericks",
     "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Mavs.png",
     "homeName": "Bulls",
