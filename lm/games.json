@@ -1,5 +1,4 @@
-[
-    {
+[{
         "awayName":"Rangers",
         "homeName":"Reds",
         "hora":"17:10",
@@ -10,5 +9,4 @@
     "homeName":"Yankees",
     "hora":"17:10",
     "sport": "bsb"
-}
-]
+}]
