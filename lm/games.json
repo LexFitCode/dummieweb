@@ -1,8 +1,14 @@
 [
     {
-        "awayName":"Braves",
-        "homeName":"Padres",
+        "awayName":"Rangers",
+        "homeName":"Reds",
         "hora":"17:10",
         "sport": "bsb"
-   }
+   },
+   {
+    "awayName":"Diamondbacks",
+    "homeName":"Yankees",
+    "hora":"17:10",
+    "sport": "bsb"
+}
 ]
