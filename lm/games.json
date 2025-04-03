@@ -1,18 +1,10 @@
 [
-    { "awayName": "Red Sox",    "homeName": "Orioles",    "hour": "12:05",    "sport": "bsb"
-    },
-    {
-      "awayName": "Rockies",    "homeName": "Phillies",    "hour": "12:05",    "sport": "bsb"
-    },
-    {
-      "awayName": "Astros",    "homeName": "Twins",    "hour": "14:10",    "sport": "bsb"
-    },
-    {
-      "awayName": "Diamondbacks",    "homeName": "Yankees",    "hour": "17:05",    "sport": "bsb"
-    },
-    {
-      "awayName": "Reds",    "homeName": "Brewers",    "hour": "19:40",    "sport": "bsb"
-    }
-    
-  ]
+
+  {
+    "awayName": "Diamondbacks",    "homeName": "Yankees",    "hour": "17:05",    "sport": "bsb"
+  },
+  {
+    "awayName": "Reds",    "homeName": "Brewers",    "hour": "19:40",    "sport": "bsb"
+  }
   
+]
