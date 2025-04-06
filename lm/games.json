@@ -1,17 +1,19 @@
 [
-    { "awayName": "White Sox",      "homeName": "Tigers",     "hour": "11:10",    "sport": "bsb"},
-    { "awayName": "Padres",      "homeName": "Cubs",    "hour": "12:20",    "sport": "bsb"},
-    { "awayName": "Astros",      "homeName": "Twins",     "hour": "12:10",    "sport": "bsb"},
-    { "awayName": "DiamondBacks",   "homeName": "Nationals" , "hour": "14:05",   "sport": "bsb"},
-    { "awayName": "Dodgers" ,       "homeName": "Phillies"  , "hour": "14:05",   "sport": "bsb"},
-    { "awayName": "Yankees" ,       "homeName": "Pirates"   , "hour": "14:05",   "sport": "bsb"},
-    { "awayName": "Orioles" ,       "homeName": "Royals"    , "hour": "14:10",   "sport": "bsb"},
-    { "awayName": "Cardinals",      "homeName": "Red Sox",    "hour": "14:10",    "sport": "bsb"},
-    { "awayName": "Rays" ,          "homeName": "Rangers"   , "hour": "17:05",   "sport": "bsb"},
-    { "awayName": "Reds" ,          "homeName": "Brewers"   , "hour": "17:10",   "sport": "bsb"},
-    { "awayName": "Blue Jays" ,     "homeName": "Mets"      , "hour": "17:10",   "sport": "bsb"},
-    { "awayName": "Marlins" ,       "homeName": "Braves"    , "hour": "17:15",   "sport": "bsb"},
-    { "awayName": "Athletics",      "homeName": "Rockies"   , "hour": "18:10",   "sport": "bsb"},
-    { "awayName": "Mariners" ,      "homeName": "Giants"    , "hour": "19:05",   "sport": "bsb"},
-    { "awayName": "Guardians" ,     "homeName": "Angels"    , "hour": "19:38",   "sport": "bsb"}
+    { "awayName": "DiamondBacks",   "homeName": "Nationals" , "hour": "11:35",   "sport": "bsb"},
+    { "awayName": "Dodgers" ,       "homeName": "Phillies"  , "hour": "11:35",   "sport": "bsb"},
+    { "awayName": "Marlins" ,       "homeName": "Braves"    , "hour": "11:35",   "sport": "bsb"},
+    { "awayName": "Yankees" ,       "homeName": "Pirates"   , "hour": "11:35",   "sport": "bsb"},
+    { "awayName": "Cardinals",      "homeName": "Red Sox",    "hour": "11:35",    "sport": "bsb"},
+    { "awayName": "White Sox",      "homeName": "Tigers",     "hour": "11:40",    "sport": "bsb"},
+    { "awayName": "Blue Jays" ,     "homeName": "Mets"      , "hour": "11:40",   "sport": "bsb"},
+    { "awayName": "Orioles" ,       "homeName": "Royals"    , "hour": "12:10",   "sport": "bsb"},
+    { "awayName": "Reds" ,          "homeName": "Brewers"   , "hour": "12:10",   "sport": "bsb"},
+    { "awayName": "Astros",         "homeName": "Twins",      "hour": "12:10",    "sport": "bsb"},
+    { "awayName": "Padres",         "homeName": "Cubs",       "hour": "12:20",    "sport": "bsb"},
+    { "awayName": "Rays" ,          "homeName": "Rangers"   , "hour": "12:35",   "sport": "bsb"},
+    { "awayName": "Athletics",      "homeName": "Rockies"   , "hour": "13:10",   "sport": "bsb"},
+    { "awayName": "Mariners" ,      "homeName": "Giants"    , "hour": "14:05",   "sport": "bsb"},
+    { "awayName": "Guardians" ,     "homeName": "Angels"    , "hour": "14:07",   "sport": "bsb"}
+
+
 ]
