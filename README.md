@@ -17,12 +17,17 @@ gl-ParticipantCenteredStacked gl-Participant_General gl-Market_General-cn1 gl-Pa
 market
 cm-MarketGroupWithIconsButton_Text
 
-[
-    { "awayName": "White Sox",      "homeName": "Tigers",     "hour": "11:10",    "sport": "bsb"},
-
-    { "awayName": "Padres",         "homeName": "Cubs"      , "hour": "12:20",    "sport": "bsb"},
+SCOREBOARD
 
 
-   
+scoreboard
+Scoreboard bg-clr-white flex flex-auto justify-between
 
-]
+hour
+ScoreCell__Time ScoreboardScoreCell__Time h9 clr-gray-03
+
+team
+ScoreCell__TeamName ScoreCell__TeamName--shortDisplayName db
+
+Athlete__PlayerName
+pitcher
