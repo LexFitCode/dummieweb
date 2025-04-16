@@ -130,6 +130,13 @@
         "underOdd": "2.28"
       },
       {
+        "market": "Pitcher - Outs (+/-)",
+        "name": "",
+        "line": "",
+        "overOdd": "",
+        "underOdd": ""
+      },
+      {
         "market": "Pitcher - Base por bolas (+/-)",
         "name": "Spencer Strider",
         "line": "1.5",
@@ -281,6 +288,13 @@
         "line": "5.5",
         "overOdd": "1.80",
         "underOdd": "1.95"
+      },
+      {
+        "market": "Pitcher - Outs (+/-)",
+        "name": "",
+        "line": "",
+        "overOdd": "",
+        "underOdd": ""
       },
       {
         "market": "Pitcher - Base por bolas (+/-)",
