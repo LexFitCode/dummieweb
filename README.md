@@ -12,7 +12,7 @@ gl-Market gl-Market_General gl-Market_General-columnheader gl-Market_General-pwi
 
 odds
 gl-ParticipantCenteredStacked gl-Participant_General gl-Market_General-cn1 gl-ParticipantCenteredStacked-wide
-
+gl-ParticipantCenteredStacked gl-Participant_General gl-Market_General-cn1
 
 market
 cm-MarketGroupWithIconsButton_Text
