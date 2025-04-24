@@ -1,0 +1,74 @@
+[
+    {
+        "hour": "11:10 AM",
+        "awayName": "White Sox",
+        "awayPitcher": "S. Smith",
+        "homeName": "Twins",
+        "homePitcher": "C. Paddack",
+        "sport": "bsb"
+    },
+    {
+        "hour": "11:35 AM",
+        "awayName": "Mariners",
+        "awayPitcher": "B. Woo",
+        "homeName": "Red Sox",
+        "homePitcher": "G. Crochet",
+        "sport": "bsb"
+    },
+    {
+        "hour": "12:10 PM",
+        "awayName": "Rockies",
+        "awayPitcher": "G. Marquez",
+        "homeName": "Royals",
+        "homePitcher": "C. Ragans",
+        "sport": "bsb"
+    },
+    {
+        "hour": "1:45 PM",
+        "awayName": "Brewers",
+        "awayPitcher": "T. Myers",
+        "homeName": "Giants",
+        "homePitcher": "L. Roupp",
+        "sport": "bsb"
+    },
+    {
+        "hour": "3:10 PM",
+        "awayName": "Rockies",
+        "awayPitcher": "C. Dollander",
+        "homeName": "Royals",
+        "homePitcher": "M. Lorenzen",
+        "sport": "bsb"
+    },
+    {
+        "hour": "4:45 PM",
+        "awayName": "Orioles",
+        "awayPitcher": "C. Povich",
+        "homeName": "Nationals",
+        "homePitcher": "M. Gore",
+        "sport": "bsb"
+    },
+    {
+        "hour": "7:29 PM",
+        "awayName": "Pirates",
+        "awayPitcher": "C. Mlodzinski",
+        "homeName": "Angels",
+        "homePitcher": "T. Anderson",
+        "sport": "bsb"
+    },
+    {
+        "hour": "7:40 PM",
+        "awayName": "Rays",
+        "awayPitcher": "D. Rasmussen",
+        "homeName": "Diamondbacks",
+        "homePitcher": "C. Burnes",
+        "sport": "bsb"
+    },
+    {
+        "hour": "8:05 PM",
+        "awayName": "Rangers",
+        "awayPitcher": "J. deGrom",
+        "homeName": "Athletics",
+        "homePitcher": "J.T. Ginn",
+        "sport": "bsb"
+    }
+]
