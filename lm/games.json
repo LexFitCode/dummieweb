@@ -1,74 +1,122 @@
 [
     {
-        "hour": "11:10 AM",
-        "awayName": "White Sox",
-        "awayPitcher": "S. Smith",
-        "homeName": "Twins",
-        "homePitcher": "C. Paddack",
+        "hour": "12:20 PM",
+        "awayName": "Phillies",
+        "awayPitcher": "T. Walker",
+        "homeName": "Cubs",
+        "homePitcher": "C. Rea",
         "sport": "bsb"
     },
     {
-        "hour": "11:35 AM",
-        "awayName": "Mariners",
-        "awayPitcher": "B. Woo",
-        "homeName": "Red Sox",
-        "homePitcher": "G. Crochet",
-        "sport": "bsb"
-    },
-    {
-        "hour": "12:10 PM",
-        "awayName": "Rockies",
-        "awayPitcher": "G. Marquez",
-        "homeName": "Royals",
-        "homePitcher": "C. Ragans",
-        "sport": "bsb"
-    },
-    {
-        "hour": "1:45 PM",
-        "awayName": "Brewers",
-        "awayPitcher": "T. Myers",
-        "homeName": "Giants",
-        "homePitcher": "L. Roupp",
-        "sport": "bsb"
-    },
-    {
-        "hour": "3:10 PM",
-        "awayName": "Rockies",
-        "awayPitcher": "C. Dollander",
-        "homeName": "Royals",
-        "homePitcher": "M. Lorenzen",
+        "hour": "4:40 PM",
+        "awayName": "Orioles",
+        "awayPitcher": "B. Young",
+        "homeName": "Tigers",
+        "homePitcher": "C. Mize",
         "sport": "bsb"
     },
     {
         "hour": "4:45 PM",
-        "awayName": "Orioles",
-        "awayPitcher": "C. Povich",
+        "awayName": "Mets",
+        "awayPitcher": "K. Senga",
         "homeName": "Nationals",
-        "homePitcher": "M. Gore",
+        "homePitcher": "J. Irvin",
         "sport": "bsb"
     },
     {
-        "hour": "7:29 PM",
-        "awayName": "Pirates",
-        "awayPitcher": "C. Mlodzinski",
-        "homeName": "Angels",
-        "homePitcher": "T. Anderson",
+        "hour": "5:05 PM",
+        "awayName": "Blue Jays",
+        "awayPitcher": "J. Berrios",
+        "homeName": "Yankees",
+        "homePitcher": "C. Carrasco",
+        "sport": "bsb"
+    },
+    {
+        "hour": "5:10 PM",
+        "awayName": "Red Sox",
+        "awayPitcher": "T. Houck",
+        "homeName": "Guardians",
+        "homePitcher": "B. Lively",
+        "sport": "bsb"
+    },
+    {
+        "hour": "5:40 PM",
+        "awayName": "Angels",
+        "awayPitcher": "K. Hendricks",
+        "homeName": "Twins",
+        "homePitcher": "P. Lopez",
+        "sport": "bsb"
+    },
+    {
+        "hour": "5:40 PM",
+        "awayName": "Astros",
+        "awayPitcher": "H. Wesneski",
+        "homeName": "Royals",
+        "homePitcher": "S. Lugo",
+        "sport": "bsb"
+    },
+    {
+        "hour": "6:15 PM",
+        "awayName": "Brewers",
+        "awayPitcher": "C. Patrick",
+        "homeName": "Cardinals",
+        "homePitcher": "M. Liberatore",
+        "sport": "bsb"
+    },
+    {
+        "hour": "6:40 PM",
+        "awayName": "Reds",
+        "awayPitcher": "A. Abbott",
+        "homeName": "Rockies",
+        "homePitcher": "K. Freeland",
+        "sport": "bsb"
+    },
+    {
+        "hour": "7:40 PM",
+        "awayName": "Braves",
+        "awayPitcher": "C. Sale",
+        "homeName": "Diamondbacks",
+        "homePitcher": "Z. Gallen",
+        "sport": "bsb"
+    },
+    {
+        "hour": "7:40 PM",
+        "awayName": "Marlins",
+        "awayPitcher": "C. Quantrill",
+        "homeName": "Mariners",
+        "homePitcher": "L. Gilbert",
         "sport": "bsb"
     },
     {
         "hour": "7:40 PM",
         "awayName": "Rays",
-        "awayPitcher": "D. Rasmussen",
-        "homeName": "Diamondbacks",
-        "homePitcher": "C. Burnes",
+        "awayPitcher": "S. Baz",
+        "homeName": "Padres",
+        "homePitcher": "M. King",
         "sport": "bsb"
     },
     {
         "hour": "8:05 PM",
-        "awayName": "Rangers",
-        "awayPitcher": "J. deGrom",
+        "awayName": "White Sox",
+        "awayPitcher": "S. Burke",
         "homeName": "Athletics",
-        "homePitcher": "J.T. Ginn",
+        "homePitcher": "L. Severino",
+        "sport": "bsb"
+    },
+    {
+        "hour": "8:10 PM",
+        "awayName": "Pirates",
+        "awayPitcher": "P. Skenes",
+        "homeName": "Dodgers",
+        "homePitcher": "Y. Yamamoto",
+        "sport": "bsb"
+    },
+    {
+        "hour": "8:15 PM",
+        "awayName": "Rangers",
+        "awayPitcher": "N. Eovaldi",
+        "homeName": "Giants",
+        "homePitcher": "J. Verlander",
         "sport": "bsb"
     }
 ]
