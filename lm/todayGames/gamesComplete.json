@@ -1,0 +1,1606 @@
+[
+    {
+        "game": {
+            "id": "bf9838af-d249-4dc3-9864-f3203d17c34b",
+            "status": "scheduled",
+            "coverage": "full",
+            "game_number": 1,
+            "day_night": "D",
+            "scheduled": "2025-04-27T20:10:00+00:00",
+            "home_team": "ef64da7f-cfaf-4300-87b0-9313386b977c",
+            "away_team": "481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd",
+            "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+            "season_type": "REG",
+            "season_year": 2025,
+            "double_header": false,
+            "entry_mode": "STOMP",
+            "reference": "778145",
+            "time_zones": {
+                "venue": "US/Pacific",
+                "home": "US/Pacific",
+                "away": "US/Eastern"
+            },
+            "venue": {
+                "name": "Dodger Stadium",
+                "market": "Los Angeles",
+                "capacity": 56000,
+                "surface": "grass",
+                "address": "1000 Vin Scully Avenue",
+                "city": "Los Angeles",
+                "state": "CA",
+                "zip": "90012",
+                "country": "USA",
+                "id": "66a19c3d-24fe-477d-bee7-c6ef1b98352f",
+                "field_orientation": "NE",
+                "stadium_type": "outdoor",
+                "time_zone": "US/Pacific",
+                "location": {
+                    "lat": "34.0745409",
+                    "lng": "-118.2408881"
+                }
+            },
+            "broadcasts": [
+                {
+                    "network": "SportsNet LA",
+                    "type": "TV",
+                    "locale": "Home",
+                    "channel": "690"
+                },
+                {
+                    "network": "SportsNet PT",
+                    "type": "TV",
+                    "locale": "Away",
+                    "channel": "659"
+                }
+            ],
+            "home": {
+                "name": "Dodgers",
+                "market": "Los Angeles",
+                "abbr": "LAD",
+                "id": "ef64da7f-cfaf-4300-87b0-9313386b977c",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 16,
+                "loss": 10,
+                "probable_pitcher": {
+                    "preferred_name": "Tyler",
+                    "first_name": "Tyler",
+                    "last_name": "Glasnow",
+                    "jersey_number": "31",
+                    "id": "81125861-72f8-461c-b7c2-46fc460a7115",
+                    "full_name": "Tyler Glasnow",
+                    "win": 1,
+                    "loss": 0,
+                    "era": 3.706
+                }
+            },
+            "away": {
+                "name": "Pirates",
+                "market": "Pittsburgh",
+                "abbr": "PIT",
+                "id": "481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 11,
+                "loss": 16,
+                "probable_pitcher": {
+                    "preferred_name": "Bailey",
+                    "first_name": "Bailey",
+                    "last_name": "Falter",
+                    "jersey_number": "6",
+                    "id": "7815f286-f332-429b-9378-fa6234af5036",
+                    "full_name": "Bailey Falter",
+                    "win": 1,
+                    "loss": 2,
+                    "era": 5.192
+                }
+            }
+        }
+    },
+    {
+        "game": {
+            "id": "2e24f226-73a5-4a6f-91d9-fd097f4ec595",
+            "status": "scheduled",
+            "coverage": "full",
+            "game_number": 2,
+            "day_night": "D",
+            "scheduled": "2025-04-27T20:35:00+00:00",
+            "home_team": "a09ec676-f887-43dc-bbb3-cf4bbaee9a18",
+            "away_team": "1d678440-b4b1-4954-9b39-70afb3ebbcfa",
+            "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+            "season_type": "REG",
+            "season_year": 2025,
+            "double_header": true,
+            "entry_mode": "STOMP",
+            "reference": "778170",
+            "time_zones": {
+                "venue": "US/Eastern",
+                "home": "US/Eastern",
+                "away": "US/Eastern"
+            },
+            "venue": {
+                "name": "Yankee Stadium",
+                "market": "New York",
+                "capacity": 47309,
+                "surface": "grass",
+                "address": "One East 161st Street",
+                "city": "Bronx",
+                "state": "NY",
+                "zip": "10451",
+                "country": "USA",
+                "id": "706e9828-6687-4ac8-a409-3fb972e8bae9",
+                "field_orientation": "E",
+                "stadium_type": "outdoor",
+                "time_zone": "US/Eastern",
+                "location": {
+                    "lat": "40.8288189",
+                    "lng": "-73.9265691"
+                }
+            },
+            "broadcasts": [
+                {
+                    "network": "MLB Network",
+                    "type": "TV",
+                    "locale": "National",
+                    "channel": "213"
+                },
+                {
+                    "network": "SN1",
+                    "type": "TV",
+                    "locale": "Away"
+                },
+                {
+                    "network": "YES",
+                    "type": "TV",
+                    "locale": "Home",
+                    "channel": "631"
+                }
+            ],
+            "rescheduled": [
+                {
+                    "from": "2025-04-26T17:05:00+00:00",
+                    "reason": "postponed"
+                }
+            ],
+            "home": {
+                "name": "Yankees",
+                "market": "New York",
+                "abbr": "NYY",
+                "id": "a09ec676-f887-43dc-bbb3-cf4bbaee9a18",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 15,
+                "loss": 11,
+                "probable_pitcher": {
+                    "preferred_name": "Clarke",
+                    "first_name": "Clarke",
+                    "last_name": "Schmidt",
+                    "jersey_number": "36",
+                    "id": "98382676-6df3-4b1f-9bc8-8c2f1fd28621",
+                    "full_name": "Clarke Schmidt",
+                    "win": 0,
+                    "loss": 1,
+                    "era": 7.448
+                }
+            },
+            "away": {
+                "name": "Blue Jays",
+                "market": "Toronto",
+                "abbr": "TOR",
+                "id": "1d678440-b4b1-4954-9b39-70afb3ebbcfa",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 13,
+                "loss": 13,
+                "probable_pitcher": {
+                    "preferred_name": "Chris",
+                    "first_name": "Christopher",
+                    "last_name": "Bassitt",
+                    "jersey_number": "40",
+                    "id": "90fa044f-7148-414c-af09-e0d4eb621775",
+                    "full_name": "Chris Bassitt",
+                    "win": 2,
+                    "loss": 1,
+                    "era": 1.884
+                }
+            }
+        }
+    },
+    {
+        "game": {
+            "id": "904c3c71-70b7-4c2b-8348-66a11fa164ed",
+            "status": "scheduled",
+            "coverage": "full",
+            "game_number": 1,
+            "day_night": "D",
+            "scheduled": "2025-04-27T17:40:00+00:00",
+            "home_team": "aa34e0ed-f342-4ec6-b774-c79b47b60e2d",
+            "away_team": "4f735188-37c8-473d-ae32-1f7e34ccf892",
+            "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+            "season_type": "REG",
+            "season_year": 2025,
+            "double_header": false,
+            "entry_mode": "STOMP",
+            "reference": "778144",
+            "time_zones": {
+                "venue": "US/Central",
+                "home": "US/Central",
+                "away": "US/Pacific"
+            },
+            "venue": {
+                "name": "Target Field",
+                "market": "Minnesota",
+                "capacity": 38544,
+                "surface": "grass",
+                "address": "1 Twins Way",
+                "city": "Minneapolis",
+                "state": "MN",
+                "zip": "55403",
+                "country": "USA",
+                "id": "302f8dcd-eed6-4b83-8609-81548d51e955",
+                "field_orientation": "E",
+                "stadium_type": "outdoor",
+                "time_zone": "US/Central",
+                "location": {
+                    "lat": "44.981829",
+                    "lng": "-93.277891"
+                }
+            },
+            "broadcasts": [
+                {
+                    "network": "MNNT",
+                    "type": "Internet",
+                    "locale": "Home"
+                },
+                {
+                    "network": "FDSW",
+                    "type": "TV",
+                    "locale": "Away",
+                    "channel": "692"
+                }
+            ],
+            "home": {
+                "name": "Twins",
+                "market": "Minnesota",
+                "abbr": "MIN",
+                "id": "aa34e0ed-f342-4ec6-b774-c79b47b60e2d",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 11,
+                "loss": 16,
+                "probable_pitcher": {
+                    "preferred_name": "Joe",
+                    "first_name": "Joseph",
+                    "last_name": "Ryan",
+                    "jersey_number": "41",
+                    "id": "957523c6-5d2f-43f2-804f-a8dbb73c8c16",
+                    "full_name": "Joe Ryan",
+                    "win": 1,
+                    "loss": 2,
+                    "era": 4
+                }
+            },
+            "away": {
+                "name": "Angels",
+                "market": "Los Angeles",
+                "abbr": "LAA",
+                "id": "4f735188-37c8-473d-ae32-1f7e34ccf892",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 12,
+                "loss": 14,
+                "probable_pitcher": {
+                    "preferred_name": "José",
+                    "first_name": "José",
+                    "last_name": "Soriano",
+                    "jersey_number": "59",
+                    "id": "80ff939b-b430-4b28-b4fc-f3276b098af8",
+                    "full_name": "José Soriano",
+                    "win": 2,
+                    "loss": 3,
+                    "era": 4.345
+                }
+            }
+        }
+    },
+    {
+        "game": {
+            "id": "3e15e62a-5315-4bd9-99f6-7d131749c356",
+            "status": "scheduled",
+            "coverage": "full",
+            "game_number": 1,
+            "day_night": "D",
+            "scheduled": "2025-04-27T17:40:00+00:00",
+            "home_team": "575c19b7-4052-41c2-9f0a-1c5813d02f99",
+            "away_team": "75729d34-bca7-4a0f-b3df-6f26c6ad3719",
+            "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+            "season_type": "REG",
+            "season_year": 2025,
+            "double_header": false,
+            "entry_mode": "STOMP",
+            "reference": "778155",
+            "time_zones": {
+                "venue": "US/Eastern",
+                "home": "US/Eastern",
+                "away": "US/Eastern"
+            },
+            "venue": {
+                "name": "Comerica Park",
+                "market": "Detroit",
+                "capacity": 41083,
+                "surface": "grass",
+                "address": "2100 Woodward Avenue",
+                "city": "Detroit",
+                "state": "MI",
+                "zip": "48226",
+                "country": "USA",
+                "id": "ef9a5eef-06c6-4963-ac70-7fd02c8c8d42",
+                "field_orientation": "SE",
+                "stadium_type": "outdoor",
+                "time_zone": "US/Eastern",
+                "location": {
+                    "lat": "42.3391886",
+                    "lng": "-83.04947829999999"
+                }
+            },
+            "broadcasts": [
+                {
+                    "network": "MLB Network",
+                    "type": "TV",
+                    "locale": "National",
+                    "channel": "213"
+                },
+                {
+                    "network": "MASN2",
+                    "type": "TV",
+                    "locale": "Away",
+                    "channel": "640-1"
+                },
+                {
+                    "network": "FDSDET",
+                    "type": "TV",
+                    "locale": "Home",
+                    "channel": "663"
+                }
+            ],
+            "home": {
+                "name": "Tigers",
+                "market": "Detroit",
+                "abbr": "DET",
+                "id": "575c19b7-4052-41c2-9f0a-1c5813d02f99",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 17,
+                "loss": 10,
+                "probable_pitcher": {
+                    "preferred_name": "Tarik",
+                    "first_name": "Tarik",
+                    "last_name": "Skubal",
+                    "jersey_number": "29",
+                    "id": "22187b04-0bc4-4351-a0f6-d41013673cb6",
+                    "full_name": "Tarik Skubal",
+                    "win": 2,
+                    "loss": 2,
+                    "era": 2.826
+                }
+            },
+            "away": {
+                "name": "Orioles",
+                "market": "Baltimore",
+                "abbr": "BAL",
+                "id": "75729d34-bca7-4a0f-b3df-6f26c6ad3719",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 10,
+                "loss": 16,
+                "probable_pitcher": {
+                    "preferred_name": "Dean",
+                    "first_name": "Dean",
+                    "last_name": "Kremer",
+                    "jersey_number": "64",
+                    "id": "dba3e740-244b-487e-8122-2adc89c206f1",
+                    "full_name": "Dean Kremer",
+                    "win": 2,
+                    "loss": 3,
+                    "era": 6.84
+                }
+            }
+        }
+    },
+    {
+        "game": {
+            "id": "bb6b952e-485e-407e-8d1a-5a03d2182b9b",
+            "status": "scheduled",
+            "coverage": "full",
+            "game_number": 1,
+            "day_night": "D",
+            "scheduled": "2025-04-27T18:15:00+00:00",
+            "home_team": "44671792-dc02-4fdd-a5ad-f5f17edaa9d7",
+            "away_team": "dcfd5266-00ce-442c-bc09-264cd20cf455",
+            "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+            "season_type": "REG",
+            "season_year": 2025,
+            "double_header": false,
+            "entry_mode": "STOMP",
+            "reference": "778150",
+            "time_zones": {
+                "venue": "US/Central",
+                "home": "US/Central",
+                "away": "US/Central"
+            },
+            "venue": {
+                "name": "Busch Stadium",
+                "market": "St. Louis",
+                "capacity": 44494,
+                "surface": "grass",
+                "address": "700 Clark Street",
+                "city": "St. Louis",
+                "state": "MO",
+                "zip": "63102",
+                "country": "USA",
+                "id": "83cc591a-1096-4383-a6ca-e2bd6f8db629",
+                "field_orientation": "NE",
+                "stadium_type": "outdoor",
+                "time_zone": "US/Central",
+                "location": {
+                    "lat": "38.6226441",
+                    "lng": "-90.1928125"
+                }
+            },
+            "broadcasts": [
+                {
+                    "network": "FDSWI",
+                    "type": "TV",
+                    "locale": "Away",
+                    "channel": "669"
+                },
+                {
+                    "network": "FDSMWX",
+                    "type": "TV",
+                    "locale": "Home",
+                    "channel": "671-1"
+                }
+            ],
+            "home": {
+                "name": "Cardinals",
+                "market": "St. Louis",
+                "abbr": "STL",
+                "id": "44671792-dc02-4fdd-a5ad-f5f17edaa9d7",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 12,
+                "loss": 15,
+                "probable_pitcher": {
+                    "preferred_name": "Erick",
+                    "first_name": "Erick",
+                    "last_name": "Fedde",
+                    "jersey_number": "12",
+                    "id": "b484880b-790e-45a7-a751-2a03c01ec7ea",
+                    "full_name": "Erick Fedde",
+                    "win": 1,
+                    "loss": 2,
+                    "era": 3.333
+                }
+            },
+            "away": {
+                "name": "Brewers",
+                "market": "Milwaukee",
+                "abbr": "MIL",
+                "id": "dcfd5266-00ce-442c-bc09-264cd20cf455",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 13,
+                "loss": 15,
+                "probable_pitcher": {
+                    "preferred_name": "Jose",
+                    "first_name": "Jose",
+                    "last_name": "Quintana",
+                    "jersey_number": "62",
+                    "id": "b1e3b804-0022-40bc-8f53-8c82ee4eb1b9",
+                    "full_name": "Jose Quintana",
+                    "win": 3,
+                    "loss": 0,
+                    "era": 0.964
+                }
+            }
+        }
+    },
+    {
+        "game": {
+            "id": "e386568c-93a6-474a-9b5a-42708b2b626d",
+            "status": "scheduled",
+            "coverage": "full",
+            "game_number": 1,
+            "day_night": "N",
+            "scheduled": "2025-04-27T23:10:00+00:00",
+            "home_team": "55714da8-fcaf-4574-8443-59bfb511a524",
+            "away_team": "2142e1ba-3b40-445c-b8bb-f1f8b1054220",
+            "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+            "season_type": "REG",
+            "season_year": 2025,
+            "double_header": false,
+            "entry_mode": "STOMP",
+            "reference": "778158",
+            "time_zones": {
+                "venue": "US/Central",
+                "home": "US/Central",
+                "away": "US/Eastern"
+            },
+            "venue": {
+                "name": "Wrigley Field",
+                "market": "Chicago",
+                "capacity": 41363,
+                "surface": "grass",
+                "address": "1060 West Addison Street",
+                "city": "Chicago",
+                "state": "IL",
+                "zip": "60613",
+                "country": "USA",
+                "id": "53f8eb0d-a361-4a7a-930b-2f8735ea0698",
+                "field_orientation": "NE",
+                "stadium_type": "outdoor",
+                "time_zone": "US/Central",
+                "location": {
+                    "lat": "41.9474473",
+                    "lng": "-87.6560538"
+                }
+            },
+            "broadcasts": [
+                {
+                    "network": "ESPN",
+                    "type": "TV",
+                    "locale": "National",
+                    "channel": "206"
+                }
+            ],
+            "home": {
+                "name": "Cubs",
+                "market": "Chicago",
+                "abbr": "CHC",
+                "id": "55714da8-fcaf-4574-8443-59bfb511a524",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 17,
+                "loss": 11,
+                "probable_pitcher": {
+                    "preferred_name": "Jameson",
+                    "first_name": "Jameson",
+                    "last_name": "Taillon",
+                    "jersey_number": "50",
+                    "id": "0b4c4345-7609-4ab1-9aaa-41d56d7f1fda",
+                    "full_name": "Jameson Taillon",
+                    "win": 1,
+                    "loss": 1,
+                    "era": 4.725
+                }
+            },
+            "away": {
+                "name": "Phillies",
+                "market": "Philadelphia",
+                "abbr": "PHI",
+                "id": "2142e1ba-3b40-445c-b8bb-f1f8b1054220",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 14,
+                "loss": 13,
+                "probable_pitcher": {
+                    "preferred_name": "Aaron",
+                    "first_name": "Aaron",
+                    "last_name": "Nola",
+                    "jersey_number": "27",
+                    "id": "ded1b30d-52ca-4eec-bce6-251b15b085ac",
+                    "full_name": "Aaron Nola",
+                    "win": 0,
+                    "loss": 5,
+                    "era": 6.429
+                }
+            }
+        }
+    },
+    {
+        "game": {
+            "id": "f5ce4d64-27f4-4b6a-8410-59b03069e689",
+            "status": "scheduled",
+            "coverage": "full",
+            "game_number": 1,
+            "day_night": "D",
+            "scheduled": "2025-04-27T20:10:00+00:00",
+            "home_team": "43a39081-52b4-4f93-ad29-da7f329ea960",
+            "away_team": "03556285-bdbb-4576-a06d-42f71f46ddc5",
+            "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+            "season_type": "REG",
+            "season_year": 2025,
+            "double_header": false,
+            "entry_mode": "STOMP",
+            "reference": "778136",
+            "time_zones": {
+                "venue": "US/Pacific",
+                "home": "US/Pacific",
+                "away": "US/Eastern"
+            },
+            "venue": {
+                "name": "T-Mobile Park",
+                "market": "Seattle",
+                "capacity": 47929,
+                "surface": "grass",
+                "address": "1516 First Avenue South",
+                "city": "Seattle",
+                "state": "WA",
+                "zip": "98134",
+                "country": "USA",
+                "id": "f1c03dac-3c0f-437c-a325-8d5702cd321a",
+                "field_orientation": "NE",
+                "stadium_type": "retractable",
+                "time_zone": "US/Pacific",
+                "location": {
+                    "lat": "47.5899037",
+                    "lng": "-122.3337561"
+                }
+            },
+            "broadcasts": [
+                {
+                    "network": "FDSFL",
+                    "type": "TV",
+                    "locale": "Away",
+                    "channel": "654"
+                },
+                {
+                    "network": "ROOT Sports NW",
+                    "type": "TV",
+                    "locale": "Home",
+                    "channel": "687"
+                }
+            ],
+            "home": {
+                "name": "Mariners",
+                "market": "Seattle",
+                "abbr": "SEA",
+                "id": "43a39081-52b4-4f93-ad29-da7f329ea960",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 14,
+                "loss": 12,
+                "probable_pitcher": {
+                    "preferred_name": "Logan",
+                    "first_name": "Logan",
+                    "last_name": "Evans",
+                    "id": "cf6ab3eb-49ac-4fa1-a60b-8f3a8c2b8672",
+                    "full_name": "Logan Evans"
+                }
+            },
+            "away": {
+                "name": "Marlins",
+                "market": "Miami",
+                "abbr": "MIA",
+                "id": "03556285-bdbb-4576-a06d-42f71f46ddc5",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 12,
+                "loss": 13,
+                "probable_pitcher": {
+                    "preferred_name": "Max",
+                    "first_name": "Max",
+                    "last_name": "Meyer",
+                    "jersey_number": "23",
+                    "id": "a42f123a-4a4b-4af3-92f2-4fdea542680b",
+                    "full_name": "Max Meyer",
+                    "win": 2,
+                    "loss": 2,
+                    "era": 2.1
+                }
+            }
+        }
+    },
+    {
+        "game": {
+            "id": "dfd69cfd-8254-41c6-83d4-2a5b182679e1",
+            "status": "scheduled",
+            "coverage": "full",
+            "game_number": 1,
+            "day_night": "D",
+            "scheduled": "2025-04-27T20:05:00+00:00",
+            "home_team": "27a59d3b-ff7c-48ea-b016-4798f560f5e1",
+            "away_team": "47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8",
+            "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+            "season_type": "REG",
+            "season_year": 2025,
+            "double_header": false,
+            "entry_mode": "STOMP",
+            "reference": "778149",
+            "time_zones": {
+                "venue": "US/Pacific",
+                "home": "US/Pacific",
+                "away": "US/Central"
+            },
+            "venue": {
+                "name": "Sutter Health Park",
+                "market": "Athletics",
+                "capacity": 14014,
+                "surface": "grass",
+                "address": "400 Ballpark Drive",
+                "city": "West Sacramento",
+                "state": "CA",
+                "zip": "95691",
+                "country": "USA",
+                "id": "8bec37a2-c1d4-4134-a10f-53d2da5bbb2c",
+                "field_orientation": "NE",
+                "stadium_type": "outdoor",
+                "time_zone": "US/Pacific",
+                "location": {
+                    "lat": "38.579609",
+                    "lng": "-121.515038"
+                }
+            },
+            "broadcasts": [
+                {
+                    "network": "CHSN",
+                    "type": "TV",
+                    "locale": "Away",
+                    "channel": "665"
+                },
+                {
+                    "network": "NBCS-CA",
+                    "type": "TV",
+                    "locale": "Home",
+                    "channel": "698"
+                }
+            ],
+            "home": {
+                "name": "Athletics",
+                "abbr": "ATH",
+                "id": "27a59d3b-ff7c-48ea-b016-4798f560f5e1",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 13,
+                "loss": 14,
+                "probable_pitcher": {
+                    "preferred_name": "Osvaldo",
+                    "first_name": "Osvaldo",
+                    "last_name": "Bido",
+                    "jersey_number": "45",
+                    "id": "24fd467f-0330-4e16-aeee-7d99de324c97",
+                    "full_name": "Osvaldo Bido",
+                    "win": 2,
+                    "loss": 2,
+                    "era": 4.846
+                }
+            },
+            "away": {
+                "name": "White Sox",
+                "market": "Chicago",
+                "abbr": "CWS",
+                "id": "47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 7,
+                "loss": 20,
+                "probable_pitcher": {
+                    "preferred_name": "Davis",
+                    "first_name": "Davis",
+                    "last_name": "Martin",
+                    "jersey_number": "65",
+                    "id": "0e023e0b-9637-4333-aabd-b860488d7763",
+                    "full_name": "Davis Martin",
+                    "win": 1,
+                    "loss": 3,
+                    "era": 3.951
+                }
+            }
+        }
+    },
+    {
+        "game": {
+            "id": "49b5fbfe-055f-426d-930f-b12a89e5f06e",
+            "status": "scheduled",
+            "coverage": "full",
+            "game_number": 1,
+            "day_night": "D",
+            "scheduled": "2025-04-27T20:10:00+00:00",
+            "home_team": "25507be1-6a68-4267-bd82-e097d94b359b",
+            "away_team": "12079497-e414-450a-8bf2-29f91de646bf",
+            "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+            "season_type": "REG",
+            "season_year": 2025,
+            "double_header": false,
+            "entry_mode": "STOMP",
+            "reference": "778147",
+            "time_zones": {
+                "venue": "US/Arizona",
+                "home": "US/Arizona",
+                "away": "US/Eastern"
+            },
+            "venue": {
+                "name": "Chase Field",
+                "market": "Arizona",
+                "capacity": 48359,
+                "surface": "turf",
+                "address": "401 East Jefferson Street",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zip": "85004",
+                "country": "USA",
+                "id": "bf05de0d-7ced-4a19-8e17-2bbd985f8a92",
+                "field_orientation": "N",
+                "stadium_type": "retractable",
+                "time_zone": "US/Arizona",
+                "location": {
+                    "lat": "33.445302",
+                    "lng": "-112.066687"
+                }
+            },
+            "broadcasts": [
+                {
+                    "network": "ARID",
+                    "type": "Internet",
+                    "locale": "Home"
+                },
+                {
+                    "network": "FDSSO",
+                    "type": "TV",
+                    "locale": "Away",
+                    "channel": "646"
+                }
+            ],
+            "home": {
+                "name": "Diamondbacks",
+                "market": "Arizona",
+                "abbr": "AZ",
+                "id": "25507be1-6a68-4267-bd82-e097d94b359b",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 14,
+                "loss": 12,
+                "probable_pitcher": {
+                    "preferred_name": "Brandon",
+                    "first_name": "Brandon",
+                    "last_name": "Pfaadt",
+                    "jersey_number": "32",
+                    "id": "5f6e12b8-1a4b-4b56-ab3b-1b349c0cd614",
+                    "full_name": "Brandon Pfaadt",
+                    "win": 4,
+                    "loss": 1,
+                    "era": 2.73
+                }
+            },
+            "away": {
+                "name": "Braves",
+                "market": "Atlanta",
+                "abbr": "ATL",
+                "id": "12079497-e414-450a-8bf2-29f91de646bf",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 11,
+                "loss": 14,
+                "probable_pitcher": {
+                    "preferred_name": "Spencer",
+                    "first_name": "Spencer",
+                    "last_name": "Schwellenbach",
+                    "jersey_number": "56",
+                    "id": "5ca58873-9c77-4e87-bcdb-63b818a84864",
+                    "full_name": "Spencer Schwellenbach",
+                    "win": 1,
+                    "loss": 1,
+                    "era": 2.558
+                }
+            }
+        }
+    },
+    {
+        "game": {
+            "id": "c5f9ba71-bd3c-4498-ac46-7f17ed8f5cbb",
+            "status": "scheduled",
+            "coverage": "full",
+            "game_number": 1,
+            "day_night": "D",
+            "scheduled": "2025-04-27T17:35:00+00:00",
+            "home_team": "a09ec676-f887-43dc-bbb3-cf4bbaee9a18",
+            "away_team": "1d678440-b4b1-4954-9b39-70afb3ebbcfa",
+            "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+            "season_type": "REG",
+            "season_year": 2025,
+            "double_header": true,
+            "entry_mode": "STOMP",
+            "reference": "778156",
+            "time_zones": {
+                "venue": "US/Eastern",
+                "home": "US/Eastern",
+                "away": "US/Eastern"
+            },
+            "venue": {
+                "name": "Yankee Stadium",
+                "market": "New York",
+                "capacity": 47309,
+                "surface": "grass",
+                "address": "One East 161st Street",
+                "city": "Bronx",
+                "state": "NY",
+                "zip": "10451",
+                "country": "USA",
+                "id": "706e9828-6687-4ac8-a409-3fb972e8bae9",
+                "field_orientation": "E",
+                "stadium_type": "outdoor",
+                "time_zone": "US/Eastern",
+                "location": {
+                    "lat": "40.8288189",
+                    "lng": "-73.9265691"
+                }
+            },
+            "broadcasts": [
+                {
+                    "network": "YES",
+                    "type": "TV",
+                    "locale": "Home",
+                    "channel": "631"
+                },
+                {
+                    "network": "SN1",
+                    "type": "TV",
+                    "locale": "Away"
+                },
+                {
+                    "network": "MLB Network",
+                    "type": "TV",
+                    "locale": "National",
+                    "channel": "213"
+                }
+            ],
+            "home": {
+                "name": "Yankees",
+                "market": "New York",
+                "abbr": "NYY",
+                "id": "a09ec676-f887-43dc-bbb3-cf4bbaee9a18",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 15,
+                "loss": 11,
+                "probable_pitcher": {
+                    "preferred_name": "Max",
+                    "first_name": "Max",
+                    "last_name": "Fried",
+                    "jersey_number": "54",
+                    "id": "1e6d6727-0aec-48da-b880-d38a8178c5db",
+                    "full_name": "Max Fried",
+                    "win": 4,
+                    "loss": 0,
+                    "era": 1.421
+                }
+            },
+            "away": {
+                "name": "Blue Jays",
+                "market": "Toronto",
+                "abbr": "TOR",
+                "id": "1d678440-b4b1-4954-9b39-70afb3ebbcfa",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 13,
+                "loss": 13,
+                "probable_pitcher": {
+                    "preferred_name": "Kevin",
+                    "first_name": "Kevin",
+                    "last_name": "Gausman",
+                    "jersey_number": "34",
+                    "id": "cef2e01f-1349-4e31-bf1e-757ae8cb6bc6",
+                    "full_name": "Kevin Gausman",
+                    "win": 2,
+                    "loss": 2,
+                    "era": 3.16
+                }
+            }
+        }
+    },
+    {
+        "game": {
+            "id": "16f31670-d9f6-4ee5-8654-5d4412c84739",
+            "status": "scheduled",
+            "coverage": "full",
+            "game_number": 1,
+            "day_night": "D",
+            "scheduled": "2025-04-27T17:35:00+00:00",
+            "home_team": "d89bed32-3aee-4407-99e3-4103641b999a",
+            "away_team": "f246a5e5-afdb-479c-9aaa-c68beeda7af6",
+            "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+            "season_type": "REG",
+            "season_year": 2025,
+            "double_header": false,
+            "entry_mode": "STOMP",
+            "reference": "778153",
+            "time_zones": {
+                "venue": "US/Eastern",
+                "home": "US/Eastern",
+                "away": "US/Eastern"
+            },
+            "venue": {
+                "name": "Nationals Park",
+                "market": "Washington",
+                "capacity": 41376,
+                "surface": "grass",
+                "address": "1500 South Capitol Street SE",
+                "city": "Washington",
+                "state": "DC",
+                "zip": "20003",
+                "country": "USA",
+                "id": "bb062fb1-e268-412e-b3d2-2ddb6acc1822",
+                "field_orientation": "N",
+                "stadium_type": "outdoor",
+                "time_zone": "US/Eastern",
+                "location": {
+                    "lat": "38.8730933",
+                    "lng": "-77.0075727"
+                }
+            },
+            "broadcasts": [
+                {
+                    "network": "WPIX",
+                    "type": "TV",
+                    "locale": "Away"
+                },
+                {
+                    "network": "MASN2",
+                    "type": "TV",
+                    "locale": "Home",
+                    "channel": "640-1"
+                }
+            ],
+            "home": {
+                "name": "Nationals",
+                "market": "Washington",
+                "abbr": "WSH",
+                "id": "d89bed32-3aee-4407-99e3-4103641b999a",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 12,
+                "loss": 15,
+                "probable_pitcher": {
+                    "preferred_name": "Mitchell",
+                    "first_name": "Mitchell",
+                    "last_name": "Parker",
+                    "jersey_number": "70",
+                    "id": "3dafa2d3-e47c-4bf2-aff9-4efd6853e93d",
+                    "full_name": "Mitchell Parker",
+                    "win": 3,
+                    "loss": 1,
+                    "era": 1.392
+                }
+            },
+            "away": {
+                "name": "Mets",
+                "market": "New York",
+                "abbr": "NYM",
+                "id": "f246a5e5-afdb-479c-9aaa-c68beeda7af6",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 19,
+                "loss": 8,
+                "probable_pitcher": {
+                    "preferred_name": "Tylor",
+                    "first_name": "Tylor",
+                    "last_name": "Megill",
+                    "jersey_number": "38",
+                    "id": "75147a4e-9c8c-4f58-8b38-a4d2847ff108",
+                    "full_name": "Tylor Megill",
+                    "win": 3,
+                    "loss": 2,
+                    "era": 1.095
+                }
+            }
+        }
+    },
+    {
+        "game": {
+            "id": "e1f61a76-5b34-464a-a3d2-7ef2d1045e2c",
+            "status": "scheduled",
+            "coverage": "full",
+            "game_number": 1,
+            "day_night": "D",
+            "scheduled": "2025-04-27T17:40:00+00:00",
+            "home_team": "80715d0d-0d2a-450f-a970-1b9a3b18c7e7",
+            "away_team": "93941372-eb4c-4c40-aced-fe3267174393",
+            "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+            "season_type": "REG",
+            "season_year": 2025,
+            "double_header": false,
+            "entry_mode": "STOMP",
+            "reference": "778157",
+            "time_zones": {
+                "venue": "US/Eastern",
+                "home": "US/Eastern",
+                "away": "US/Eastern"
+            },
+            "venue": {
+                "name": "Progressive Field",
+                "market": "Cleveland",
+                "capacity": 34788,
+                "surface": "grass",
+                "address": "2401 Ontario Street",
+                "city": "Cleveland",
+                "state": "OH",
+                "zip": "44115",
+                "country": "USA",
+                "id": "2b0ccd49-4d87-4996-ac4d-27ffc7ee4c16",
+                "field_orientation": "N",
+                "stadium_type": "outdoor",
+                "time_zone": "US/Eastern",
+                "location": {
+                    "lat": "41.4957048",
+                    "lng": "-81.6852732"
+                }
+            },
+            "broadcasts": [
+                {
+                    "network": "CLEG",
+                    "type": "Internet",
+                    "locale": "Home"
+                },
+                {
+                    "network": "NESN",
+                    "type": "TV",
+                    "locale": "Away",
+                    "channel": "628"
+                }
+            ],
+            "home": {
+                "name": "Guardians",
+                "market": "Cleveland",
+                "abbr": "CLE",
+                "id": "80715d0d-0d2a-450f-a970-1b9a3b18c7e7",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 15,
+                "loss": 11,
+                "probable_pitcher": {
+                    "preferred_name": "Logan",
+                    "first_name": "Logan",
+                    "last_name": "Allen",
+                    "jersey_number": "26",
+                    "id": "64e072d2-dbcb-499d-8e08-ff2046272ffe",
+                    "full_name": "Logan Allen",
+                    "win": 1,
+                    "loss": 1,
+                    "era": 2.109
+                }
+            },
+            "away": {
+                "name": "Red Sox",
+                "market": "Boston",
+                "abbr": "BOS",
+                "id": "93941372-eb4c-4c40-aced-fe3267174393",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 15,
+                "loss": 14,
+                "probable_pitcher": {
+                    "preferred_name": "Brayan",
+                    "first_name": "Brayan",
+                    "last_name": "Bello",
+                    "jersey_number": "66",
+                    "id": "3c5c48e4-cdc8-43e1-8239-a15e78677139",
+                    "full_name": "Brayan Bello",
+                    "win": 1,
+                    "loss": 0,
+                    "era": 1.8
+                }
+            }
+        }
+    },
+    {
+        "game": {
+            "id": "e77734e9-6285-49f3-bbf0-5878ef3ef4d1",
+            "status": "scheduled",
+            "coverage": "full",
+            "game_number": 1,
+            "day_night": "D",
+            "scheduled": "2025-04-27T20:05:00+00:00",
+            "home_team": "a7723160-10b7-4277-a309-d8dd95a8ae65",
+            "away_team": "d99f919b-1534-4516-8e8a-9cd106c6d8cd",
+            "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+            "season_type": "REG",
+            "season_year": 2025,
+            "double_header": false,
+            "entry_mode": "STOMP",
+            "reference": "778151",
+            "time_zones": {
+                "venue": "US/Pacific",
+                "home": "US/Pacific",
+                "away": "US/Central"
+            },
+            "venue": {
+                "name": "Oracle Park",
+                "market": "San Francisco",
+                "capacity": 41915,
+                "surface": "grass",
+                "address": "24 Willie Mays Plaza",
+                "city": "San Francisco",
+                "state": "CA",
+                "zip": "94107",
+                "country": "USA",
+                "id": "2d7542f5-7b80-49f7-9b24-c53ffdc75af6",
+                "field_orientation": "E",
+                "stadium_type": "outdoor",
+                "time_zone": "US/Pacific",
+                "location": {
+                    "lat": "37.7784199",
+                    "lng": "-122.3906212"
+                }
+            },
+            "broadcasts": [
+                {
+                    "network": "NBCS-BA",
+                    "type": "TV",
+                    "locale": "Home",
+                    "channel": "696"
+                },
+                {
+                    "network": "RSN",
+                    "type": "TV",
+                    "locale": "Away"
+                }
+            ],
+            "home": {
+                "name": "Giants",
+                "market": "San Francisco",
+                "abbr": "SF",
+                "id": "a7723160-10b7-4277-a309-d8dd95a8ae65",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 18,
+                "loss": 10,
+                "probable_pitcher": {
+                    "preferred_name": "Jordan",
+                    "first_name": "Jordan",
+                    "last_name": "Hicks",
+                    "jersey_number": "12",
+                    "id": "b6064f09-31ae-4d05-832c-2f4c4043c7cb",
+                    "full_name": "Jordan Hicks",
+                    "win": 1,
+                    "loss": 3,
+                    "era": 6.585
+                }
+            },
+            "away": {
+                "name": "Rangers",
+                "market": "Texas",
+                "abbr": "TEX",
+                "id": "d99f919b-1534-4516-8e8a-9cd106c6d8cd",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 15,
+                "loss": 12,
+                "probable_pitcher": {
+                    "preferred_name": "Jack",
+                    "first_name": "Jack",
+                    "last_name": "Leiter",
+                    "jersey_number": "35",
+                    "id": "b0f5adac-7d23-4a81-97e5-06d31d3b9a0a",
+                    "full_name": "Jack Leiter",
+                    "win": 2,
+                    "loss": 0,
+                    "era": 0.9
+                }
+            }
+        }
+    },
+    {
+        "game": {
+            "id": "a34484dd-057c-4f76-8e88-a259d5be5057",
+            "status": "scheduled",
+            "coverage": "full",
+            "game_number": 1,
+            "day_night": "D",
+            "scheduled": "2025-04-27T18:10:00+00:00",
+            "home_team": "833a51a9-0d84-410f-bd77-da08c3e5e26e",
+            "away_team": "eb21dadd-8f10-4095-8bf3-dfb3b779f107",
+            "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+            "season_type": "REG",
+            "season_year": 2025,
+            "double_header": false,
+            "entry_mode": "STOMP",
+            "reference": "778152",
+            "time_zones": {
+                "venue": "US/Central",
+                "home": "US/Central",
+                "away": "US/Central"
+            },
+            "venue": {
+                "name": "Kauffman Stadium",
+                "market": "Kansas City",
+                "capacity": 38427,
+                "surface": "grass",
+                "address": "One Royal Way",
+                "city": "Kansas City",
+                "state": "MO",
+                "zip": "64129",
+                "country": "USA",
+                "id": "6fca95c9-7f2c-4acb-a9f3-02ef96340d2a",
+                "field_orientation": "NE",
+                "stadium_type": "outdoor",
+                "time_zone": "US/Central",
+                "location": {
+                    "lat": "39.051465",
+                    "lng": "-94.48028889999999"
+                }
+            },
+            "broadcasts": [
+                {
+                    "network": "SCHN",
+                    "type": "TV",
+                    "locale": "Away",
+                    "channel": "674"
+                },
+                {
+                    "network": "FDSKC",
+                    "type": "TV",
+                    "locale": "Home",
+                    "channel": "671-5"
+                }
+            ],
+            "home": {
+                "name": "Royals",
+                "market": "Kansas City",
+                "abbr": "KC",
+                "id": "833a51a9-0d84-410f-bd77-da08c3e5e26e",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 14,
+                "loss": 14,
+                "probable_pitcher": {
+                    "preferred_name": "Kris",
+                    "first_name": "Kristofer",
+                    "last_name": "Bubic",
+                    "jersey_number": "50",
+                    "id": "96604b45-657d-4b2d-987d-794d842219b6",
+                    "full_name": "Kris Bubic",
+                    "win": 2,
+                    "loss": 1,
+                    "era": 1.452
+                }
+            },
+            "away": {
+                "name": "Astros",
+                "market": "Houston",
+                "abbr": "HOU",
+                "id": "eb21dadd-8f10-4095-8bf3-dfb3b779f107",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 13,
+                "loss": 13,
+                "probable_pitcher": {
+                    "preferred_name": "Hunter",
+                    "first_name": "Hunter",
+                    "last_name": "Brown",
+                    "jersey_number": "58",
+                    "id": "7ba58155-1133-4f26-be65-9ce443e3fedc",
+                    "full_name": "Hunter Brown",
+                    "win": 3,
+                    "loss": 1,
+                    "era": 1.161
+                }
+            }
+        }
+    },
+    {
+        "game": {
+            "id": "c3df7a81-4bb5-44b5-bc97-c1de89c62ceb",
+            "status": "scheduled",
+            "coverage": "full",
+            "game_number": 1,
+            "day_night": "D",
+            "scheduled": "2025-04-27T19:10:00+00:00",
+            "home_team": "29dd9a87-5bcc-4774-80c3-7f50d985068b",
+            "away_team": "c874a065-c115-4e7d-b0f0-235584fb0e6f",
+            "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+            "season_type": "REG",
+            "season_year": 2025,
+            "double_header": false,
+            "entry_mode": "STOMP",
+            "reference": "778148",
+            "time_zones": {
+                "venue": "US/Mountain",
+                "home": "US/Mountain",
+                "away": "US/Eastern"
+            },
+            "venue": {
+                "name": "Coors Field",
+                "market": "Colorado",
+                "capacity": 50144,
+                "surface": "grass",
+                "address": "2001 Blake Street",
+                "city": "Denver",
+                "state": "CO",
+                "zip": "80205",
+                "country": "USA",
+                "id": "85dd5cd6-7324-4b52-a1cc-68f816d0cdce",
+                "field_orientation": "N",
+                "stadium_type": "outdoor",
+                "time_zone": "US/Mountain",
+                "location": {
+                    "lat": "39.7559779",
+                    "lng": "-104.9933491"
+                }
+            },
+            "broadcasts": [
+                {
+                    "network": "FDSOH",
+                    "type": "TV",
+                    "locale": "Away",
+                    "channel": "660"
+                },
+                {
+                    "network": "COLR",
+                    "type": "Internet",
+                    "locale": "Home"
+                }
+            ],
+            "home": {
+                "name": "Rockies",
+                "market": "Colorado",
+                "abbr": "COL",
+                "id": "29dd9a87-5bcc-4774-80c3-7f50d985068b",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 4,
+                "loss": 22,
+                "probable_pitcher": {
+                    "preferred_name": "Ryan",
+                    "first_name": "Ryan",
+                    "last_name": "Feltner",
+                    "jersey_number": "18",
+                    "id": "87dfe721-2290-44ac-a106-0aa9e676bfbd",
+                    "full_name": "Ryan Feltner",
+                    "win": 0,
+                    "loss": 1,
+                    "era": 3.857
+                }
+            },
+            "away": {
+                "name": "Reds",
+                "market": "Cincinnati",
+                "abbr": "CIN",
+                "id": "c874a065-c115-4e7d-b0f0-235584fb0e6f",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 14,
+                "loss": 13,
+                "probable_pitcher": {
+                    "preferred_name": "Nick",
+                    "first_name": "Nicholas",
+                    "last_name": "Lodolo",
+                    "jersey_number": "40",
+                    "id": "41e728a7-d25d-4752-abc2-1a9708be7117",
+                    "full_name": "Nick Lodolo",
+                    "win": 2,
+                    "loss": 2,
+                    "era": 2.793
+                }
+            }
+        }
+    },
+    {
+        "game": {
+            "id": "32dec50f-6ab9-46f3-9da2-55e52559b912",
+            "status": "scheduled",
+            "coverage": "full",
+            "game_number": 1,
+            "day_night": "D",
+            "scheduled": "2025-04-27T20:10:00+00:00",
+            "home_team": "d52d5339-cbdd-43f3-9dfa-a42fd588b9a3",
+            "away_team": "bdc11650-6f74-49c4-875e-778aeb7632d9",
+            "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+            "season_type": "REG",
+            "season_year": 2025,
+            "double_header": false,
+            "entry_mode": "STOMP",
+            "reference": "778146",
+            "time_zones": {
+                "venue": "US/Pacific",
+                "home": "US/Pacific",
+                "away": "US/Eastern"
+            },
+            "venue": {
+                "name": "PETCO Park",
+                "market": "San Diego",
+                "capacity": 40222,
+                "surface": "grass",
+                "address": "100 Park Boulevard",
+                "city": "San Diego",
+                "state": "CA",
+                "zip": "92101",
+                "country": "USA",
+                "id": "0ab45d79-5475-4308-9f94-74b0c185ee6f",
+                "field_orientation": "N",
+                "stadium_type": "outdoor",
+                "time_zone": "US/Pacific",
+                "location": {
+                    "lat": "32.70752890000001",
+                    "lng": "-117.1568083"
+                }
+            },
+            "broadcasts": [
+                {
+                    "network": "SDPA",
+                    "type": "Internet",
+                    "locale": "Home"
+                },
+                {
+                    "network": "FDSSUN",
+                    "type": "TV",
+                    "locale": "Away",
+                    "channel": "653"
+                }
+            ],
+            "home": {
+                "name": "Padres",
+                "market": "San Diego",
+                "abbr": "SD",
+                "id": "d52d5339-cbdd-43f3-9dfa-a42fd588b9a3",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 17,
+                "loss": 9,
+                "probable_pitcher": {
+                    "preferred_name": "Randy",
+                    "first_name": "Randy",
+                    "last_name": "Vásquez",
+                    "jersey_number": "98",
+                    "id": "766649ef-3ac0-4883-ada3-9d73320cf876",
+                    "full_name": "Randy Vásquez",
+                    "win": 1,
+                    "loss": 2,
+                    "era": 3.971
+                }
+            },
+            "away": {
+                "name": "Rays",
+                "market": "Tampa Bay",
+                "abbr": "TB",
+                "id": "bdc11650-6f74-49c4-875e-778aeb7632d9",
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "win": 12,
+                "loss": 14,
+                "probable_pitcher": {
+                    "preferred_name": "Zack",
+                    "first_name": "Zack",
+                    "last_name": "Littell",
+                    "jersey_number": "52",
+                    "id": "fe0fc487-45d3-4178-9fd7-6c00025aff7e",
+                    "full_name": "Zack Littell",
+                    "win": 0,
+                    "loss": 5,
+                    "era": 5.276
+                }
+            }
+        }
+    }
+]
