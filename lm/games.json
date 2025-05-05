@@ -1,147 +1,98 @@
 [
     {
-        "hour": "2025-05-04T17:15:00+00:00",
-        "awayName": "Mets",
-        "awayPitcher": "Blade Tidwell",
-        "homeName": "Cardinals",
-        "homePitcher": "Erick Fedde",
-        "sport": "bsb"
-    },
-
-    {
-        "hour": "2025-05-04T17:35:00+00:00",
-        "awayName": "Royals",
-        "awayPitcher": "Michael Lorenzen",
-        "homeName": "Orioles",
-        "homePitcher": "Kyle Gibson",
-        "sport": "bsb"
-    },
-    {
-        "hour": "2025-05-04T17:35:00+00:00",
-        "awayName": "Twins",
-        "awayPitcher": "Chris Paddack",
-        "homeName": "Red Sox",
-        "homePitcher": "Garrett Crochet",
-        "sport": "bsb"
-    },
-    {
-        "hour": "2025-05-04T17:35:00+00:00",
-        "awayName": "Padres",
-        "awayPitcher": "Stephen Kolek",
-        "homeName": "Pirates",
-        "homePitcher": "Andrew Heaney",
-        "sport": "bsb"
-    },
-    {
-        "hour": "2025-05-04T17:35:00+00:00",
-        "awayName": "Rays",
-        "awayPitcher": "Taj Bradley",
-        "homeName": "Yankees",
-        "homePitcher": "Will Warren",
-        "sport": "bsb"
-    },
-
-    {
-        "hour": "2025-05-04T17:37:00+00:00",
-        "awayName": "Guardians",
-        "awayPitcher": "Tanner Bibee",
-        "homeName": "Blue Jays",
-        "homePitcher": "Bowden Francis",
-        "sport": "bsb"
-    },
-    {
-        "hour": "2025-05-04T17:40:00+00:00",
-        "awayName": "Athletics",
-        "awayPitcher": "JP Sears",
-        "homeName": "Marlins",
-        "homePitcher": "Edward Cabrera",
-        "sport": "bsb"
-    },
-
-
-    {
-        "hour": "2025-05-04T18:05:00+00:00",
-        "awayName": "Diamondbacks",
-        "awayPitcher": "Eduardo Rodriguez",
-        "homeName": "Phillies",
-        "homePitcher": "Ranger Suárez",
-        "sport": "bsb"
-    },
-    {
-        "hour": "2025-05-04T18:10:00+00:00",
-        "awayName": "Cubs",
-        "awayPitcher": "Shota Imanaga",
-        "homeName": "Brewers",
-        "homePitcher": "Freddy Peralta",
-        "sport": "bsb"
-    },
-    {
-        "hour": "2025-05-04T18:10:00+00:00",
-        "awayName": "Astros",
-        "awayPitcher": "Lance McCullers Jr.",
-        "homeName": "White Sox",
-        "homePitcher": "Bryse Wilson",
-        "sport": "bsb"
-    },
-
-
-
-
-    {
-        "hour": "2025-05-04T18:35:00+00:00",
-        "awayName": "Mariners",
-        "awayPitcher": "Logan Evans",
-        "homeName": "Rangers",
-        "homePitcher": "Jacob deGrom",
-        "sport": "bsb"
-    },
-
-
-    {
-        "hour": "2025-05-04T20:05:00+00:00",
-        "awayName": "Rockies",
-        "awayPitcher": "Germán Márquez",
-        "homeName": "Giants",
-        "homePitcher": "Logan Webb",
-        "sport": "bsb"
-    },
-
-
-    {
-        "hour": "2025-05-04T20:07:00+00:00",
-        "awayName": "Tigers",
-        "awayPitcher": "Reese Olson",
-        "homeName": "Angels",
-        "homePitcher": "Jack Kochanowicz",
-        "sport": "bsb"
-    },
-    {
-        "hour": "2025-05-04T20:10:00+00:00",
-        "awayName": "Nationals",
-        "awayPitcher": "MacKenzie Gore",
-        "homeName": "Reds",
-        "homePitcher": "Nick Martinez",
-        "sport": "bsb"
-    },
-
-
-
-    {
-        "hour": "2025-05-04T22:15:00+00:00",
-        "awayName": "Mets",
-        "awayPitcher": "Tylor Megill",
-        "homeName": "Cardinals",
-        "homePitcher": "Andre Pallante",
-        "sport": "bsb"
-    },
-
-    {
-        "hour": "2025-05-04T23:10:00+00:00",
+        "hour": "16:40",
         "awayName": "Dodgers",
-        "awayPitcher": "Dustin May",
+        "awayPitcher": "Ben Casparius",
+        "homeName": "Marlins",
+        "homePitcher": "Sandy Alcantara",
+        "sport": "bsb"
+    },
+    {
+        "hour": "16:45",
+        "awayName": "Guardians",
+        "awayPitcher": "Luis L. Ortiz",
+        "homeName": "Nationals",
+        "homePitcher": "Jake Irvin",
+        "sport": "bsb"
+    },
+    {
+        "hour": "17:05",
+        "awayName": "Padres",
+        "awayPitcher": "Nick Pivetta",
+        "homeName": "Yankees",
+        "homePitcher": "Carlos Rodón",
+        "sport": "bsb"
+    },
+    {
+        "hour": "17:15",
+        "awayName": "Reds",
+        "awayPitcher": "Brady Singer",
         "homeName": "Braves",
-        "homePitcher": "Bryce Elder",
+        "homePitcher": "AJ Smith-Shawver",
+        "sport": "bsb"
+    },
+    {
+        "hour": "17:40",
+        "awayName": "White Sox",
+        "awayPitcher": "Shane Smith",
+        "homeName": "Royals",
+        "homePitcher": "Cole Ragans",
+        "sport": "bsb"
+    },
+
+    {
+        "hour": "17:40",
+        "awayName": "Astros",
+        "awayPitcher": "Ronel Blanco",
+        "homeName": "Brewers",
+        "homePitcher": "Tobias Myers",
+        "sport": "bsb"
+    },
+
+    {
+        "hour": "17:40",
+        "awayName": "Giants",
+        "awayPitcher": "Landen Roupp",
+        "homeName": "Cubs",
+        "homePitcher": "Matthew Boyd",
+        "sport": "bsb"
+    },
+
+
+
+
+
+    {
+        "hour": "17:45",
+        "awayName": "Pirates",
+        "awayPitcher": "Carmen Mlodzinski",
+        "homeName": "Cardinals",
+        "homePitcher": "Miles Mikolas",
+        "sport": "bsb"
+    },
+
+    {
+        "hour": "19:40",
+        "awayName": "Mets",
+        "awayPitcher": "Griffin Canning",
+        "homeName": "Diamondbacks",
+        "homePitcher": "Ryne Nelson",
+        "sport": "bsb"
+    },
+
+
+
+
+ 
+
+ 
+    
+    {
+        "hour": "20:05",
+        "awayName": "Mariners",
+        "awayPitcher": "Bryce Miller",
+        "homeName": "Athletics",
+        "homePitcher": "Luis Severino",
         "sport": "bsb"
     }
-
 ]
