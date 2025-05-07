@@ -1,118 +1,95 @@
 [
     {
-        "hour": "2025-05-06T23:05:00+00:00",
-        "awayName": "Phillies",
-        "awayPitcher": "Zack Wheeler",
-        "homeName": "Rays",
-        "homePitcher": "Drew Rasmussen",
-        "sport": "bsb"
-    },
-    {
-        "hour": "2025-05-06T23:40:00+00:00",
-        "awayName": "Orioles",
-        "awayPitcher": "Cade Povich",
-        "homeName": "Twins",
-        "homePitcher": "Pablo López",
-        "sport": "bsb"
-    },
-    {
-        "hour": "2025-05-07T01:38:00+00:00",
-        "awayName": "Blue Jays",
-        "awayPitcher": "José Ureña",
-        "homeName": "Angels",
-        "homePitcher": "Tyler Anderson",
-        "sport": "bsb"
-    },
-    {
-        "hour": "2025-05-07T01:40:00+00:00",
-        "awayName": "Mets",
-        "awayPitcher": "David Peterson",
-        "homeName": "Diamondbacks",
-        "homePitcher": "Zac Gallen",
-        "sport": "bsb"
-    },
-    {
-        "hour": "2025-05-06T23:15:00+00:00",
-        "awayName": "Reds",
-        "awayPitcher": "Andrew Abbott",
-        "homeName": "Braves",
-        "homePitcher": "Chris Sale",
-        "sport": "bsb"
-    },
-    {
-        "hour": "2025-05-06T22:45:00+00:00",
-        "awayName": "Rangers",
-        "awayPitcher": "Nathan Eovaldi",
-        "homeName": "Red Sox",
-        "homePitcher": "Lucas Giolito",
-        "sport": "bsb"
-    },
-    {
-        "hour": "2025-05-06T19:35:00+00:00",
-        "awayName": "Guardians",
-        "awayPitcher": "Luis Ortiz",
-        "homeName": "Nationals",
-        "homePitcher": "Jake Irvin",
-        "sport": "bsb"
-    },
-    {
-        "hour": "2025-05-06T22:40:00+00:00",
-        "awayName": "Dodgers",
-        "awayPitcher": "Tony Gonsolin",
-        "homeName": "Marlins",
-        "homePitcher": "Cal Quantrill",
-        "sport": "bsb"
-    },
-    {
-        "hour": "2025-05-06T23:45:00+00:00",
-        "awayName": "Pirates",
-        "awayPitcher": "Paul Skenes",
-        "homeName": "Cardinals",
-        "homePitcher": "Matthew Liberatore",
-        "sport": "bsb"
-    },
-    {
-        "hour": "2025-05-06T23:40:00+00:00",
-        "awayName": "Giants",
-        "awayPitcher": "Justin Verlander",
-        "homeName": "Cubs",
-        "homePitcher": "Colin Rea",
-        "sport": "bsb"
-    },
-    {
-        "hour": "2025-05-06T23:40:00+00:00",
+        "hour": "2025-05-07T17:10:00+00:00",
         "awayName": "Astros",
-        "awayPitcher": "Hayden Wesneski",
+        "awayPitcher": "Framber Valdez",
         "homeName": "Brewers",
-        "homePitcher": "Chad Patrick",
+        "homePitcher": "Quinn Priester",
         "sport": "bsb"
     },
     {
-        "hour": "2025-05-06T23:40:00+00:00",
+        "hour": "2025-05-07T17:15:00+00:00",
+        "awayName": "Pirates",
+        "awayPitcher": "Mitch Keller",
+        "homeName": "Cardinals",
+        "homePitcher": "Sonny Gray",
+        "sport": "bsb"
+    },
+    {
+        "hour": "2025-05-07T23:40:00+00:00",
         "awayName": "White Sox",
-        "awayPitcher": "Sean Burke",
+        "awayPitcher": "Jonathan Cannon",
         "homeName": "Royals",
-        "homePitcher": "Seth Lugo",
+        "homePitcher": "Michael Wacha",
+        "sport": "bsb"
+    },
+
+    {
+        "hour": "2025-05-07T18:20:00+00:00",
+        "awayName": "Giants",
+        "awayPitcher": "Robbie Ray",
+        "homeName": "Cubs",
+        "homePitcher": "Ben Brown",
         "sport": "bsb"
     },
     {
-        "hour": "2025-05-07T02:05:00+00:00",
-        "awayName": "Mariners",
-        "awayPitcher": "Emerson Hancock",
-        "homeName": "Athletics",
-        "homePitcher": "Jeffrey Springs",
-        "sport": "bsb"
-    },
-    {
-        "hour": "2025-05-06T23:05:00+00:00",
+        "hour": "2025-05-07T23:05:00+00:00",
         "awayName": "Padres",
-        "awayPitcher": "Michael King",
+        "awayPitcher": "Dylan Cease",
         "homeName": "Yankees",
-        "homePitcher": "Clarke Schmidt",
+        "homePitcher": "Max Fried",
         "sport": "bsb"
     },
     {
-        "hour": "2025-05-07T00:40:00+00:00",
+        "hour": "2025-05-07T19:40:00+00:00",
+        "awayName": "Mets",
+        "awayPitcher": "Kodai Senga",
+        "homeName": "Diamondbacks",
+        "homePitcher": "Merrill Kelly",
+        "sport": "bsb"
+    },
+    {
+        "hour": "2025-05-07T23:15:00+00:00",
+        "awayName": "Reds",
+        "awayPitcher": "Hunter Greene",
+        "homeName": "Braves",
+        "homePitcher": "Grant Holmes",
+        "sport": "bsb"
+    },
+    {
+        "hour": "2025-05-07T22:45:00+00:00",
+        "awayName": "Rangers",
+        "awayPitcher": "Tyler Mahle",
+        "homeName": "Red Sox",
+        "homePitcher": "Tanner Houck",
+        "sport": "bsb"
+    },
+    {
+        "hour": "2025-05-07T19:35:00+00:00",
+        "awayName": "Mariners",
+        "awayPitcher": "Bryan Woo",
+        "homeName": "Athletics",
+        "homePitcher": "Gunnar Hoglund",
+        "sport": "bsb"
+    },
+    {
+        "hour": "2025-05-07T23:40:00+00:00",
+        "awayName": "Orioles",
+        "awayPitcher": "Charlie Morton",
+        "homeName": "Twins",
+        "homePitcher": "Simeon Woods Richardson",
+        "sport": "bsb"
+    },
+    {
+        "hour": "2025-05-07T20:40:00+00:00",
+        "awayName": "Dodgers",
+        "awayPitcher": "Landon Knack",
+        "homeName": "Marlins",
+        "homePitcher": "Valente Bellozo",
+        "sport": "bsb"
+    },
+    {
+        "hour": "2025-05-08T00:40:00+00:00",
         "awayName": "Tigers",
         "awayPitcher": "Jackson Jobe",
         "homeName": "Rockies",
@@ -120,11 +97,19 @@
         "sport": "bsb"
     },
     {
-        "hour": "2025-05-06T22:35:00+00:00",
-        "awayName": "Guardians",
-        "awayPitcher": "Ben Lively",
-        "homeName": "Nationals",
-        "homePitcher": "Brad Lord",
+        "hour": "2025-05-07T23:05:00+00:00",
+        "awayName": "Phillies",
+        "awayPitcher": "Cristopher Sanchez",
+        "homeName": "Rays",
+        "homePitcher": "Shane Baz",
+        "sport": "bsb"
+    },
+    {
+        "hour": "2025-05-08T01:38:00+00:00",
+        "awayName": "Blue Jays",
+        "awayPitcher": "José Berríos",
+        "homeName": "Angels",
+        "homePitcher": "Yusei Kikuchi",
         "sport": "bsb"
     }
 ]
