@@ -1,1 +1,3671 @@
-{"league":{"alias":"MLB","name":"Major League Baseball","id":"2fa448bc-fc17-4d3d-be03-e60e080fdc26","date":"2025-05-09","games":[{"game":{"id":"e78d7b35-f187-4d6f-b8be-8ce2cf5ebf6f","status":"inprogress","coverage":"full","game_number":1,"day_night":"N","scheduled":"2025-05-09T23:10:00+00:00","home_team":"80715d0d-0d2a-450f-a970-1b9a3b18c7e7","away_team":"2142e1ba-3b40-445c-b8bb-f1f8b1054220","season_id":"a91f72a5-9812-4acd-b3fd-482cb31468cd","season_type":"REG","season_year":2025,"double_header":false,"entry_mode":"STOMP","reference":"777997","time_zones":{"venue":"US/Eastern","home":"US/Eastern","away":"US/Eastern"},"venue":{"name":"Progressive Field","market":"Cleveland","capacity":34788,"surface":"grass","address":"2401 Ontario Street","city":"Cleveland","state":"OH","zip":"44115","country":"USA","id":"2b0ccd49-4d87-4996-ac4d-27ffc7ee4c16","field_orientation":"N","stadium_type":"outdoor","time_zone":"US/Eastern","location":{"lat":"41.4957048","lng":"-81.6852732"}},"broadcasts":[{"network":"NBCS-PH","type":"TV","locale":"Away"},{"network":"CLEG","type":"Internet","locale":"Home"}],"weather":{"forecast":{"temp_f":55,"condition":"Sunny","humidity":51,"dew_point_f":37,"cloud_cover":0,"obs_time":"2025-05-10T00:06:20.000+00:00","wind":{"speed_mph":7,"direction":"NW"}},"current_conditions":{"temp_f":55,"condition":"Sunny","humidity":51,"dew_point_f":37,"cloud_cover":0,"obs_time":"2025-05-10T00:06:20.000+00:00","wind":{"speed_mph":7,"direction":"NW"}}},"outcome":{"type":"steal","current_inning":4,"current_inning_half":"T","count":{"balls":0,"strikes":1,"outs":2,"inning":4,"inning_half":"T","half_over":false},"hitter":{"preferred_name":"Alec","first_name":"Alec","last_name":"Bohm","jersey_number":"28","id":"93102f45-b65e-4512-bb76-c6ca023dc7db","full_name":"Alec Bohm","ab_over":false},"pitcher":{"preferred_name":"Gavin","first_name":"Gavin","last_name":"Williams","jersey_number":"32","id":"59085c2a-d957-4bb4-8d7e-295419b7254d","full_name":"Gavin Williams"},"runners":[{"preferred_name":"Max","first_name":"Maximilian","last_name":"Kepler","jersey_number":"17","id":"a16f6afb-dbff-42ad-9621-52b769d2f224","full_name":"Max Kepler","outcome_id":"CK","starting_base":1,"ending_base":1,"out":false}]},"home":{"name":"Guardians","market":"Cleveland","abbr":"CLE","id":"80715d0d-0d2a-450f-a970-1b9a3b18c7e7","runs":0,"hits":1,"errors":0,"win":22,"loss":15,"probable_pitcher":{"preferred_name":"Gavin","first_name":"Gavin","last_name":"Williams","jersey_number":"32","id":"59085c2a-d957-4bb4-8d7e-295419b7254d","full_name":"Gavin Williams","win":2,"loss":2,"era":5.063},"starting_pitcher":{"preferred_name":"Gavin","first_name":"Gavin","last_name":"Williams","jersey_number":"32","id":"59085c2a-d957-4bb4-8d7e-295419b7254d","full_name":"Gavin Williams","win":2,"loss":2,"era":5.063},"current_pitcher":{"preferred_name":"Gavin","first_name":"Gavin","last_name":"Williams","jersey_number":"32","id":"59085c2a-d957-4bb4-8d7e-295419b7254d","full_name":"Gavin Williams","win":2,"loss":2,"era":5.063},"scoring":[{"number":1,"sequence":1,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":2,"sequence":2,"runs":0,"hits":1,"errors":0,"type":"inning"},{"number":3,"sequence":3,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":4,"sequence":4,"runs":"X","hits":"X","errors":"X","type":"inning"}]},"away":{"name":"Phillies","market":"Philadelphia","abbr":"PHI","id":"2142e1ba-3b40-445c-b8bb-f1f8b1054220","runs":0,"hits":2,"errors":0,"win":22,"loss":15,"probable_pitcher":{"preferred_name":"Aaron","first_name":"Aaron","last_name":"Nola","jersey_number":"27","id":"ded1b30d-52ca-4eec-bce6-251b15b085ac","full_name":"Aaron Nola","win":1,"loss":5,"era":4.61},"starting_pitcher":{"preferred_name":"Aaron","first_name":"Aaron","last_name":"Nola","jersey_number":"27","id":"ded1b30d-52ca-4eec-bce6-251b15b085ac","full_name":"Aaron Nola","win":1,"loss":5,"era":4.61},"current_pitcher":{"preferred_name":"Aaron","first_name":"Aaron","last_name":"Nola","jersey_number":"27","id":"ded1b30d-52ca-4eec-bce6-251b15b085ac","full_name":"Aaron Nola","win":1,"loss":5,"era":4.61},"scoring":[{"number":1,"sequence":1,"runs":0,"hits":1,"errors":0,"type":"inning"},{"number":2,"sequence":2,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":3,"sequence":3,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":4,"sequence":4,"runs":0,"hits":1,"errors":0,"type":"inning"}]}}},{"game":{"id":"2cf74af1-6b3e-492a-ac0c-3fea594e7c79","status":"inprogress","coverage":"full","game_number":1,"day_night":"N","scheduled":"2025-05-09T23:05:00+00:00","home_team":"bdc11650-6f74-49c4-875e-778aeb7632d9","away_team":"dcfd5266-00ce-442c-bc09-264cd20cf455","season_id":"a91f72a5-9812-4acd-b3fd-482cb31468cd","season_type":"REG","season_year":2025,"double_header":false,"entry_mode":"STOMP","reference":"778002","time_zones":{"venue":"US/Eastern","home":"US/Eastern","away":"US/Central"},"venue":{"name":"George M. Steinbrenner Field","market":"Tampa Bay","capacity":11026,"surface":"grass","address":"1 Steinbrenner Drive","city":"Tampa","state":"FL","zip":"33614","country":"USA","id":"fca673a0-c7f8-42c3-868b-5bcb681c089d","field_orientation":"NE","stadium_type":"outdoor","time_zone":"US/Eastern","location":{"lat":"27.979330","lng":"-82.508041"}},"broadcasts":[{"network":"FDSSUN","type":"TV","locale":"Home","channel":"653"},{"network":"MLB Network","type":"TV","locale":"National","channel":"213"},{"network":"FDSWI","type":"TV","locale":"Away","channel":"669"}],"weather":{"forecast":{"temp_f":83,"condition":"Overcast","humidity":70,"dew_point_f":71,"cloud_cover":100,"obs_time":"2025-05-10T00:09:58.000+00:00","wind":{"speed_mph":12,"direction":"WSW"}},"current_conditions":{"temp_f":83,"condition":"Overcast","humidity":70,"dew_point_f":71,"cloud_cover":100,"obs_time":"2025-05-10T00:09:58.000+00:00","wind":{"speed_mph":12,"direction":"WSW"}}},"outcome":{"type":"pitch","current_inning":5,"current_inning_half":"T","count":{"balls":0,"strikes":1,"outs":2,"inning":5,"inning_half":"T","half_over":false},"hitter":{"preferred_name":"William","first_name":"William","last_name":"Contreras","jersey_number":"24","id":"1015a557-8e55-4c12-b63c-3306e25ae6e6","full_name":"William Contreras","outcome_id":"kKS","ab_over":false},"pitcher":{"preferred_name":"Zack","first_name":"Zack","last_name":"Littell","jersey_number":"52","id":"fe0fc487-45d3-4178-9fd7-6c00025aff7e","full_name":"Zack Littell","pitch_speed":91.7,"pitch_type":"FA","pitch_zone":1,"pitch_x":-47,"pitch_y":39},"runners":[{"preferred_name":"Jackson","first_name":"Jackson","last_name":"Chourio","jersey_number":"11","id":"87128c5c-da3c-4fe6-9f04-83d6f8dc1302","full_name":"Jackson Chourio","outcome_id":"","starting_base":1,"ending_base":1,"out":false}]},"home":{"name":"Rays","market":"Tampa Bay","abbr":"TB","id":"bdc11650-6f74-49c4-875e-778aeb7632d9","runs":2,"hits":4,"errors":1,"win":16,"loss":21,"probable_pitcher":{"preferred_name":"Zack","first_name":"Zack","last_name":"Littell","jersey_number":"52","id":"fe0fc487-45d3-4178-9fd7-6c00025aff7e","full_name":"Zack Littell","win":2,"loss":5,"era":4.61},"starting_pitcher":{"preferred_name":"Zack","first_name":"Zack","last_name":"Littell","jersey_number":"52","id":"fe0fc487-45d3-4178-9fd7-6c00025aff7e","full_name":"Zack Littell","win":2,"loss":5,"era":4.61},"current_pitcher":{"preferred_name":"Zack","first_name":"Zack","last_name":"Littell","jersey_number":"52","id":"fe0fc487-45d3-4178-9fd7-6c00025aff7e","full_name":"Zack Littell","win":2,"loss":5,"era":4.61},"scoring":[{"number":1,"sequence":1,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":2,"sequence":2,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":3,"sequence":3,"runs":1,"hits":2,"errors":1,"type":"inning"},{"number":4,"sequence":4,"runs":1,"hits":2,"errors":0,"type":"inning"},{"number":5,"sequence":5,"runs":"X","hits":"X","errors":"X","type":"inning"}],"events":[{"hitter_id":"c5756137-aad3-4279-a217-cff96ccf0db8","pitcher_id":"b1e3b804-0022-40bc-8f53-8c82ee4eb1b9","inning":3,"inning_half":"B","type":"pitch","hitter_outcome":"aSAD3","id":"306b5c74-89fd-4ed6-99b6-a89c82c9ae12","runners":[{"starting_base":1,"first_name":"Taylor","last_name":"Walls","preferred_name":"Taylor","jersey_number":"6","id":"4c8bdaff-1cf9-4b2b-b22e-26b6dcde5d1b","full_name":"Taylor Walls"}]},{"hitter_id":"cafd29c0-91ac-4472-819c-c6dfb04bad71","pitcher_id":"b1e3b804-0022-40bc-8f53-8c82ee4eb1b9","inning":4,"inning_half":"B","type":"pitch","hitter_outcome":"aHR","id":"a76a15d7-f3e1-4e38-ab9e-49188d349d73","runners":[{"starting_base":0,"first_name":"Brandon","last_name":"Lowe","preferred_name":"Brandon","jersey_number":"8","id":"cafd29c0-91ac-4472-819c-c6dfb04bad71","full_name":"Brandon Lowe"}]}]},"away":{"name":"Brewers","market":"Milwaukee","abbr":"MIL","id":"dcfd5266-00ce-442c-bc09-264cd20cf455","runs":2,"hits":5,"errors":1,"win":19,"loss":19,"probable_pitcher":{"preferred_name":"Jose","first_name":"Jose","last_name":"Quintana","jersey_number":"62","id":"b1e3b804-0022-40bc-8f53-8c82ee4eb1b9","full_name":"Jose Quintana","win":4,"loss":1,"era":2.826},"starting_pitcher":{"preferred_name":"Jose","first_name":"Jose","last_name":"Quintana","jersey_number":"62","id":"b1e3b804-0022-40bc-8f53-8c82ee4eb1b9","full_name":"Jose Quintana","win":4,"loss":1,"era":2.826},"current_pitcher":{"preferred_name":"Jose","first_name":"Jose","last_name":"Quintana","jersey_number":"62","id":"b1e3b804-0022-40bc-8f53-8c82ee4eb1b9","full_name":"Jose Quintana","win":4,"loss":1,"era":2.826},"scoring":[{"number":1,"sequence":1,"runs":1,"hits":2,"errors":0,"type":"inning"},{"number":2,"sequence":2,"runs":0,"hits":1,"errors":0,"type":"inning"},{"number":3,"sequence":3,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":4,"sequence":4,"runs":1,"hits":1,"errors":1,"type":"inning"},{"number":5,"sequence":5,"runs":0,"hits":1,"errors":0,"type":"inning"}],"events":[{"hitter_id":"1015a557-8e55-4c12-b63c-3306e25ae6e6","pitcher_id":"fe0fc487-45d3-4178-9fd7-6c00025aff7e","inning":1,"inning_half":"T","type":"pitch","hitter_outcome":"aS","id":"dae28077-b2da-4a7d-a4d9-aade7bf9d928","runners":[{"starting_base":2,"first_name":"Jackson","last_name":"Chourio","preferred_name":"Jackson","jersey_number":"11","id":"87128c5c-da3c-4fe6-9f04-83d6f8dc1302","full_name":"Jackson Chourio"}]},{"hitter_id":"e538823b-c37b-4ecd-ab64-d28d8cbb8974","pitcher_id":"fe0fc487-45d3-4178-9fd7-6c00025aff7e","inning":4,"inning_half":"T","type":"pitch","hitter_outcome":"oGO","id":"5055c544-52d9-435e-9b3d-39af02cfa700","runners":[{"starting_base":3,"first_name":"William","last_name":"Contreras","preferred_name":"William","jersey_number":"24","id":"1015a557-8e55-4c12-b63c-3306e25ae6e6","full_name":"William Contreras"}]}]}}},{"game":{"id":"612072ed-2af7-47d4-a1a5-561a832b934a","status":"inprogress","coverage":"full","game_number":1,"day_night":"N","scheduled":"2025-05-09T22:45:00+00:00","home_team":"d89bed32-3aee-4407-99e3-4103641b999a","away_team":"44671792-dc02-4fdd-a5ad-f5f17edaa9d7","season_id":"a91f72a5-9812-4acd-b3fd-482cb31468cd","season_type":"REG","season_year":2025,"double_header":false,"entry_mode":"STOMP","reference":"777995","time_zones":{"venue":"US/Eastern","home":"US/Eastern","away":"US/Central"},"venue":{"name":"Nationals Park","market":"Washington","capacity":41376,"surface":"grass","address":"1500 South Capitol Street SE","city":"Washington","state":"DC","zip":"20003","country":"USA","id":"bb062fb1-e268-412e-b3d2-2ddb6acc1822","field_orientation":"N","stadium_type":"outdoor","time_zone":"US/Eastern","location":{"lat":"38.8730933","lng":"-77.0075727"}},"broadcasts":[{"network":"Apple TV+","type":"Internet","locale":"National"}],"weather":{"forecast":{"temp_f":63,"condition":"Partly cloudy","humidity":58,"dew_point_f":47,"cloud_cover":75,"obs_time":"2025-05-09T23:11:56.000+00:00","wind":{"speed_mph":8,"direction":"N"}},"current_conditions":{"temp_f":61,"condition":"Partly cloudy","humidity":58,"dew_point_f":46,"cloud_cover":50,"obs_time":"2025-05-10T00:11:54.000+00:00","wind":{"speed_mph":8,"direction":"N"}}},"outcome":{"type":"pitch","current_inning":5,"current_inning_half":"B","count":{"balls":2,"strikes":0,"outs":0,"inning":5,"inning_half":"B","half_over":false},"hitter":{"preferred_name":"Josh","first_name":"Joshua","last_name":"Bell","jersey_number":"19","id":"49edaec4-ea7c-455b-ac2c-92961b4261f0","full_name":"Josh Bell","outcome_id":"bB","ab_over":false},"pitcher":{"preferred_name":"Erick","first_name":"Erick","last_name":"Fedde","jersey_number":"12","id":"b484880b-790e-45a7-a751-2a03c01ec7ea","full_name":"Erick Fedde","pitch_speed":90,"pitch_type":"CT","pitch_zone":10,"pitch_x":11,"pitch_y":126},"runners":[{"preferred_name":"Amed","first_name":"German","last_name":"Rosario","jersey_number":"13","id":"e19efe62-ace7-4202-97bf-d457a71c50d5","full_name":"Amed Rosario","outcome_id":"","starting_base":1,"ending_base":1,"out":false}]},"home":{"name":"Nationals","market":"Washington","abbr":"WSH","id":"d89bed32-3aee-4407-99e3-4103641b999a","runs":0,"hits":3,"errors":0,"win":17,"loss":21,"probable_pitcher":{"preferred_name":"Mitchell","first_name":"Mitchell","last_name":"Parker","jersey_number":"70","id":"3dafa2d3-e47c-4bf2-aff9-4efd6853e93d","full_name":"Mitchell Parker","win":3,"loss":2,"era":3.484},"starting_pitcher":{"preferred_name":"Mitchell","first_name":"Mitchell","last_name":"Parker","jersey_number":"70","id":"3dafa2d3-e47c-4bf2-aff9-4efd6853e93d","full_name":"Mitchell Parker","win":3,"loss":2,"era":3.484},"current_pitcher":{"preferred_name":"Jackson","first_name":"Jackson","last_name":"Rutledge","jersey_number":"79","id":"11733d40-12c6-4cb3-b9f6-054c52d95cc9","full_name":"Jackson Rutledge","win":0,"loss":0,"era":2.077},"scoring":[{"number":1,"sequence":1,"runs":0,"hits":1,"errors":0,"type":"inning"},{"number":2,"sequence":2,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":3,"sequence":3,"runs":0,"hits":1,"errors":0,"type":"inning"},{"number":4,"sequence":4,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":5,"sequence":5,"runs":0,"hits":1,"errors":0,"type":"inning"}]},"away":{"name":"Cardinals","market":"St. Louis","abbr":"STL","id":"44671792-dc02-4fdd-a5ad-f5f17edaa9d7","runs":6,"hits":10,"errors":0,"win":19,"loss":19,"probable_pitcher":{"preferred_name":"Erick","first_name":"Erick","last_name":"Fedde","jersey_number":"12","id":"b484880b-790e-45a7-a751-2a03c01ec7ea","full_name":"Erick Fedde","win":2,"loss":3,"era":4.779},"starting_pitcher":{"preferred_name":"Erick","first_name":"Erick","last_name":"Fedde","jersey_number":"12","id":"b484880b-790e-45a7-a751-2a03c01ec7ea","full_name":"Erick Fedde","win":2,"loss":3,"era":4.779},"current_pitcher":{"preferred_name":"Erick","first_name":"Erick","last_name":"Fedde","jersey_number":"12","id":"b484880b-790e-45a7-a751-2a03c01ec7ea","full_name":"Erick Fedde","win":2,"loss":3,"era":4.779},"scoring":[{"number":1,"sequence":1,"runs":2,"hits":2,"errors":0,"type":"inning"},{"number":2,"sequence":2,"runs":0,"hits":1,"errors":0,"type":"inning"},{"number":3,"sequence":3,"runs":1,"hits":2,"errors":0,"type":"inning"},{"number":4,"sequence":4,"runs":1,"hits":2,"errors":0,"type":"inning"},{"number":5,"sequence":5,"runs":2,"hits":3,"errors":0,"type":"inning"}],"events":[{"hitter_id":"9d93f121-f032-407d-bb30-ad3593641db9","pitcher_id":"3dafa2d3-e47c-4bf2-aff9-4efd6853e93d","inning":1,"inning_half":"T","type":"pitch","hitter_outcome":"aD","id":"cea933eb-10d1-4595-b722-3b542d17b4f8","runners":[{"starting_base":2,"first_name":"Masyn","last_name":"Winn","preferred_name":"Masyn","jersey_number":"0","id":"6162380d-5201-4e3c-a1a3-0d3db5afc356","full_name":"Masyn Winn"},{"starting_base":3,"first_name":"Lars","last_name":"Nootbaar","preferred_name":"Lars","jersey_number":"21","id":"99518b96-7d38-4f19-8c49-cafbac98ea74","full_name":"Lars Nootbaar"}]},{"hitter_id":"425cd8ba-6803-4970-972d-033ce47fa53a","pitcher_id":"3dafa2d3-e47c-4bf2-aff9-4efd6853e93d","inning":3,"inning_half":"T","type":"pitch","hitter_outcome":"oSF","id":"0a306c34-3f06-4599-89b9-293c61cb2361","runners":[{"starting_base":3,"first_name":"Brendan","last_name":"Donovan","preferred_name":"Brendan","jersey_number":"33","id":"8babdbd4-d607-4bb0-a6c1-708c247c08ed","full_name":"Brendan Donovan"}]},{"hitter_id":"e3c46c38-b6ad-439c-a03f-287646d47fc0","pitcher_id":"3dafa2d3-e47c-4bf2-aff9-4efd6853e93d","inning":4,"inning_half":"T","type":"pitch","hitter_outcome":"oSF","id":"1065ec5b-8a20-4e7d-aab7-b3046c32c79c","runners":[{"starting_base":3,"first_name":"Pedro","last_name":"Pagés","preferred_name":"Pedro","jersey_number":"43","id":"bb5f8930-2050-40e2-8515-b0c3a2b218d3","full_name":"Pedro Pagés"}]},{"hitter_id":"425cd8ba-6803-4970-972d-033ce47fa53a","pitcher_id":"11733d40-12c6-4cb3-b9f6-054c52d95cc9","inning":5,"inning_half":"T","type":"pitch","hitter_outcome":"aD","id":"0ec03f82-ec8f-4aae-b12d-f7ad68748b2d","runners":[{"starting_base":2,"first_name":"Nolan","last_name":"Arenado","preferred_name":"Nolan","jersey_number":"28","id":"aec77ff1-c238-449c-9af6-ed76ff9dd702","full_name":"Nolan Arenado"}]},{"hitter_id":"7941825b-0909-40e8-b680-8c6493f24c89","pitcher_id":"11733d40-12c6-4cb3-b9f6-054c52d95cc9","inning":5,"inning_half":"T","type":"pitch","hitter_outcome":"oSF","id":"50c72a87-2031-47bc-8019-879545aa9c35","runners":[{"starting_base":3,"first_name":"Willson","last_name":"Contreras","preferred_name":"Willson","jersey_number":"40","id":"9d93f121-f032-407d-bb30-ad3593641db9","full_name":"Willson Contreras"}]}]}}},{"game":{"id":"ec16d202-87fe-45a9-bb41-1331c9f40561","status":"inprogress","coverage":"full","game_number":1,"day_night":"N","scheduled":"2025-05-09T23:40:00+00:00","home_team":"833a51a9-0d84-410f-bd77-da08c3e5e26e","away_team":"93941372-eb4c-4c40-aced-fe3267174393","season_id":"a91f72a5-9812-4acd-b3fd-482cb31468cd","season_type":"REG","season_year":2025,"double_header":false,"entry_mode":"STOMP","reference":"777990","time_zones":{"venue":"US/Central","home":"US/Central","away":"US/Eastern"},"venue":{"name":"Kauffman Stadium","market":"Kansas City","capacity":38427,"surface":"grass","address":"One Royal Way","city":"Kansas City","state":"MO","zip":"64129","country":"USA","id":"6fca95c9-7f2c-4acb-a9f3-02ef96340d2a","field_orientation":"NE","stadium_type":"outdoor","time_zone":"US/Central","location":{"lat":"39.051465","lng":"-94.48028889999999"}},"broadcasts":[{"network":"NESN","type":"TV","locale":"Away","channel":"628"},{"network":"FDSKC","type":"TV","locale":"Home","channel":"671-5"}],"weather":{"forecast":{"temp_f":75,"condition":"Sunny","humidity":26,"dew_point_f":38,"cloud_cover":0,"obs_time":"2025-05-10T00:10:15.000+00:00","wind":{"speed_mph":7,"direction":"NE"}},"current_conditions":{"temp_f":75,"condition":"Sunny","humidity":26,"dew_point_f":38,"cloud_cover":0,"obs_time":"2025-05-10T00:10:15.000+00:00","wind":{"speed_mph":7,"direction":"NE"}}},"outcome":{"type":"pitch","current_inning":3,"current_inning_half":"B","count":{"balls":3,"strikes":2,"outs":1,"inning":3,"inning_half":"B","half_over":false},"hitter":{"preferred_name":"Kyle","first_name":"Kyle","last_name":"Isbel","jersey_number":"28","id":"5678ca88-577b-46f9-9f9f-5a118003db1a","full_name":"Kyle Isbel","outcome_id":"bB","ab_over":false},"pitcher":{"preferred_name":"Hunter","first_name":"Hunter","last_name":"Dobbins","jersey_number":"73","id":"df569e68-70ff-479b-8839-554ebd6ea2fb","full_name":"Hunter Dobbins","pitch_speed":97.2,"pitch_type":"FA","pitch_zone":11,"pitch_x":105,"pitch_y":-130}},"home":{"name":"Royals","market":"Kansas City","abbr":"KC","id":"833a51a9-0d84-410f-bd77-da08c3e5e26e","runs":0,"hits":1,"errors":0,"win":23,"loss":16,"probable_pitcher":{"preferred_name":"Michael","first_name":"Michael","last_name":"Lorenzen","jersey_number":"24","id":"4150b3f7-beb3-4fbc-a947-933d45d20bfe","full_name":"Michael Lorenzen","win":3,"loss":3,"era":4.226},"starting_pitcher":{"preferred_name":"Michael","first_name":"Michael","last_name":"Lorenzen","jersey_number":"24","id":"4150b3f7-beb3-4fbc-a947-933d45d20bfe","full_name":"Michael Lorenzen","win":3,"loss":3,"era":4.226},"current_pitcher":{"preferred_name":"Michael","first_name":"Michael","last_name":"Lorenzen","jersey_number":"24","id":"4150b3f7-beb3-4fbc-a947-933d45d20bfe","full_name":"Michael Lorenzen","win":3,"loss":3,"era":4.226},"scoring":[{"number":1,"sequence":1,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":2,"sequence":2,"runs":0,"hits":1,"errors":0,"type":"inning"},{"number":3,"sequence":3,"runs":0,"hits":0,"errors":0,"type":"inning"}]},"away":{"name":"Red Sox","market":"Boston","abbr":"BOS","id":"93941372-eb4c-4c40-aced-fe3267174393","runs":0,"hits":0,"errors":0,"win":20,"loss":19,"probable_pitcher":{"preferred_name":"Hunter","first_name":"Hunter","last_name":"Dobbins","jersey_number":"73","id":"df569e68-70ff-479b-8839-554ebd6ea2fb","full_name":"Hunter Dobbins","win":2,"loss":1,"era":3.78},"starting_pitcher":{"preferred_name":"Hunter","first_name":"Hunter","last_name":"Dobbins","jersey_number":"73","id":"df569e68-70ff-479b-8839-554ebd6ea2fb","full_name":"Hunter Dobbins","win":2,"loss":1,"era":3.78},"current_pitcher":{"preferred_name":"Hunter","first_name":"Hunter","last_name":"Dobbins","jersey_number":"73","id":"df569e68-70ff-479b-8839-554ebd6ea2fb","full_name":"Hunter Dobbins","win":2,"loss":1,"era":3.78},"scoring":[{"number":1,"sequence":1,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":2,"sequence":2,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":3,"sequence":3,"runs":0,"hits":0,"errors":0,"type":"inning"}]}}},{"game":{"id":"83723579-b9f3-43d9-ad20-c1cf0dea7eb1","status":"scheduled","coverage":"full","game_number":1,"day_night":"N","scheduled":"2025-05-10T01:38:00+00:00","home_team":"4f735188-37c8-473d-ae32-1f7e34ccf892","away_team":"75729d34-bca7-4a0f-b3df-6f26c6ad3719","season_id":"a91f72a5-9812-4acd-b3fd-482cb31468cd","season_type":"REG","season_year":2025,"double_header":false,"entry_mode":"STOMP","reference":"777986","time_zones":{"venue":"US/Pacific","home":"US/Pacific","away":"US/Eastern"},"venue":{"name":"Angel Stadium","market":"Los Angeles","capacity":45517,"surface":"grass","address":"2000 Gene Autry Way","city":"Anaheim","state":"CA","zip":"92806","country":"USA","id":"60732da9-ad03-4feb-9a36-aee3e98c7a2b","field_orientation":"NE","stadium_type":"outdoor","time_zone":"US/Pacific","location":{"lat":"33.7996617","lng":"-117.8834384"}},"broadcasts":[{"network":"FDSW","type":"TV","locale":"Home","channel":"692"},{"network":"MASN","type":"TV","locale":"Away","channel":"640"}],"weather":{"forecast":{"temp_f":80,"condition":"Sunny","humidity":49,"dew_point_f":59,"cloud_cover":9,"obs_time":"2025-05-09T11:03:53.000+00:00","wind":{"speed_mph":9,"direction":"W"}}},"home":{"name":"Angels","market":"Los Angeles","abbr":"LAA","id":"4f735188-37c8-473d-ae32-1f7e34ccf892","runs":0,"hits":0,"errors":0,"win":15,"loss":21,"probable_pitcher":{"preferred_name":"Kyle","first_name":"Kyle","last_name":"Hendricks","jersey_number":"28","id":"dec510da-0104-48f0-892f-37a9ab9d02ff","full_name":"Kyle Hendricks","win":1,"loss":3,"era":5.283}},"away":{"name":"Orioles","market":"Baltimore","abbr":"BAL","id":"75729d34-bca7-4a0f-b3df-6f26c6ad3719","runs":0,"hits":0,"errors":0,"win":13,"loss":23,"probable_pitcher":{"preferred_name":"Tomoyuki","first_name":"Tomoyuki","last_name":"Sugano","jersey_number":"19","id":"b34ad145-1a14-4fd6-9dc4-27483ad14418","full_name":"Tomoyuki Sugano","win":3,"loss":2,"era":3}}}},{"game":{"id":"418860de-9606-47e7-89ce-4abd7693d8ef","status":"scheduled","coverage":"full","game_number":1,"day_night":"N","scheduled":"2025-05-10T00:40:00+00:00","home_team":"29dd9a87-5bcc-4774-80c3-7f50d985068b","away_team":"d52d5339-cbdd-43f3-9dfa-a42fd588b9a3","season_id":"a91f72a5-9812-4acd-b3fd-482cb31468cd","season_type":"REG","season_year":2025,"double_header":false,"entry_mode":"STOMP","reference":"777993","time_zones":{"venue":"US/Mountain","home":"US/Mountain","away":"US/Pacific"},"venue":{"name":"Coors Field","market":"Colorado","capacity":50144,"surface":"grass","address":"2001 Blake Street","city":"Denver","state":"CO","zip":"80205","country":"USA","id":"85dd5cd6-7324-4b52-a1cc-68f816d0cdce","field_orientation":"N","stadium_type":"outdoor","time_zone":"US/Mountain","location":{"lat":"39.7559779","lng":"-104.9933491"}},"broadcasts":[{"network":"SDPA","type":"Internet","locale":"Away"},{"network":"COLR","type":"Internet","locale":"Home"}],"weather":{"forecast":{"temp_f":71,"condition":"Partly Cloudy ","humidity":30,"dew_point_f":38,"cloud_cover":60,"obs_time":"2025-05-09T11:03:53.000+00:00","wind":{"speed_mph":8,"direction":"ENE"}}},"home":{"name":"Rockies","market":"Colorado","abbr":"COL","id":"29dd9a87-5bcc-4774-80c3-7f50d985068b","runs":0,"hits":0,"errors":0,"win":6,"loss":31,"probable_pitcher":{"preferred_name":"Antonio","first_name":"Antonio","last_name":"Senzatela","jersey_number":"49","id":"1899170d-0079-4a00-8d65-0f9668e48d8a","full_name":"Antonio Senzatela","win":1,"loss":5,"era":5.505}},"away":{"name":"Padres","market":"San Diego","abbr":"SD","id":"d52d5339-cbdd-43f3-9dfa-a42fd588b9a3","runs":0,"hits":0,"errors":0,"win":23,"loss":13,"probable_pitcher":{"preferred_name":"Randy","first_name":"Randy","last_name":"Vásquez","jersey_number":"98","id":"766649ef-3ac0-4883-ada3-9d73320cf876","full_name":"Randy Vásquez","win":1,"loss":3,"era":3.897}}}},{"game":{"id":"b80fca82-5c6e-4ff3-8581-f7a531107f89","status":"scheduled","coverage":"full","game_number":1,"day_night":"N","scheduled":"2025-05-10T01:40:00+00:00","home_team":"43a39081-52b4-4f93-ad29-da7f329ea960","away_team":"1d678440-b4b1-4954-9b39-70afb3ebbcfa","season_id":"a91f72a5-9812-4acd-b3fd-482cb31468cd","season_type":"REG","season_year":2025,"double_header":false,"entry_mode":"STOMP","reference":"777984","time_zones":{"venue":"US/Pacific","home":"US/Pacific","away":"US/Eastern"},"venue":{"name":"T-Mobile Park","market":"Seattle","capacity":47929,"surface":"grass","address":"1516 First Avenue South","city":"Seattle","state":"WA","zip":"98134","country":"USA","id":"f1c03dac-3c0f-437c-a325-8d5702cd321a","field_orientation":"NE","stadium_type":"retractable","time_zone":"US/Pacific","location":{"lat":"47.5899037","lng":"-122.3337561"}},"broadcasts":[{"network":"SN1","type":"TV","locale":"Away"},{"network":"ROOT Sports NW","type":"TV","locale":"Home","channel":"687"}],"weather":{"forecast":{"temp_f":67,"condition":"Cloudy ","humidity":38,"dew_point_f":40,"cloud_cover":84,"obs_time":"2025-05-09T11:03:54.000+00:00","wind":{"speed_mph":6,"direction":"N"}}},"home":{"name":"Mariners","market":"Seattle","abbr":"SEA","id":"43a39081-52b4-4f93-ad29-da7f329ea960","runs":0,"hits":0,"errors":0,"win":22,"loss":14,"probable_pitcher":{"preferred_name":"Luis","first_name":"Luis","last_name":"Castillo","jersey_number":"58","id":"71791d18-9c59-4e2f-863d-007d3cdd7efd","full_name":"Luis Castillo","win":3,"loss":2,"era":3.287}},"away":{"name":"Blue Jays","market":"Toronto","abbr":"TOR","id":"1d678440-b4b1-4954-9b39-70afb3ebbcfa","runs":0,"hits":0,"errors":0,"win":17,"loss":20,"probable_pitcher":{"preferred_name":"Kevin","first_name":"Kevin","last_name":"Gausman","jersey_number":"34","id":"cef2e01f-1349-4e31-bf1e-757ae8cb6bc6","full_name":"Kevin Gausman","win":2,"loss":3,"era":3.825}}}},{"game":{"id":"4f2bdc94-af4a-480b-ad85-1e0e73a28865","status":"inprogress","coverage":"full","game_number":1,"day_night":"N","scheduled":"2025-05-10T00:10:00+00:00","home_team":"eb21dadd-8f10-4095-8bf3-dfb3b779f107","away_team":"c874a065-c115-4e7d-b0f0-235584fb0e6f","season_id":"a91f72a5-9812-4acd-b3fd-482cb31468cd","season_type":"REG","season_year":2025,"double_header":false,"entry_mode":"STOMP","reference":"777989","time_zones":{"venue":"US/Central","home":"US/Central","away":"US/Eastern"},"venue":{"name":"Daikin Park","market":"Houston","capacity":41000,"surface":"grass","address":"501 Crawford Street","city":"Houston","state":"TX","zip":"77002","country":"USA","id":"f0600f04-1386-4c61-a412-804960c46cb1","field_orientation":"N","stadium_type":"retractable","time_zone":"US/Central","location":{"lat":"29.7577058","lng":"-95.35453989999999"}},"broadcasts":[{"network":"FDSOH","type":"TV","locale":"Away","channel":"660"},{"network":"SCHN","type":"TV","locale":"Home","channel":"674"}],"weather":{"forecast":{"temp_f":79,"condition":"Overcast ","humidity":42,"dew_point_f":54,"cloud_cover":0,"obs_time":"2025-05-10T00:10:18.000+00:00","wind":{"speed_mph":9,"direction":"NNW"}},"current_conditions":{"temp_f":79,"condition":"Overcast ","humidity":42,"dew_point_f":54,"cloud_cover":0,"obs_time":"2025-05-10T00:10:18.000+00:00","wind":{"speed_mph":9,"direction":"NNW"}}},"outcome":{"type":"pitch","current_inning":1,"current_inning_half":"T","count":{"balls":2,"strikes":2,"outs":1,"inning":1,"inning_half":"T","half_over":false},"hitter":{"preferred_name":"Matt","first_name":"Matthew","last_name":"McLain","jersey_number":"9","id":"429eaa60-463f-4c48-ae31-4e3df86674d8","full_name":"Matt McLain","outcome_id":"kKL","ab_over":false},"pitcher":{"preferred_name":"Hunter","first_name":"Hunter","last_name":"Brown","jersey_number":"58","id":"7ba58155-1133-4f26-be65-9ce443e3fedc","full_name":"Hunter Brown","pitch_speed":98.4,"pitch_type":"FA","pitch_zone":10,"pitch_x":-47,"pitch_y":130}},"home":{"name":"Astros","market":"Houston","abbr":"HOU","id":"eb21dadd-8f10-4095-8bf3-dfb3b779f107","runs":0,"hits":0,"errors":0,"win":18,"loss":18,"probable_pitcher":{"preferred_name":"Hunter","first_name":"Hunter","last_name":"Brown","jersey_number":"58","id":"7ba58155-1133-4f26-be65-9ce443e3fedc","full_name":"Hunter Brown","win":5,"loss":1,"era":1.674},"starting_pitcher":{"preferred_name":"Hunter","first_name":"Hunter","last_name":"Brown","jersey_number":"58","id":"7ba58155-1133-4f26-be65-9ce443e3fedc","full_name":"Hunter Brown","win":5,"loss":1,"era":1.674},"current_pitcher":{"preferred_name":"Hunter","first_name":"Hunter","last_name":"Brown","jersey_number":"58","id":"7ba58155-1133-4f26-be65-9ce443e3fedc","full_name":"Hunter Brown","win":5,"loss":1,"era":1.674},"scoring":[{"number":1,"sequence":1,"runs":"X","hits":"X","errors":"X","type":"inning"}]},"away":{"name":"Reds","market":"Cincinnati","abbr":"CIN","id":"c874a065-c115-4e7d-b0f0-235584fb0e6f","runs":0,"hits":0,"errors":0,"win":19,"loss":20,"probable_pitcher":{"preferred_name":"Nick","first_name":"Nicholas","last_name":"Martinez","jersey_number":"28","id":"36818090-03bc-44dc-b0f7-4fb0f4182bb1","full_name":"Nick Martinez","win":1,"loss":3,"era":4.19},"starting_pitcher":{"preferred_name":"Nick","first_name":"Nicholas","last_name":"Martinez","jersey_number":"28","id":"36818090-03bc-44dc-b0f7-4fb0f4182bb1","full_name":"Nick Martinez","win":1,"loss":3,"era":4.19},"current_pitcher":{"preferred_name":"Nick","first_name":"Nicholas","last_name":"Martinez","jersey_number":"28","id":"36818090-03bc-44dc-b0f7-4fb0f4182bb1","full_name":"Nick Martinez","win":1,"loss":3,"era":4.19},"scoring":[{"number":1,"sequence":1,"runs":0,"hits":0,"errors":0,"type":"inning"}]}}},{"game":{"id":"09893ec2-ad8f-487d-9038-e127e3efe592","status":"inprogress","coverage":"full","game_number":1,"day_night":"N","scheduled":"2025-05-10T00:10:00+00:00","home_team":"aa34e0ed-f342-4ec6-b774-c79b47b60e2d","away_team":"a7723160-10b7-4277-a309-d8dd95a8ae65","season_id":"a91f72a5-9812-4acd-b3fd-482cb31468cd","season_type":"REG","season_year":2025,"double_header":false,"entry_mode":"STOMP","reference":"777992","time_zones":{"venue":"US/Central","home":"US/Central","away":"US/Pacific"},"venue":{"name":"Target Field","market":"Minnesota","capacity":38544,"surface":"grass","address":"1 Twins Way","city":"Minneapolis","state":"MN","zip":"55403","country":"USA","id":"302f8dcd-eed6-4b83-8609-81548d51e955","field_orientation":"E","stadium_type":"outdoor","time_zone":"US/Central","location":{"lat":"44.981829","lng":"-93.277891"}},"broadcasts":[{"network":"Apple TV+","type":"Internet","locale":"National"}],"weather":{"forecast":{"temp_f":82,"condition":"Thundery outbreaks in nearby","humidity":35,"dew_point_f":52,"cloud_cover":50,"obs_time":"2025-05-09T11:03:53.000+00:00","wind":{"speed_mph":4,"direction":"W"}},"current_conditions":{"temp_f":82,"condition":"Partly cloudy","humidity":27,"dew_point_f":45,"cloud_cover":75,"obs_time":"2025-05-10T00:11:00.000+00:00","wind":{"speed_mph":10,"direction":"NNW"}}},"outcome":{"type":"pitch","current_inning":1,"current_inning_half":"T","count":{"balls":1,"strikes":0,"outs":1,"inning":1,"inning_half":"T","half_over":false},"hitter":{"preferred_name":"Willy","first_name":"Willy","last_name":"Adames","jersey_number":"2","id":"81af51ef-1387-495a-bef2-57f219415370","full_name":"Willy Adames","outcome_id":"bB","ab_over":false},"pitcher":{"preferred_name":"Chris","first_name":"Christopher","last_name":"Paddack","jersey_number":"20","id":"cb1d6940-da1d-431f-a868-35a76a97a8da","full_name":"Chris Paddack","pitch_speed":94.7,"pitch_type":"FA","pitch_zone":11,"pitch_x":205,"pitch_y":-47}},"home":{"name":"Twins","market":"Minnesota","abbr":"MIN","id":"aa34e0ed-f342-4ec6-b774-c79b47b60e2d","runs":0,"hits":0,"errors":0,"win":18,"loss":20,"probable_pitcher":{"preferred_name":"Chris","first_name":"Christopher","last_name":"Paddack","jersey_number":"20","id":"cb1d6940-da1d-431f-a868-35a76a97a8da","full_name":"Chris Paddack","win":0,"loss":3,"era":5.567},"starting_pitcher":{"preferred_name":"Chris","first_name":"Christopher","last_name":"Paddack","jersey_number":"20","id":"cb1d6940-da1d-431f-a868-35a76a97a8da","full_name":"Chris Paddack","win":0,"loss":3,"era":5.567},"current_pitcher":{"preferred_name":"Chris","first_name":"Christopher","last_name":"Paddack","jersey_number":"20","id":"cb1d6940-da1d-431f-a868-35a76a97a8da","full_name":"Chris Paddack","win":0,"loss":3,"era":5.567},"scoring":[{"number":1,"sequence":1,"runs":"X","hits":"X","errors":"X","type":"inning"}]},"away":{"name":"Giants","market":"San Francisco","abbr":"SF","id":"a7723160-10b7-4277-a309-d8dd95a8ae65","runs":0,"hits":0,"errors":0,"win":24,"loss":14,"probable_pitcher":{"preferred_name":"Jordan","first_name":"Jordan","last_name":"Hicks","jersey_number":"12","id":"b6064f09-31ae-4d05-832c-2f4c4043c7cb","full_name":"Jordan Hicks","win":1,"loss":3,"era":6.027},"starting_pitcher":{"preferred_name":"Jordan","first_name":"Jordan","last_name":"Hicks","jersey_number":"12","id":"b6064f09-31ae-4d05-832c-2f4c4043c7cb","full_name":"Jordan Hicks","win":1,"loss":3,"era":6.027},"current_pitcher":{"preferred_name":"Jordan","first_name":"Jordan","last_name":"Hicks","jersey_number":"12","id":"b6064f09-31ae-4d05-832c-2f4c4043c7cb","full_name":"Jordan Hicks","win":1,"loss":3,"era":6.027},"scoring":[{"number":1,"sequence":1,"runs":0,"hits":0,"errors":0,"type":"inning"}]}}},{"game":{"id":"addc7c56-c0a6-4f30-822f-d50d561fa516","status":"inprogress","coverage":"full","game_number":1,"day_night":"N","scheduled":"2025-05-09T22:40:00+00:00","home_team":"481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd","away_team":"12079497-e414-450a-8bf2-29f91de646bf","season_id":"a91f72a5-9812-4acd-b3fd-482cb31468cd","season_type":"REG","season_year":2025,"double_header":false,"entry_mode":"STOMP","reference":"777998","time_zones":{"venue":"US/Eastern","home":"US/Eastern","away":"US/Eastern"},"venue":{"name":"PNC Park","market":"Pittsburgh","capacity":38753,"surface":"grass","address":"115 Federal Street","city":"Pittsburgh","state":"PA","zip":"15212","country":"USA","id":"61314394-c8b8-411e-b891-ca41285d5362","field_orientation":"E","stadium_type":"outdoor","time_zone":"US/Eastern","location":{"lat":"40.4471507","lng":"-80.0064087"}},"broadcasts":[{"network":"FDSSO","type":"TV","locale":"Away","channel":"646"},{"network":"SportsNet PT","type":"TV","locale":"Home","channel":"659"}],"weather":{"forecast":{"temp_f":58,"condition":"Sunny","humidity":36,"dew_point_f":30,"cloud_cover":25,"obs_time":"2025-05-09T23:43:17.000+00:00","wind":{"speed_mph":10,"direction":"NNW"}},"current_conditions":{"temp_f":58,"condition":"Sunny","humidity":36,"dew_point_f":30,"cloud_cover":25,"obs_time":"2025-05-10T00:04:06.000+00:00","wind":{"speed_mph":9,"direction":"NNW"}}},"outcome":{"type":"pitch","current_inning":6,"current_inning_half":"B","count":{"balls":3,"strikes":2,"outs":2,"inning":6,"inning_half":"B","half_over":false},"hitter":{"preferred_name":"Joey","first_name":"Joseph","last_name":"Bart","jersey_number":"14","id":"9ff4bd8c-c74e-40b3-87f4-359b8ddecc55","full_name":"Joey Bart","outcome_id":"kF","ab_over":false},"pitcher":{"preferred_name":"Bryce","first_name":"Bryce","last_name":"Elder","jersey_number":"55","id":"8a4de81f-a497-40e4-ba42-39b4c1fbbdd3","full_name":"Bryce Elder","pitch_speed":85.2,"pitch_type":"SL","pitch_zone":13,"pitch_x":-141,"pitch_y":-78},"runners":[{"preferred_name":"Andrew","first_name":"Andrew","last_name":"McCutchen","jersey_number":"22","id":"53a80099-966e-451c-a1e2-dccbb16f8dd8","full_name":"Andrew McCutchen","outcome_id":"","starting_base":2,"ending_base":2,"out":false}]},"home":{"name":"Pirates","market":"Pittsburgh","abbr":"PIT","id":"481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd","runs":3,"hits":5,"errors":0,"win":12,"loss":26,"probable_pitcher":{"preferred_name":"Bailey","first_name":"Bailey","last_name":"Falter","jersey_number":"6","id":"7815f286-f332-429b-9378-fa6234af5036","full_name":"Bailey Falter","win":1,"loss":3,"era":5.063},"starting_pitcher":{"preferred_name":"Bailey","first_name":"Bailey","last_name":"Falter","jersey_number":"6","id":"7815f286-f332-429b-9378-fa6234af5036","full_name":"Bailey Falter","win":1,"loss":3,"era":5.063},"current_pitcher":{"preferred_name":"Bailey","first_name":"Bailey","last_name":"Falter","jersey_number":"6","id":"7815f286-f332-429b-9378-fa6234af5036","full_name":"Bailey Falter","win":1,"loss":3,"era":5.063},"scoring":[{"number":1,"sequence":1,"runs":0,"hits":1,"errors":0,"type":"inning"},{"number":2,"sequence":2,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":3,"sequence":3,"runs":1,"hits":1,"errors":0,"type":"inning"},{"number":4,"sequence":4,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":5,"sequence":5,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":6,"sequence":6,"runs":2,"hits":3,"errors":0,"type":"inning"}],"events":[{"hitter_id":"fc389e0f-b6a3-48be-8636-f071e1a14249","pitcher_id":"8a4de81f-a497-40e4-ba42-39b4c1fbbdd3","inning":3,"inning_half":"B","type":"pitch","hitter_outcome":"aHR","id":"91447089-ce5a-42fe-9ce3-ca049977bd00","runners":[{"starting_base":0,"first_name":"Alexander","last_name":"Canario","preferred_name":"Alexander","jersey_number":"29","id":"fc389e0f-b6a3-48be-8636-f071e1a14249","full_name":"Alexander Canario"}]},{"hitter_id":"cf997eeb-c39f-4aa5-bcfe-f2e10d7f6929","pitcher_id":"8a4de81f-a497-40e4-ba42-39b4c1fbbdd3","inning":6,"inning_half":"B","type":"pitch","hitter_outcome":"aHR","id":"4929d028-405f-4661-b881-899da5e1a87b","runners":[{"starting_base":0,"first_name":"Jared","last_name":"Triolo","preferred_name":"Jared","jersey_number":"19","id":"cf997eeb-c39f-4aa5-bcfe-f2e10d7f6929","full_name":"Jared Triolo"}]},{"hitter_id":"53a80099-966e-451c-a1e2-dccbb16f8dd8","pitcher_id":"8a4de81f-a497-40e4-ba42-39b4c1fbbdd3","inning":6,"inning_half":"B","type":"pitch","hitter_outcome":"aD","id":"5da28132-edee-489e-9b6c-6f61a8054691","runners":[{"starting_base":1,"first_name":"Bryan","last_name":"Reynolds","preferred_name":"Bryan","jersey_number":"10","id":"bf611376-2b1d-4d5f-9805-57cbfb852063","full_name":"Bryan Reynolds"}]}]},"away":{"name":"Braves","market":"Atlanta","abbr":"ATL","id":"12079497-e414-450a-8bf2-29f91de646bf","runs":0,"hits":2,"errors":0,"win":18,"loss":19,"probable_pitcher":{"preferred_name":"Bryce","first_name":"Bryce","last_name":"Elder","jersey_number":"55","id":"8a4de81f-a497-40e4-ba42-39b4c1fbbdd3","full_name":"Bryce Elder","win":2,"loss":1,"era":5.063},"starting_pitcher":{"preferred_name":"Bryce","first_name":"Bryce","last_name":"Elder","jersey_number":"55","id":"8a4de81f-a497-40e4-ba42-39b4c1fbbdd3","full_name":"Bryce Elder","win":2,"loss":1,"era":5.063},"current_pitcher":{"preferred_name":"Bryce","first_name":"Bryce","last_name":"Elder","jersey_number":"55","id":"8a4de81f-a497-40e4-ba42-39b4c1fbbdd3","full_name":"Bryce Elder","win":2,"loss":1,"era":5.063},"scoring":[{"number":1,"sequence":1,"runs":0,"hits":1,"errors":0,"type":"inning"},{"number":2,"sequence":2,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":3,"sequence":3,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":4,"sequence":4,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":5,"sequence":5,"runs":0,"hits":1,"errors":0,"type":"inning"},{"number":6,"sequence":6,"runs":0,"hits":0,"errors":0,"type":"inning"}]}}},{"game":{"id":"ab879638-9e36-480b-8b4f-06a244f80f99","status":"scheduled","coverage":"full","game_number":1,"day_night":"N","scheduled":"2025-05-10T02:05:00+00:00","home_team":"27a59d3b-ff7c-48ea-b016-4798f560f5e1","away_team":"a09ec676-f887-43dc-bbb3-cf4bbaee9a18","season_id":"a91f72a5-9812-4acd-b3fd-482cb31468cd","season_type":"REG","season_year":2025,"double_header":false,"entry_mode":"STOMP","reference":"777994","time_zones":{"venue":"US/Pacific","home":"US/Pacific","away":"US/Eastern"},"venue":{"name":"Sutter Health Park","market":"Athletics","capacity":14014,"surface":"grass","address":"400 Ballpark Drive","city":"West Sacramento","state":"CA","zip":"95691","country":"USA","id":"8bec37a2-c1d4-4134-a10f-53d2da5bbb2c","field_orientation":"NE","stadium_type":"outdoor","time_zone":"US/Pacific","location":{"lat":"38.579609","lng":"-121.515038"}},"broadcasts":[{"network":"NBCS-CA","type":"TV","locale":"Home","channel":"698"},{"network":"MLB Network","type":"TV","locale":"National","channel":"213"},{"network":"YES","type":"TV","locale":"Away","channel":"631"}],"weather":{"forecast":{"temp_f":90,"condition":"Sunny","humidity":29,"dew_point_f":53,"cloud_cover":0,"obs_time":"2025-05-09T11:03:54.000+00:00","wind":{"speed_mph":9,"direction":"SW"}}},"home":{"name":"Athletics","abbr":"ATH","id":"27a59d3b-ff7c-48ea-b016-4798f560f5e1","runs":0,"hits":0,"errors":0,"win":20,"loss":18,"probable_pitcher":{"preferred_name":"Osvaldo","first_name":"Osvaldo","last_name":"Bido","jersey_number":"45","id":"24fd467f-0330-4e16-aeee-7d99de324c97","full_name":"Osvaldo Bido","win":2,"loss":2,"era":4.706}},"away":{"name":"Yankees","market":"New York","abbr":"NYY","id":"a09ec676-f887-43dc-bbb3-cf4bbaee9a18","runs":0,"hits":0,"errors":0,"win":21,"loss":16,"probable_pitcher":{"preferred_name":"Will","first_name":"William","last_name":"Warren","jersey_number":"98","id":"524c0ddf-afcf-4b23-80ae-855313d21840","full_name":"Will Warren","win":1,"loss":2,"era":5.651}}}},{"game":{"id":"3205de8c-a8ae-4aff-ad35-73665bd163c8","status":"inprogress","coverage":"full","game_number":1,"day_night":"N","scheduled":"2025-05-09T23:40:00+00:00","home_team":"47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8","away_team":"03556285-bdbb-4576-a06d-42f71f46ddc5","season_id":"a91f72a5-9812-4acd-b3fd-482cb31468cd","season_type":"REG","season_year":2025,"double_header":false,"entry_mode":"STOMP","reference":"777991","time_zones":{"venue":"US/Central","home":"US/Central","away":"US/Eastern"},"venue":{"name":"Rate Field","market":"Chicago","capacity":40241,"surface":"grass","address":"333 West 35th Street","city":"Chicago","state":"IL","zip":"60616","country":"USA","id":"4a550fc1-c03d-4294-b63a-30ff197bedc4","field_orientation":"SE","stadium_type":"outdoor","time_zone":"US/Central","location":{"lat":"41.8300662","lng":"-87.63483300000001"}},"broadcasts":[{"network":"CHSN","type":"TV","locale":"Home","channel":"665"},{"network":"FDSFL","type":"TV","locale":"Away","channel":"654"}],"weather":{"forecast":{"temp_f":58,"condition":"Sunny","humidity":36,"dew_point_f":30,"cloud_cover":0,"obs_time":"2025-05-10T00:05:06.000+00:00","wind":{"speed_mph":4,"direction":"ENE"}},"current_conditions":{"temp_f":58,"condition":"Sunny","humidity":36,"dew_point_f":30,"cloud_cover":0,"obs_time":"2025-05-10T00:05:06.000+00:00","wind":{"speed_mph":4,"direction":"ENE"}}},"outcome":{"type":"pitch","current_inning":2,"current_inning_half":"B","count":{"balls":2,"strikes":0,"outs":2,"inning":2,"inning_half":"B","half_over":false},"hitter":{"preferred_name":"Michael A.","first_name":"Michael A.","last_name":"Taylor","jersey_number":"21","id":"9fd5e31f-8188-48bf-a93b-c9d9dbd29265","full_name":"Michael A. Taylor","outcome_id":"bB","ab_over":false},"pitcher":{"preferred_name":"Max","first_name":"Max","last_name":"Meyer","jersey_number":"23","id":"a42f123a-4a4b-4af3-92f2-4fdea542680b","full_name":"Max Meyer","pitch_speed":94.5,"pitch_type":"FA","pitch_zone":2,"pitch_x":-11,"pitch_y":86},"runners":[{"preferred_name":"Brooks","first_name":"Riley","last_name":"Baldwin","jersey_number":"27","id":"5ec8c6f6-caad-478e-864e-49bf7092e7a0","full_name":"Brooks Baldwin","outcome_id":"","starting_base":1,"ending_base":1,"out":false}]},"home":{"name":"White Sox","market":"Chicago","abbr":"CWS","id":"47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8","runs":1,"hits":1,"errors":1,"win":10,"loss":28,"probable_pitcher":{"preferred_name":"Bryse","first_name":"Bryse","last_name":"Wilson","jersey_number":"46","id":"afebcbd0-fe00-4d21-99c5-6cee7e5eea02","full_name":"Bryse Wilson","win":0,"loss":1,"era":5.559},"starting_pitcher":{"preferred_name":"Bryse","first_name":"Bryse","last_name":"Wilson","jersey_number":"46","id":"afebcbd0-fe00-4d21-99c5-6cee7e5eea02","full_name":"Bryse Wilson","win":0,"loss":1,"era":5.559},"current_pitcher":{"preferred_name":"Bryse","first_name":"Bryse","last_name":"Wilson","jersey_number":"46","id":"afebcbd0-fe00-4d21-99c5-6cee7e5eea02","full_name":"Bryse Wilson","win":0,"loss":1,"era":5.559},"scoring":[{"number":1,"sequence":1,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":2,"sequence":2,"runs":1,"hits":1,"errors":0,"type":"inning"}],"events":[{"hitter_id":"60cf6995-e2a5-47d7-834a-d25cdbdf7f3e","pitcher_id":"a42f123a-4a4b-4af3-92f2-4fdea542680b","inning":2,"inning_half":"B","type":"pitch","hitter_outcome":"aHR","id":"507136c3-97d8-41e6-ad79-446bfa1f47d8","runners":[{"starting_base":0,"first_name":"Andrew","last_name":"Vaughn","preferred_name":"Andrew","jersey_number":"25","id":"60cf6995-e2a5-47d7-834a-d25cdbdf7f3e","full_name":"Andrew Vaughn"}]}]},"away":{"name":"Marlins","market":"Miami","abbr":"MIA","id":"03556285-bdbb-4576-a06d-42f71f46ddc5","runs":1,"hits":2,"errors":0,"win":14,"loss":22,"probable_pitcher":{"preferred_name":"Max","first_name":"Max","last_name":"Meyer","jersey_number":"23","id":"a42f123a-4a4b-4af3-92f2-4fdea542680b","full_name":"Max Meyer","win":2,"loss":3,"era":3.923},"starting_pitcher":{"preferred_name":"Max","first_name":"Max","last_name":"Meyer","jersey_number":"23","id":"a42f123a-4a4b-4af3-92f2-4fdea542680b","full_name":"Max Meyer","win":2,"loss":3,"era":3.923},"current_pitcher":{"preferred_name":"Max","first_name":"Max","last_name":"Meyer","jersey_number":"23","id":"a42f123a-4a4b-4af3-92f2-4fdea542680b","full_name":"Max Meyer","win":2,"loss":3,"era":3.923},"scoring":[{"number":1,"sequence":1,"runs":1,"hits":1,"errors":1,"type":"inning"},{"number":2,"sequence":2,"runs":0,"hits":1,"errors":0,"type":"inning"}],"events":[{"hitter_id":"135d9e6d-7c40-4efa-acff-e68b4bd5c1ef","pitcher_id":"afebcbd0-fe00-4d21-99c5-6cee7e5eea02","inning":1,"inning_half":"T","type":"pitch","hitter_outcome":"aS","id":"eb7eb919-2a8c-4600-841a-bbda45b956af","runners":[{"starting_base":2,"first_name":"Xavier","last_name":"Edwards","preferred_name":"Xavier","jersey_number":"9","id":"2c927c42-8b7c-430a-94c5-23eccc40effa","full_name":"Xavier Edwards"}]}]}}},{"game":{"id":"42161e3a-f7a9-46ad-9677-0bf670ac6f5d","status":"inprogress","coverage":"full","game_number":1,"day_night":"N","scheduled":"2025-05-09T23:10:00+00:00","home_team":"f246a5e5-afdb-479c-9aaa-c68beeda7af6","away_team":"55714da8-fcaf-4574-8443-59bfb511a524","season_id":"a91f72a5-9812-4acd-b3fd-482cb31468cd","season_type":"REG","season_year":2025,"double_header":false,"entry_mode":"STOMP","reference":"778001","time_zones":{"venue":"US/Eastern","home":"US/Eastern","away":"US/Central"},"venue":{"name":"Citi Field","market":"New York","capacity":42136,"surface":"grass","address":"41 Seaver Way","city":"Flushing, Queens","state":"NY","zip":"11368","country":"USA","id":"265c7d6c-427a-4b8a-8def-392c41954bec","field_orientation":"NE","stadium_type":"outdoor","time_zone":"US/Eastern","location":{"lat":"40.7564124","lng":"-73.84589369999999"}},"broadcasts":[{"network":"MLB Network","type":"TV","locale":"National","channel":"213"},{"network":"SNY","type":"TV","locale":"Home","channel":"639"},{"network":"MARQ","type":"TV","locale":"Away","channel":"664"}],"weather":{"forecast":{"temp_f":60,"condition":"Overcast","humidity":96,"dew_point_f":59,"cloud_cover":100,"obs_time":"2025-05-09T23:37:59.000+00:00","wind":{"speed_mph":10,"direction":"WNW"}},"current_conditions":{"temp_f":54,"condition":"Overcast","humidity":90,"dew_point_f":50,"cloud_cover":100,"obs_time":"2025-05-10T00:10:45.000+00:00","wind":{"speed_mph":13,"direction":"NW"}}},"outcome":{"type":"pitch","current_inning":4,"current_inning_half":"T","count":{"balls":1,"strikes":2,"outs":0,"inning":4,"inning_half":"T","half_over":false},"hitter":{"preferred_name":"Seiya","first_name":"Seiya","last_name":"Suzuki","jersey_number":"27","id":"aa691806-f8a0-4dc7-b833-94e59dc22a34","full_name":"Seiya Suzuki","outcome_id":"kKL","ab_over":false},"pitcher":{"preferred_name":"Clay","first_name":"Clayton","last_name":"Holmes","jersey_number":"35","id":"9a62f791-fe7a-4e1f-9823-82a361f546bd","full_name":"Clay Holmes","pitch_speed":83.8,"pitch_type":"SL","pitch_zone":9,"pitch_x":76,"pitch_y":-43}},"home":{"name":"Mets","market":"New York","abbr":"NYM","id":"f246a5e5-afdb-479c-9aaa-c68beeda7af6","runs":5,"hits":7,"errors":0,"win":24,"loss":14,"probable_pitcher":{"preferred_name":"Clay","first_name":"Clayton","last_name":"Holmes","jersey_number":"35","id":"9a62f791-fe7a-4e1f-9823-82a361f546bd","full_name":"Clay Holmes","win":4,"loss":1,"era":2.945},"starting_pitcher":{"preferred_name":"Clay","first_name":"Clayton","last_name":"Holmes","jersey_number":"35","id":"9a62f791-fe7a-4e1f-9823-82a361f546bd","full_name":"Clay Holmes","win":4,"loss":1,"era":2.945},"current_pitcher":{"preferred_name":"Clay","first_name":"Clayton","last_name":"Holmes","jersey_number":"35","id":"9a62f791-fe7a-4e1f-9823-82a361f546bd","full_name":"Clay Holmes","win":4,"loss":1,"era":2.945},"scoring":[{"number":1,"sequence":1,"runs":1,"hits":2,"errors":0,"type":"inning"},{"number":2,"sequence":2,"runs":2,"hits":3,"errors":0,"type":"inning"},{"number":3,"sequence":3,"runs":2,"hits":2,"errors":1,"type":"inning"},{"number":4,"sequence":4,"runs":"X","hits":"X","errors":"X","type":"inning"}],"events":[{"hitter_id":"98d3d7c1-16bb-490c-8e03-73567efdbabf","pitcher_id":"0b4c4345-7609-4ab1-9aaa-41d56d7f1fda","inning":1,"inning_half":"B","type":"pitch","hitter_outcome":"aHR","id":"27251c18-04f2-486f-8bb7-37d1096c08f2","runners":[{"starting_base":0,"first_name":"Francisco","last_name":"Lindor","preferred_name":"Francisco","jersey_number":"12","id":"98d3d7c1-16bb-490c-8e03-73567efdbabf","full_name":"Francisco Lindor"}]},{"hitter_id":"363a83d2-29b4-478b-8fdc-422dc464c0b9","pitcher_id":"0b4c4345-7609-4ab1-9aaa-41d56d7f1fda","inning":2,"inning_half":"B","type":"pitch","hitter_outcome":"aHR","id":"b6d21da8-def7-4601-a593-eeb46696d721","runners":[{"starting_base":0,"first_name":"Brett","last_name":"Baty","preferred_name":"Brett","jersey_number":"7","id":"363a83d2-29b4-478b-8fdc-422dc464c0b9","full_name":"Brett Baty"}]},{"hitter_id":"c31c5931-b7db-447d-9207-5d6f58ec0f4f","pitcher_id":"0b4c4345-7609-4ab1-9aaa-41d56d7f1fda","inning":2,"inning_half":"B","type":"pitch","hitter_outcome":"aHR","id":"4c56ab72-67d7-4974-8e5e-1a8b66fbb1d7","runners":[{"starting_base":0,"first_name":"Jeff","last_name":"McNeil","preferred_name":"Jeff","jersey_number":"1","id":"c31c5931-b7db-447d-9207-5d6f58ec0f4f","full_name":"Jeff McNeil"}]},{"hitter_id":"f5992aa1-2a18-4ede-ae5a-ed5cb4485cda","pitcher_id":"0b4c4345-7609-4ab1-9aaa-41d56d7f1fda","inning":3,"inning_half":"B","type":"pitch","hitter_outcome":"oFC","id":"850062ab-a85e-4ee1-b894-ed984fdaaa61","runners":[{"starting_base":2,"first_name":"Francisco","last_name":"Alvarez","preferred_name":"Francisco","jersey_number":"4","id":"4be92fc3-e09a-4140-b2bf-907b227b100e","full_name":"Francisco Alvarez"},{"starting_base":3,"first_name":"Brandon","last_name":"Nimmo","preferred_name":"Brandon","jersey_number":"9","id":"bba23f9e-8aac-454a-b8ca-9373b5d1e5b8","full_name":"Brandon Nimmo"}]}]},"away":{"name":"Cubs","market":"Chicago","abbr":"CHC","id":"55714da8-fcaf-4574-8443-59bfb511a524","runs":1,"hits":2,"errors":1,"win":22,"loss":16,"probable_pitcher":{"preferred_name":"Jameson","first_name":"Jameson","last_name":"Taillon","jersey_number":"50","id":"0b4c4345-7609-4ab1-9aaa-41d56d7f1fda","full_name":"Jameson Taillon","win":2,"loss":1,"era":3.857},"starting_pitcher":{"preferred_name":"Jameson","first_name":"Jameson","last_name":"Taillon","jersey_number":"50","id":"0b4c4345-7609-4ab1-9aaa-41d56d7f1fda","full_name":"Jameson Taillon","win":2,"loss":1,"era":3.857},"current_pitcher":{"preferred_name":"Jameson","first_name":"Jameson","last_name":"Taillon","jersey_number":"50","id":"0b4c4345-7609-4ab1-9aaa-41d56d7f1fda","full_name":"Jameson Taillon","win":2,"loss":1,"era":3.857},"scoring":[{"number":1,"sequence":1,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":2,"sequence":2,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":3,"sequence":3,"runs":0,"hits":1,"errors":0,"type":"inning"},{"number":4,"sequence":4,"runs":1,"hits":1,"errors":0,"type":"inning"}],"events":[{"hitter_id":"f4a9ab1b-8458-40c9-a50f-bbef4f11fe58","pitcher_id":"9a62f791-fe7a-4e1f-9823-82a361f546bd","inning":4,"inning_half":"T","type":"pitch","hitter_outcome":"aHR","id":"256a7e79-6ed1-4f47-a959-7fd47ad6e74e","runners":[{"starting_base":0,"first_name":"Kyle","last_name":"Tucker","preferred_name":"Kyle","jersey_number":"30","id":"f4a9ab1b-8458-40c9-a50f-bbef4f11fe58","full_name":"Kyle Tucker"}]}]}}},{"game":{"id":"2ce72603-2f51-423a-b10d-1f5ea1d86129","status":"scheduled","coverage":"full","game_number":1,"day_night":"N","scheduled":"2025-05-10T01:40:00+00:00","home_team":"25507be1-6a68-4267-bd82-e097d94b359b","away_team":"ef64da7f-cfaf-4300-87b0-9313386b977c","season_id":"a91f72a5-9812-4acd-b3fd-482cb31468cd","season_type":"REG","season_year":2025,"double_header":false,"entry_mode":"STOMP","reference":"777988","time_zones":{"venue":"US/Arizona","home":"US/Arizona","away":"US/Pacific"},"venue":{"name":"Chase Field","market":"Arizona","capacity":48359,"surface":"turf","address":"401 East Jefferson Street","city":"Phoenix","state":"AZ","zip":"85004","country":"USA","id":"bf05de0d-7ced-4a19-8e17-2bbd985f8a92","field_orientation":"N","stadium_type":"retractable","time_zone":"US/Arizona","location":{"lat":"33.445302","lng":"-112.066687"}},"broadcasts":[{"network":"ARID","type":"Internet","locale":"Home"},{"network":"SportsNet LA","type":"TV","locale":"Away","channel":"690"}],"weather":{"forecast":{"temp_f":100,"condition":"Sunny","humidity":12,"dew_point_f":38,"cloud_cover":0,"obs_time":"2025-05-09T11:03:54.000+00:00","wind":{"speed_mph":4,"direction":"S"}}},"home":{"name":"Diamondbacks","market":"Arizona","abbr":"AZ","id":"25507be1-6a68-4267-bd82-e097d94b359b","runs":0,"hits":0,"errors":0,"win":20,"loss":18,"probable_pitcher":{"preferred_name":"Eduardo","first_name":"Eduardo","last_name":"Rodriguez","jersey_number":"57","id":"93413a68-2c05-405a-a38c-9ee983b36913","full_name":"Eduardo Rodriguez","win":1,"loss":3,"era":5.921}},"away":{"name":"Dodgers","market":"Los Angeles","abbr":"LAD","id":"ef64da7f-cfaf-4300-87b0-9313386b977c","runs":0,"hits":0,"errors":0,"win":25,"loss":13,"probable_pitcher":{"preferred_name":"Roki","first_name":"Roki","last_name":"Sasaki","jersey_number":"11","id":"1af59804-5b77-4d6f-98f7-23e97a400a1b","full_name":"Roki Sasaki","win":1,"loss":1,"era":3.857}}}},{"game":{"id":"c26a21cb-63a0-4cd7-8560-67b414a8247e","status":"inprogress","coverage":"full","game_number":1,"day_night":"N","scheduled":"2025-05-09T22:40:00+00:00","home_team":"575c19b7-4052-41c2-9f0a-1c5813d02f99","away_team":"d99f919b-1534-4516-8e8a-9cd106c6d8cd","season_id":"a91f72a5-9812-4acd-b3fd-482cb31468cd","season_type":"REG","season_year":2025,"double_header":false,"entry_mode":"STOMP","reference":"777996","time_zones":{"venue":"US/Eastern","home":"US/Eastern","away":"US/Central"},"venue":{"name":"Comerica Park","market":"Detroit","capacity":41083,"surface":"grass","address":"2100 Woodward Avenue","city":"Detroit","state":"MI","zip":"48226","country":"USA","id":"ef9a5eef-06c6-4963-ac70-7fd02c8c8d42","field_orientation":"SE","stadium_type":"outdoor","time_zone":"US/Eastern","location":{"lat":"42.3391886","lng":"-83.04947829999999"}},"broadcasts":[{"network":"FDSDET","type":"TV","locale":"Home","channel":"663"},{"network":"RSN","type":"TV","locale":"Away"}],"weather":{"forecast":{"temp_f":60,"condition":"Sunny","humidity":32,"dew_point_f":30,"cloud_cover":0,"obs_time":"2025-05-10T00:05:18.000+00:00","wind":{"speed_mph":2,"direction":"NNE"}},"current_conditions":{"temp_f":60,"condition":"Sunny","humidity":32,"dew_point_f":30,"cloud_cover":0,"obs_time":"2025-05-10T00:05:18.000+00:00","wind":{"speed_mph":2,"direction":"NNE"}}},"outcome":{"type":"half_over","current_inning":7,"current_inning_half":"T","count":{"balls":1,"strikes":2,"outs":3,"inning":7,"inning_half":"T","half_over":true},"hitter":{"preferred_name":"Josh","first_name":"Joshua","last_name":"Jung","jersey_number":"6","id":"97e08ec4-c8f2-4729-be55-43b20f9a1eb9","full_name":"Josh Jung","outcome_id":"oGO","ab_over":true},"pitcher":{"preferred_name":"Tarik","first_name":"Tarik","last_name":"Skubal","jersey_number":"29","id":"22187b04-0bc4-4351-a0f6-d41013673cb6","full_name":"Tarik Skubal","pitch_speed":88.7,"pitch_type":"CH","pitch_zone":12,"pitch_x":64,"pitch_y":-152}},"home":{"name":"Tigers","market":"Detroit","abbr":"DET","id":"575c19b7-4052-41c2-9f0a-1c5813d02f99","runs":2,"hits":2,"errors":0,"win":25,"loss":13,"probable_pitcher":{"preferred_name":"Tarik","first_name":"Tarik","last_name":"Skubal","jersey_number":"29","id":"22187b04-0bc4-4351-a0f6-d41013673cb6","full_name":"Tarik Skubal","win":3,"loss":2,"era":2.213},"starting_pitcher":{"preferred_name":"Tarik","first_name":"Tarik","last_name":"Skubal","jersey_number":"29","id":"22187b04-0bc4-4351-a0f6-d41013673cb6","full_name":"Tarik Skubal","win":3,"loss":2,"era":2.213},"current_pitcher":{"preferred_name":"Tarik","first_name":"Tarik","last_name":"Skubal","jersey_number":"29","id":"22187b04-0bc4-4351-a0f6-d41013673cb6","full_name":"Tarik Skubal","win":3,"loss":2,"era":2.213},"scoring":[{"number":1,"sequence":1,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":2,"sequence":2,"runs":1,"hits":1,"errors":0,"type":"inning"},{"number":3,"sequence":3,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":4,"sequence":4,"runs":1,"hits":1,"errors":0,"type":"inning"},{"number":5,"sequence":5,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":6,"sequence":6,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":7,"sequence":7,"runs":"X","hits":"X","errors":"X","type":"inning"}],"events":[{"hitter_id":"bba0f3b8-4b7e-4a37-bdc3-367356205922","pitcher_id":"0764772b-e8ab-42b3-9ee4-2b61af785e75","inning":2,"inning_half":"B","type":"pitch","hitter_outcome":"aD","id":"c6af9005-98fe-43bd-b4e1-afbfabc701fc","runners":[{"starting_base":1,"first_name":"Colten","last_name":"Keith","preferred_name":"Colt","jersey_number":"33","id":"73cbdd41-98c4-4dec-8c8a-1a6e1be959d9","full_name":"Colt Keith"}]},{"hitter_id":"73cbdd41-98c4-4dec-8c8a-1a6e1be959d9","pitcher_id":"0764772b-e8ab-42b3-9ee4-2b61af785e75","inning":4,"inning_half":"B","type":"pitch","hitter_outcome":"aS","id":"c779c2f7-ddbe-4be1-a127-36fcf74161b1","runners":[{"starting_base":2,"first_name":"Riley","last_name":"Greene","preferred_name":"Riley","jersey_number":"31","id":"c2689320-b989-4bbc-9afb-28e06aa31077","full_name":"Riley Greene"}]}]},"away":{"name":"Rangers","market":"Texas","abbr":"TEX","id":"d99f919b-1534-4516-8e8a-9cd106c6d8cd","runs":1,"hits":2,"errors":0,"win":18,"loss":20,"probable_pitcher":{"preferred_name":"Patrick","first_name":"Patrick","last_name":"Corbin","jersey_number":"46","id":"0764772b-e8ab-42b3-9ee4-2b61af785e75","full_name":"Patrick Corbin","win":2,"loss":1,"era":3.284},"starting_pitcher":{"preferred_name":"Patrick","first_name":"Patrick","last_name":"Corbin","jersey_number":"46","id":"0764772b-e8ab-42b3-9ee4-2b61af785e75","full_name":"Patrick Corbin","win":2,"loss":1,"era":3.284},"current_pitcher":{"preferred_name":"Patrick","first_name":"Patrick","last_name":"Corbin","jersey_number":"46","id":"0764772b-e8ab-42b3-9ee4-2b61af785e75","full_name":"Patrick Corbin","win":2,"loss":1,"era":3.284},"scoring":[{"number":1,"sequence":1,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":2,"sequence":2,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":3,"sequence":3,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":4,"sequence":4,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":5,"sequence":5,"runs":0,"hits":0,"errors":0,"type":"inning"},{"number":6,"sequence":6,"runs":1,"hits":2,"errors":0,"type":"inning"},{"number":7,"sequence":7,"runs":0,"hits":0,"errors":0,"type":"inning"}],"events":[{"hitter_id":"83224cde-72e0-416c-8d4b-fe83f5729451","pitcher_id":"22187b04-0bc4-4351-a0f6-d41013673cb6","inning":6,"inning_half":"T","type":"pitch","hitter_outcome":"aS","id":"da562377-0045-4f2d-878f-cf60b99e533d","runners":[{"starting_base":2,"first_name":"Josh","last_name":"Smith","preferred_name":"Josh","jersey_number":"8","id":"df34fa21-1eb8-4976-994e-fd9c8706e33c","full_name":"Josh Smith"}]}]}}}]},"_comment":"Generation started @ 2025-05-10 00:15:06 UTC ended @ 2025-05-10 00:15:06 UTC"}
+{
+  "league": {
+    "alias": "MLB",
+    "name": "Major League Baseball",
+    "id": "2fa448bc-fc17-4d3d-be03-e60e080fdc26",
+    "date": "2025-05-09",
+    "games": [
+      {
+        "game": {
+          "id": "e78d7b35-f187-4d6f-b8be-8ce2cf5ebf6f",
+          "status": "inprogress",
+          "coverage": "full",
+          "game_number": 1,
+          "day_night": "N",
+          "scheduled": "2025-05-09T23:10:00+00:00",
+          "home_team": "80715d0d-0d2a-450f-a970-1b9a3b18c7e7",
+          "away_team": "2142e1ba-3b40-445c-b8bb-f1f8b1054220",
+          "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+          "season_type": "REG",
+          "season_year": 2025,
+          "double_header": false,
+          "entry_mode": "STOMP",
+          "reference": "777997",
+          "time_zones": {
+            "venue": "US/Eastern",
+            "home": "US/Eastern",
+            "away": "US/Eastern"
+          },
+          "venue": {
+            "name": "Progressive Field",
+            "market": "Cleveland",
+            "capacity": 34788,
+            "surface": "grass",
+            "address": "2401 Ontario Street",
+            "city": "Cleveland",
+            "state": "OH",
+            "zip": "44115",
+            "country": "USA",
+            "id": "2b0ccd49-4d87-4996-ac4d-27ffc7ee4c16",
+            "field_orientation": "N",
+            "stadium_type": "outdoor",
+            "time_zone": "US/Eastern",
+            "location": { "lat": "41.4957048", "lng": "-81.6852732" }
+          },
+          "broadcasts": [
+            { "network": "NBCS-PH", "type": "TV", "locale": "Away" },
+            { "network": "CLEG", "type": "Internet", "locale": "Home" }
+          ],
+          "weather": {
+            "forecast": {
+              "temp_f": 55,
+              "condition": "Sunny",
+              "humidity": 51,
+              "dew_point_f": 37,
+              "cloud_cover": 0,
+              "obs_time": "2025-05-10T00:06:20.000+00:00",
+              "wind": { "speed_mph": 7, "direction": "NW" }
+            },
+            "current_conditions": {
+              "temp_f": 55,
+              "condition": "Sunny",
+              "humidity": 51,
+              "dew_point_f": 37,
+              "cloud_cover": 0,
+              "obs_time": "2025-05-10T00:06:20.000+00:00",
+              "wind": { "speed_mph": 7, "direction": "NW" }
+            }
+          },
+          "outcome": {
+            "type": "steal",
+            "current_inning": 4,
+            "current_inning_half": "T",
+            "count": {
+              "balls": 0,
+              "strikes": 1,
+              "outs": 2,
+              "inning": 4,
+              "inning_half": "T",
+              "half_over": false
+            },
+            "hitter": {
+              "preferred_name": "Alec",
+              "first_name": "Alec",
+              "last_name": "Bohm",
+              "jersey_number": "28",
+              "id": "93102f45-b65e-4512-bb76-c6ca023dc7db",
+              "full_name": "Alec Bohm",
+              "ab_over": false
+            },
+            "pitcher": {
+              "preferred_name": "Gavin",
+              "first_name": "Gavin",
+              "last_name": "Williams",
+              "jersey_number": "32",
+              "id": "59085c2a-d957-4bb4-8d7e-295419b7254d",
+              "full_name": "Gavin Williams"
+            },
+            "runners": [
+              {
+                "preferred_name": "Max",
+                "first_name": "Maximilian",
+                "last_name": "Kepler",
+                "jersey_number": "17",
+                "id": "a16f6afb-dbff-42ad-9621-52b769d2f224",
+                "full_name": "Max Kepler",
+                "outcome_id": "CK",
+                "starting_base": 1,
+                "ending_base": 1,
+                "out": false
+              }
+            ]
+          },
+          "home": {
+            "name": "Guardians",
+            "market": "Cleveland",
+            "abbr": "CLE",
+            "id": "80715d0d-0d2a-450f-a970-1b9a3b18c7e7",
+            "runs": 0,
+            "hits": 1,
+            "errors": 0,
+            "win": 22,
+            "loss": 15,
+            "probable_pitcher": {
+              "preferred_name": "Gavin",
+              "first_name": "Gavin",
+              "last_name": "Williams",
+              "jersey_number": "32",
+              "id": "59085c2a-d957-4bb4-8d7e-295419b7254d",
+              "full_name": "Gavin Williams",
+              "win": 2,
+              "loss": 2,
+              "era": 5.063
+            },
+            "starting_pitcher": {
+              "preferred_name": "Gavin",
+              "first_name": "Gavin",
+              "last_name": "Williams",
+              "jersey_number": "32",
+              "id": "59085c2a-d957-4bb4-8d7e-295419b7254d",
+              "full_name": "Gavin Williams",
+              "win": 2,
+              "loss": 2,
+              "era": 5.063
+            },
+            "current_pitcher": {
+              "preferred_name": "Gavin",
+              "first_name": "Gavin",
+              "last_name": "Williams",
+              "jersey_number": "32",
+              "id": "59085c2a-d957-4bb4-8d7e-295419b7254d",
+              "full_name": "Gavin Williams",
+              "win": 2,
+              "loss": 2,
+              "era": 5.063
+            },
+            "scoring": [
+              {
+                "number": 1,
+                "sequence": 1,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 2,
+                "sequence": 2,
+                "runs": 0,
+                "hits": 1,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 3,
+                "sequence": 3,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 4,
+                "sequence": 4,
+                "runs": "X",
+                "hits": "X",
+                "errors": "X",
+                "type": "inning"
+              }
+            ]
+          },
+          "away": {
+            "name": "Phillies",
+            "market": "Philadelphia",
+            "abbr": "PHI",
+            "id": "2142e1ba-3b40-445c-b8bb-f1f8b1054220",
+            "runs": 0,
+            "hits": 2,
+            "errors": 0,
+            "win": 22,
+            "loss": 15,
+            "probable_pitcher": {
+              "preferred_name": "Aaron",
+              "first_name": "Aaron",
+              "last_name": "Nola",
+              "jersey_number": "27",
+              "id": "ded1b30d-52ca-4eec-bce6-251b15b085ac",
+              "full_name": "Aaron Nola",
+              "win": 1,
+              "loss": 5,
+              "era": 4.61
+            },
+            "starting_pitcher": {
+              "preferred_name": "Aaron",
+              "first_name": "Aaron",
+              "last_name": "Nola",
+              "jersey_number": "27",
+              "id": "ded1b30d-52ca-4eec-bce6-251b15b085ac",
+              "full_name": "Aaron Nola",
+              "win": 1,
+              "loss": 5,
+              "era": 4.61
+            },
+            "current_pitcher": {
+              "preferred_name": "Aaron",
+              "first_name": "Aaron",
+              "last_name": "Nola",
+              "jersey_number": "27",
+              "id": "ded1b30d-52ca-4eec-bce6-251b15b085ac",
+              "full_name": "Aaron Nola",
+              "win": 1,
+              "loss": 5,
+              "era": 4.61
+            },
+            "scoring": [
+              {
+                "number": 1,
+                "sequence": 1,
+                "runs": 0,
+                "hits": 1,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 2,
+                "sequence": 2,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 3,
+                "sequence": 3,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 4,
+                "sequence": 4,
+                "runs": 0,
+                "hits": 1,
+                "errors": 0,
+                "type": "inning"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "game": {
+          "id": "2cf74af1-6b3e-492a-ac0c-3fea594e7c79",
+          "status": "inprogress",
+          "coverage": "full",
+          "game_number": 1,
+          "day_night": "N",
+          "scheduled": "2025-05-09T23:05:00+00:00",
+          "home_team": "bdc11650-6f74-49c4-875e-778aeb7632d9",
+          "away_team": "dcfd5266-00ce-442c-bc09-264cd20cf455",
+          "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+          "season_type": "REG",
+          "season_year": 2025,
+          "double_header": false,
+          "entry_mode": "STOMP",
+          "reference": "778002",
+          "time_zones": {
+            "venue": "US/Eastern",
+            "home": "US/Eastern",
+            "away": "US/Central"
+          },
+          "venue": {
+            "name": "George M. Steinbrenner Field",
+            "market": "Tampa Bay",
+            "capacity": 11026,
+            "surface": "grass",
+            "address": "1 Steinbrenner Drive",
+            "city": "Tampa",
+            "state": "FL",
+            "zip": "33614",
+            "country": "USA",
+            "id": "fca673a0-c7f8-42c3-868b-5bcb681c089d",
+            "field_orientation": "NE",
+            "stadium_type": "outdoor",
+            "time_zone": "US/Eastern",
+            "location": { "lat": "27.979330", "lng": "-82.508041" }
+          },
+          "broadcasts": [
+            {
+              "network": "FDSSUN",
+              "type": "TV",
+              "locale": "Home",
+              "channel": "653"
+            },
+            {
+              "network": "MLB Network",
+              "type": "TV",
+              "locale": "National",
+              "channel": "213"
+            },
+            {
+              "network": "FDSWI",
+              "type": "TV",
+              "locale": "Away",
+              "channel": "669"
+            }
+          ],
+          "weather": {
+            "forecast": {
+              "temp_f": 83,
+              "condition": "Overcast",
+              "humidity": 70,
+              "dew_point_f": 71,
+              "cloud_cover": 100,
+              "obs_time": "2025-05-10T00:09:58.000+00:00",
+              "wind": { "speed_mph": 12, "direction": "WSW" }
+            },
+            "current_conditions": {
+              "temp_f": 83,
+              "condition": "Overcast",
+              "humidity": 70,
+              "dew_point_f": 71,
+              "cloud_cover": 100,
+              "obs_time": "2025-05-10T00:09:58.000+00:00",
+              "wind": { "speed_mph": 12, "direction": "WSW" }
+            }
+          },
+          "outcome": {
+            "type": "pitch",
+            "current_inning": 5,
+            "current_inning_half": "T",
+            "count": {
+              "balls": 0,
+              "strikes": 1,
+              "outs": 2,
+              "inning": 5,
+              "inning_half": "T",
+              "half_over": false
+            },
+            "hitter": {
+              "preferred_name": "William",
+              "first_name": "William",
+              "last_name": "Contreras",
+              "jersey_number": "24",
+              "id": "1015a557-8e55-4c12-b63c-3306e25ae6e6",
+              "full_name": "William Contreras",
+              "outcome_id": "kKS",
+              "ab_over": false
+            },
+            "pitcher": {
+              "preferred_name": "Zack",
+              "first_name": "Zack",
+              "last_name": "Littell",
+              "jersey_number": "52",
+              "id": "fe0fc487-45d3-4178-9fd7-6c00025aff7e",
+              "full_name": "Zack Littell",
+              "pitch_speed": 91.7,
+              "pitch_type": "FA",
+              "pitch_zone": 1,
+              "pitch_x": -47,
+              "pitch_y": 39
+            },
+            "runners": [
+              {
+                "preferred_name": "Jackson",
+                "first_name": "Jackson",
+                "last_name": "Chourio",
+                "jersey_number": "11",
+                "id": "87128c5c-da3c-4fe6-9f04-83d6f8dc1302",
+                "full_name": "Jackson Chourio",
+                "outcome_id": "",
+                "starting_base": 1,
+                "ending_base": 1,
+                "out": false
+              }
+            ]
+          },
+          "home": {
+            "name": "Rays",
+            "market": "Tampa Bay",
+            "abbr": "TB",
+            "id": "bdc11650-6f74-49c4-875e-778aeb7632d9",
+            "runs": 2,
+            "hits": 4,
+            "errors": 1,
+            "win": 16,
+            "loss": 21,
+            "probable_pitcher": {
+              "preferred_name": "Zack",
+              "first_name": "Zack",
+              "last_name": "Littell",
+              "jersey_number": "52",
+              "id": "fe0fc487-45d3-4178-9fd7-6c00025aff7e",
+              "full_name": "Zack Littell",
+              "win": 2,
+              "loss": 5,
+              "era": 4.61
+            },
+            "starting_pitcher": {
+              "preferred_name": "Zack",
+              "first_name": "Zack",
+              "last_name": "Littell",
+              "jersey_number": "52",
+              "id": "fe0fc487-45d3-4178-9fd7-6c00025aff7e",
+              "full_name": "Zack Littell",
+              "win": 2,
+              "loss": 5,
+              "era": 4.61
+            },
+            "current_pitcher": {
+              "preferred_name": "Zack",
+              "first_name": "Zack",
+              "last_name": "Littell",
+              "jersey_number": "52",
+              "id": "fe0fc487-45d3-4178-9fd7-6c00025aff7e",
+              "full_name": "Zack Littell",
+              "win": 2,
+              "loss": 5,
+              "era": 4.61
+            },
+            "scoring": [
+              {
+                "number": 1,
+                "sequence": 1,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 2,
+                "sequence": 2,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 3,
+                "sequence": 3,
+                "runs": 1,
+                "hits": 2,
+                "errors": 1,
+                "type": "inning"
+              },
+              {
+                "number": 4,
+                "sequence": 4,
+                "runs": 1,
+                "hits": 2,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 5,
+                "sequence": 5,
+                "runs": "X",
+                "hits": "X",
+                "errors": "X",
+                "type": "inning"
+              }
+            ],
+            "events": [
+              {
+                "hitter_id": "c5756137-aad3-4279-a217-cff96ccf0db8",
+                "pitcher_id": "b1e3b804-0022-40bc-8f53-8c82ee4eb1b9",
+                "inning": 3,
+                "inning_half": "B",
+                "type": "pitch",
+                "hitter_outcome": "aSAD3",
+                "id": "306b5c74-89fd-4ed6-99b6-a89c82c9ae12",
+                "runners": [
+                  {
+                    "starting_base": 1,
+                    "first_name": "Taylor",
+                    "last_name": "Walls",
+                    "preferred_name": "Taylor",
+                    "jersey_number": "6",
+                    "id": "4c8bdaff-1cf9-4b2b-b22e-26b6dcde5d1b",
+                    "full_name": "Taylor Walls"
+                  }
+                ]
+              },
+              {
+                "hitter_id": "cafd29c0-91ac-4472-819c-c6dfb04bad71",
+                "pitcher_id": "b1e3b804-0022-40bc-8f53-8c82ee4eb1b9",
+                "inning": 4,
+                "inning_half": "B",
+                "type": "pitch",
+                "hitter_outcome": "aHR",
+                "id": "a76a15d7-f3e1-4e38-ab9e-49188d349d73",
+                "runners": [
+                  {
+                    "starting_base": 0,
+                    "first_name": "Brandon",
+                    "last_name": "Lowe",
+                    "preferred_name": "Brandon",
+                    "jersey_number": "8",
+                    "id": "cafd29c0-91ac-4472-819c-c6dfb04bad71",
+                    "full_name": "Brandon Lowe"
+                  }
+                ]
+              }
+            ]
+          },
+          "away": {
+            "name": "Brewers",
+            "market": "Milwaukee",
+            "abbr": "MIL",
+            "id": "dcfd5266-00ce-442c-bc09-264cd20cf455",
+            "runs": 2,
+            "hits": 5,
+            "errors": 1,
+            "win": 19,
+            "loss": 19,
+            "probable_pitcher": {
+              "preferred_name": "Jose",
+              "first_name": "Jose",
+              "last_name": "Quintana",
+              "jersey_number": "62",
+              "id": "b1e3b804-0022-40bc-8f53-8c82ee4eb1b9",
+              "full_name": "Jose Quintana",
+              "win": 4,
+              "loss": 1,
+              "era": 2.826
+            },
+            "starting_pitcher": {
+              "preferred_name": "Jose",
+              "first_name": "Jose",
+              "last_name": "Quintana",
+              "jersey_number": "62",
+              "id": "b1e3b804-0022-40bc-8f53-8c82ee4eb1b9",
+              "full_name": "Jose Quintana",
+              "win": 4,
+              "loss": 1,
+              "era": 2.826
+            },
+            "current_pitcher": {
+              "preferred_name": "Jose",
+              "first_name": "Jose",
+              "last_name": "Quintana",
+              "jersey_number": "62",
+              "id": "b1e3b804-0022-40bc-8f53-8c82ee4eb1b9",
+              "full_name": "Jose Quintana",
+              "win": 4,
+              "loss": 1,
+              "era": 2.826
+            },
+            "scoring": [
+              {
+                "number": 1,
+                "sequence": 1,
+                "runs": 1,
+                "hits": 2,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 2,
+                "sequence": 2,
+                "runs": 0,
+                "hits": 1,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 3,
+                "sequence": 3,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 4,
+                "sequence": 4,
+                "runs": 1,
+                "hits": 1,
+                "errors": 1,
+                "type": "inning"
+              },
+              {
+                "number": 5,
+                "sequence": 5,
+                "runs": 0,
+                "hits": 1,
+                "errors": 0,
+                "type": "inning"
+              }
+            ],
+            "events": [
+              {
+                "hitter_id": "1015a557-8e55-4c12-b63c-3306e25ae6e6",
+                "pitcher_id": "fe0fc487-45d3-4178-9fd7-6c00025aff7e",
+                "inning": 1,
+                "inning_half": "T",
+                "type": "pitch",
+                "hitter_outcome": "aS",
+                "id": "dae28077-b2da-4a7d-a4d9-aade7bf9d928",
+                "runners": [
+                  {
+                    "starting_base": 2,
+                    "first_name": "Jackson",
+                    "last_name": "Chourio",
+                    "preferred_name": "Jackson",
+                    "jersey_number": "11",
+                    "id": "87128c5c-da3c-4fe6-9f04-83d6f8dc1302",
+                    "full_name": "Jackson Chourio"
+                  }
+                ]
+              },
+              {
+                "hitter_id": "e538823b-c37b-4ecd-ab64-d28d8cbb8974",
+                "pitcher_id": "fe0fc487-45d3-4178-9fd7-6c00025aff7e",
+                "inning": 4,
+                "inning_half": "T",
+                "type": "pitch",
+                "hitter_outcome": "oGO",
+                "id": "5055c544-52d9-435e-9b3d-39af02cfa700",
+                "runners": [
+                  {
+                    "starting_base": 3,
+                    "first_name": "William",
+                    "last_name": "Contreras",
+                    "preferred_name": "William",
+                    "jersey_number": "24",
+                    "id": "1015a557-8e55-4c12-b63c-3306e25ae6e6",
+                    "full_name": "William Contreras"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "game": {
+          "id": "612072ed-2af7-47d4-a1a5-561a832b934a",
+          "status": "inprogress",
+          "coverage": "full",
+          "game_number": 1,
+          "day_night": "N",
+          "scheduled": "2025-05-09T22:45:00+00:00",
+          "home_team": "d89bed32-3aee-4407-99e3-4103641b999a",
+          "away_team": "44671792-dc02-4fdd-a5ad-f5f17edaa9d7",
+          "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+          "season_type": "REG",
+          "season_year": 2025,
+          "double_header": false,
+          "entry_mode": "STOMP",
+          "reference": "777995",
+          "time_zones": {
+            "venue": "US/Eastern",
+            "home": "US/Eastern",
+            "away": "US/Central"
+          },
+          "venue": {
+            "name": "Nationals Park",
+            "market": "Washington",
+            "capacity": 41376,
+            "surface": "grass",
+            "address": "1500 South Capitol Street SE",
+            "city": "Washington",
+            "state": "DC",
+            "zip": "20003",
+            "country": "USA",
+            "id": "bb062fb1-e268-412e-b3d2-2ddb6acc1822",
+            "field_orientation": "N",
+            "stadium_type": "outdoor",
+            "time_zone": "US/Eastern",
+            "location": { "lat": "38.8730933", "lng": "-77.0075727" }
+          },
+          "broadcasts": [
+            { "network": "Apple TV+", "type": "Internet", "locale": "National" }
+          ],
+          "weather": {
+            "forecast": {
+              "temp_f": 63,
+              "condition": "Partly cloudy",
+              "humidity": 58,
+              "dew_point_f": 47,
+              "cloud_cover": 75,
+              "obs_time": "2025-05-09T23:11:56.000+00:00",
+              "wind": { "speed_mph": 8, "direction": "N" }
+            },
+            "current_conditions": {
+              "temp_f": 61,
+              "condition": "Partly cloudy",
+              "humidity": 58,
+              "dew_point_f": 46,
+              "cloud_cover": 50,
+              "obs_time": "2025-05-10T00:11:54.000+00:00",
+              "wind": { "speed_mph": 8, "direction": "N" }
+            }
+          },
+          "outcome": {
+            "type": "pitch",
+            "current_inning": 5,
+            "current_inning_half": "B",
+            "count": {
+              "balls": 2,
+              "strikes": 0,
+              "outs": 0,
+              "inning": 5,
+              "inning_half": "B",
+              "half_over": false
+            },
+            "hitter": {
+              "preferred_name": "Josh",
+              "first_name": "Joshua",
+              "last_name": "Bell",
+              "jersey_number": "19",
+              "id": "49edaec4-ea7c-455b-ac2c-92961b4261f0",
+              "full_name": "Josh Bell",
+              "outcome_id": "bB",
+              "ab_over": false
+            },
+            "pitcher": {
+              "preferred_name": "Erick",
+              "first_name": "Erick",
+              "last_name": "Fedde",
+              "jersey_number": "12",
+              "id": "b484880b-790e-45a7-a751-2a03c01ec7ea",
+              "full_name": "Erick Fedde",
+              "pitch_speed": 90,
+              "pitch_type": "CT",
+              "pitch_zone": 10,
+              "pitch_x": 11,
+              "pitch_y": 126
+            },
+            "runners": [
+              {
+                "preferred_name": "Amed",
+                "first_name": "German",
+                "last_name": "Rosario",
+                "jersey_number": "13",
+                "id": "e19efe62-ace7-4202-97bf-d457a71c50d5",
+                "full_name": "Amed Rosario",
+                "outcome_id": "",
+                "starting_base": 1,
+                "ending_base": 1,
+                "out": false
+              }
+            ]
+          },
+          "home": {
+            "name": "Nationals",
+            "market": "Washington",
+            "abbr": "WSH",
+            "id": "d89bed32-3aee-4407-99e3-4103641b999a",
+            "runs": 0,
+            "hits": 3,
+            "errors": 0,
+            "win": 17,
+            "loss": 21,
+            "probable_pitcher": {
+              "preferred_name": "Mitchell",
+              "first_name": "Mitchell",
+              "last_name": "Parker",
+              "jersey_number": "70",
+              "id": "3dafa2d3-e47c-4bf2-aff9-4efd6853e93d",
+              "full_name": "Mitchell Parker",
+              "win": 3,
+              "loss": 2,
+              "era": 3.484
+            },
+            "starting_pitcher": {
+              "preferred_name": "Mitchell",
+              "first_name": "Mitchell",
+              "last_name": "Parker",
+              "jersey_number": "70",
+              "id": "3dafa2d3-e47c-4bf2-aff9-4efd6853e93d",
+              "full_name": "Mitchell Parker",
+              "win": 3,
+              "loss": 2,
+              "era": 3.484
+            },
+            "current_pitcher": {
+              "preferred_name": "Jackson",
+              "first_name": "Jackson",
+              "last_name": "Rutledge",
+              "jersey_number": "79",
+              "id": "11733d40-12c6-4cb3-b9f6-054c52d95cc9",
+              "full_name": "Jackson Rutledge",
+              "win": 0,
+              "loss": 0,
+              "era": 2.077
+            },
+            "scoring": [
+              {
+                "number": 1,
+                "sequence": 1,
+                "runs": 0,
+                "hits": 1,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 2,
+                "sequence": 2,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 3,
+                "sequence": 3,
+                "runs": 0,
+                "hits": 1,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 4,
+                "sequence": 4,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 5,
+                "sequence": 5,
+                "runs": 0,
+                "hits": 1,
+                "errors": 0,
+                "type": "inning"
+              }
+            ]
+          },
+          "away": {
+            "name": "Cardinals",
+            "market": "St. Louis",
+            "abbr": "STL",
+            "id": "44671792-dc02-4fdd-a5ad-f5f17edaa9d7",
+            "runs": 6,
+            "hits": 10,
+            "errors": 0,
+            "win": 19,
+            "loss": 19,
+            "probable_pitcher": {
+              "preferred_name": "Erick",
+              "first_name": "Erick",
+              "last_name": "Fedde",
+              "jersey_number": "12",
+              "id": "b484880b-790e-45a7-a751-2a03c01ec7ea",
+              "full_name": "Erick Fedde",
+              "win": 2,
+              "loss": 3,
+              "era": 4.779
+            },
+            "starting_pitcher": {
+              "preferred_name": "Erick",
+              "first_name": "Erick",
+              "last_name": "Fedde",
+              "jersey_number": "12",
+              "id": "b484880b-790e-45a7-a751-2a03c01ec7ea",
+              "full_name": "Erick Fedde",
+              "win": 2,
+              "loss": 3,
+              "era": 4.779
+            },
+            "current_pitcher": {
+              "preferred_name": "Erick",
+              "first_name": "Erick",
+              "last_name": "Fedde",
+              "jersey_number": "12",
+              "id": "b484880b-790e-45a7-a751-2a03c01ec7ea",
+              "full_name": "Erick Fedde",
+              "win": 2,
+              "loss": 3,
+              "era": 4.779
+            },
+            "scoring": [
+              {
+                "number": 1,
+                "sequence": 1,
+                "runs": 2,
+                "hits": 2,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 2,
+                "sequence": 2,
+                "runs": 0,
+                "hits": 1,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 3,
+                "sequence": 3,
+                "runs": 1,
+                "hits": 2,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 4,
+                "sequence": 4,
+                "runs": 1,
+                "hits": 2,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 5,
+                "sequence": 5,
+                "runs": 2,
+                "hits": 3,
+                "errors": 0,
+                "type": "inning"
+              }
+            ],
+            "events": [
+              {
+                "hitter_id": "9d93f121-f032-407d-bb30-ad3593641db9",
+                "pitcher_id": "3dafa2d3-e47c-4bf2-aff9-4efd6853e93d",
+                "inning": 1,
+                "inning_half": "T",
+                "type": "pitch",
+                "hitter_outcome": "aD",
+                "id": "cea933eb-10d1-4595-b722-3b542d17b4f8",
+                "runners": [
+                  {
+                    "starting_base": 2,
+                    "first_name": "Masyn",
+                    "last_name": "Winn",
+                    "preferred_name": "Masyn",
+                    "jersey_number": "0",
+                    "id": "6162380d-5201-4e3c-a1a3-0d3db5afc356",
+                    "full_name": "Masyn Winn"
+                  },
+                  {
+                    "starting_base": 3,
+                    "first_name": "Lars",
+                    "last_name": "Nootbaar",
+                    "preferred_name": "Lars",
+                    "jersey_number": "21",
+                    "id": "99518b96-7d38-4f19-8c49-cafbac98ea74",
+                    "full_name": "Lars Nootbaar"
+                  }
+                ]
+              },
+              {
+                "hitter_id": "425cd8ba-6803-4970-972d-033ce47fa53a",
+                "pitcher_id": "3dafa2d3-e47c-4bf2-aff9-4efd6853e93d",
+                "inning": 3,
+                "inning_half": "T",
+                "type": "pitch",
+                "hitter_outcome": "oSF",
+                "id": "0a306c34-3f06-4599-89b9-293c61cb2361",
+                "runners": [
+                  {
+                    "starting_base": 3,
+                    "first_name": "Brendan",
+                    "last_name": "Donovan",
+                    "preferred_name": "Brendan",
+                    "jersey_number": "33",
+                    "id": "8babdbd4-d607-4bb0-a6c1-708c247c08ed",
+                    "full_name": "Brendan Donovan"
+                  }
+                ]
+              },
+              {
+                "hitter_id": "e3c46c38-b6ad-439c-a03f-287646d47fc0",
+                "pitcher_id": "3dafa2d3-e47c-4bf2-aff9-4efd6853e93d",
+                "inning": 4,
+                "inning_half": "T",
+                "type": "pitch",
+                "hitter_outcome": "oSF",
+                "id": "1065ec5b-8a20-4e7d-aab7-b3046c32c79c",
+                "runners": [
+                  {
+                    "starting_base": 3,
+                    "first_name": "Pedro",
+                    "last_name": "Pagés",
+                    "preferred_name": "Pedro",
+                    "jersey_number": "43",
+                    "id": "bb5f8930-2050-40e2-8515-b0c3a2b218d3",
+                    "full_name": "Pedro Pagés"
+                  }
+                ]
+              },
+              {
+                "hitter_id": "425cd8ba-6803-4970-972d-033ce47fa53a",
+                "pitcher_id": "11733d40-12c6-4cb3-b9f6-054c52d95cc9",
+                "inning": 5,
+                "inning_half": "T",
+                "type": "pitch",
+                "hitter_outcome": "aD",
+                "id": "0ec03f82-ec8f-4aae-b12d-f7ad68748b2d",
+                "runners": [
+                  {
+                    "starting_base": 2,
+                    "first_name": "Nolan",
+                    "last_name": "Arenado",
+                    "preferred_name": "Nolan",
+                    "jersey_number": "28",
+                    "id": "aec77ff1-c238-449c-9af6-ed76ff9dd702",
+                    "full_name": "Nolan Arenado"
+                  }
+                ]
+              },
+              {
+                "hitter_id": "7941825b-0909-40e8-b680-8c6493f24c89",
+                "pitcher_id": "11733d40-12c6-4cb3-b9f6-054c52d95cc9",
+                "inning": 5,
+                "inning_half": "T",
+                "type": "pitch",
+                "hitter_outcome": "oSF",
+                "id": "50c72a87-2031-47bc-8019-879545aa9c35",
+                "runners": [
+                  {
+                    "starting_base": 3,
+                    "first_name": "Willson",
+                    "last_name": "Contreras",
+                    "preferred_name": "Willson",
+                    "jersey_number": "40",
+                    "id": "9d93f121-f032-407d-bb30-ad3593641db9",
+                    "full_name": "Willson Contreras"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "game": {
+          "id": "ec16d202-87fe-45a9-bb41-1331c9f40561",
+          "status": "inprogress",
+          "coverage": "full",
+          "game_number": 1,
+          "day_night": "N",
+          "scheduled": "2025-05-09T23:40:00+00:00",
+          "home_team": "833a51a9-0d84-410f-bd77-da08c3e5e26e",
+          "away_team": "93941372-eb4c-4c40-aced-fe3267174393",
+          "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+          "season_type": "REG",
+          "season_year": 2025,
+          "double_header": false,
+          "entry_mode": "STOMP",
+          "reference": "777990",
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Eastern"
+          },
+          "venue": {
+            "name": "Kauffman Stadium",
+            "market": "Kansas City",
+            "capacity": 38427,
+            "surface": "grass",
+            "address": "One Royal Way",
+            "city": "Kansas City",
+            "state": "MO",
+            "zip": "64129",
+            "country": "USA",
+            "id": "6fca95c9-7f2c-4acb-a9f3-02ef96340d2a",
+            "field_orientation": "NE",
+            "stadium_type": "outdoor",
+            "time_zone": "US/Central",
+            "location": { "lat": "39.051465", "lng": "-94.48028889999999" }
+          },
+          "broadcasts": [
+            {
+              "network": "NESN",
+              "type": "TV",
+              "locale": "Away",
+              "channel": "628"
+            },
+            {
+              "network": "FDSKC",
+              "type": "TV",
+              "locale": "Home",
+              "channel": "671-5"
+            }
+          ],
+          "weather": {
+            "forecast": {
+              "temp_f": 75,
+              "condition": "Sunny",
+              "humidity": 26,
+              "dew_point_f": 38,
+              "cloud_cover": 0,
+              "obs_time": "2025-05-10T00:10:15.000+00:00",
+              "wind": { "speed_mph": 7, "direction": "NE" }
+            },
+            "current_conditions": {
+              "temp_f": 75,
+              "condition": "Sunny",
+              "humidity": 26,
+              "dew_point_f": 38,
+              "cloud_cover": 0,
+              "obs_time": "2025-05-10T00:10:15.000+00:00",
+              "wind": { "speed_mph": 7, "direction": "NE" }
+            }
+          },
+          "outcome": {
+            "type": "pitch",
+            "current_inning": 3,
+            "current_inning_half": "B",
+            "count": {
+              "balls": 3,
+              "strikes": 2,
+              "outs": 1,
+              "inning": 3,
+              "inning_half": "B",
+              "half_over": false
+            },
+            "hitter": {
+              "preferred_name": "Kyle",
+              "first_name": "Kyle",
+              "last_name": "Isbel",
+              "jersey_number": "28",
+              "id": "5678ca88-577b-46f9-9f9f-5a118003db1a",
+              "full_name": "Kyle Isbel",
+              "outcome_id": "bB",
+              "ab_over": false
+            },
+            "pitcher": {
+              "preferred_name": "Hunter",
+              "first_name": "Hunter",
+              "last_name": "Dobbins",
+              "jersey_number": "73",
+              "id": "df569e68-70ff-479b-8839-554ebd6ea2fb",
+              "full_name": "Hunter Dobbins",
+              "pitch_speed": 97.2,
+              "pitch_type": "FA",
+              "pitch_zone": 11,
+              "pitch_x": 105,
+              "pitch_y": -130
+            }
+          },
+          "home": {
+            "name": "Royals",
+            "market": "Kansas City",
+            "abbr": "KC",
+            "id": "833a51a9-0d84-410f-bd77-da08c3e5e26e",
+            "runs": 0,
+            "hits": 1,
+            "errors": 0,
+            "win": 23,
+            "loss": 16,
+            "probable_pitcher": {
+              "preferred_name": "Michael",
+              "first_name": "Michael",
+              "last_name": "Lorenzen",
+              "jersey_number": "24",
+              "id": "4150b3f7-beb3-4fbc-a947-933d45d20bfe",
+              "full_name": "Michael Lorenzen",
+              "win": 3,
+              "loss": 3,
+              "era": 4.226
+            },
+            "starting_pitcher": {
+              "preferred_name": "Michael",
+              "first_name": "Michael",
+              "last_name": "Lorenzen",
+              "jersey_number": "24",
+              "id": "4150b3f7-beb3-4fbc-a947-933d45d20bfe",
+              "full_name": "Michael Lorenzen",
+              "win": 3,
+              "loss": 3,
+              "era": 4.226
+            },
+            "current_pitcher": {
+              "preferred_name": "Michael",
+              "first_name": "Michael",
+              "last_name": "Lorenzen",
+              "jersey_number": "24",
+              "id": "4150b3f7-beb3-4fbc-a947-933d45d20bfe",
+              "full_name": "Michael Lorenzen",
+              "win": 3,
+              "loss": 3,
+              "era": 4.226
+            },
+            "scoring": [
+              {
+                "number": 1,
+                "sequence": 1,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 2,
+                "sequence": 2,
+                "runs": 0,
+                "hits": 1,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 3,
+                "sequence": 3,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              }
+            ]
+          },
+          "away": {
+            "name": "Red Sox",
+            "market": "Boston",
+            "abbr": "BOS",
+            "id": "93941372-eb4c-4c40-aced-fe3267174393",
+            "runs": 0,
+            "hits": 0,
+            "errors": 0,
+            "win": 20,
+            "loss": 19,
+            "probable_pitcher": {
+              "preferred_name": "Hunter",
+              "first_name": "Hunter",
+              "last_name": "Dobbins",
+              "jersey_number": "73",
+              "id": "df569e68-70ff-479b-8839-554ebd6ea2fb",
+              "full_name": "Hunter Dobbins",
+              "win": 2,
+              "loss": 1,
+              "era": 3.78
+            },
+            "starting_pitcher": {
+              "preferred_name": "Hunter",
+              "first_name": "Hunter",
+              "last_name": "Dobbins",
+              "jersey_number": "73",
+              "id": "df569e68-70ff-479b-8839-554ebd6ea2fb",
+              "full_name": "Hunter Dobbins",
+              "win": 2,
+              "loss": 1,
+              "era": 3.78
+            },
+            "current_pitcher": {
+              "preferred_name": "Hunter",
+              "first_name": "Hunter",
+              "last_name": "Dobbins",
+              "jersey_number": "73",
+              "id": "df569e68-70ff-479b-8839-554ebd6ea2fb",
+              "full_name": "Hunter Dobbins",
+              "win": 2,
+              "loss": 1,
+              "era": 3.78
+            },
+            "scoring": [
+              {
+                "number": 1,
+                "sequence": 1,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 2,
+                "sequence": 2,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 3,
+                "sequence": 3,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "game": {
+          "id": "83723579-b9f3-43d9-ad20-c1cf0dea7eb1",
+          "status": "scheduled",
+          "coverage": "full",
+          "game_number": 1,
+          "day_night": "N",
+          "scheduled": "2025-05-10T01:38:00+00:00",
+          "home_team": "4f735188-37c8-473d-ae32-1f7e34ccf892",
+          "away_team": "75729d34-bca7-4a0f-b3df-6f26c6ad3719",
+          "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+          "season_type": "REG",
+          "season_year": 2025,
+          "double_header": false,
+          "entry_mode": "STOMP",
+          "reference": "777986",
+          "time_zones": {
+            "venue": "US/Pacific",
+            "home": "US/Pacific",
+            "away": "US/Eastern"
+          },
+          "venue": {
+            "name": "Angel Stadium",
+            "market": "Los Angeles",
+            "capacity": 45517,
+            "surface": "grass",
+            "address": "2000 Gene Autry Way",
+            "city": "Anaheim",
+            "state": "CA",
+            "zip": "92806",
+            "country": "USA",
+            "id": "60732da9-ad03-4feb-9a36-aee3e98c7a2b",
+            "field_orientation": "NE",
+            "stadium_type": "outdoor",
+            "time_zone": "US/Pacific",
+            "location": { "lat": "33.7996617", "lng": "-117.8834384" }
+          },
+          "broadcasts": [
+            {
+              "network": "FDSW",
+              "type": "TV",
+              "locale": "Home",
+              "channel": "692"
+            },
+            {
+              "network": "MASN",
+              "type": "TV",
+              "locale": "Away",
+              "channel": "640"
+            }
+          ],
+          "weather": {
+            "forecast": {
+              "temp_f": 80,
+              "condition": "Sunny",
+              "humidity": 49,
+              "dew_point_f": 59,
+              "cloud_cover": 9,
+              "obs_time": "2025-05-09T11:03:53.000+00:00",
+              "wind": { "speed_mph": 9, "direction": "W" }
+            }
+          },
+          "home": {
+            "name": "Angels",
+            "market": "Los Angeles",
+            "abbr": "LAA",
+            "id": "4f735188-37c8-473d-ae32-1f7e34ccf892",
+            "runs": 0,
+            "hits": 0,
+            "errors": 0,
+            "win": 15,
+            "loss": 21,
+            "probable_pitcher": {
+              "preferred_name": "Kyle",
+              "first_name": "Kyle",
+              "last_name": "Hendricks",
+              "jersey_number": "28",
+              "id": "dec510da-0104-48f0-892f-37a9ab9d02ff",
+              "full_name": "Kyle Hendricks",
+              "win": 1,
+              "loss": 3,
+              "era": 5.283
+            }
+          },
+          "away": {
+            "name": "Orioles",
+            "market": "Baltimore",
+            "abbr": "BAL",
+            "id": "75729d34-bca7-4a0f-b3df-6f26c6ad3719",
+            "runs": 0,
+            "hits": 0,
+            "errors": 0,
+            "win": 13,
+            "loss": 23,
+            "probable_pitcher": {
+              "preferred_name": "Tomoyuki",
+              "first_name": "Tomoyuki",
+              "last_name": "Sugano",
+              "jersey_number": "19",
+              "id": "b34ad145-1a14-4fd6-9dc4-27483ad14418",
+              "full_name": "Tomoyuki Sugano",
+              "win": 3,
+              "loss": 2,
+              "era": 3
+            }
+          }
+        }
+      },
+      {
+        "game": {
+          "id": "418860de-9606-47e7-89ce-4abd7693d8ef",
+          "status": "scheduled",
+          "coverage": "full",
+          "game_number": 1,
+          "day_night": "N",
+          "scheduled": "2025-05-10T00:40:00+00:00",
+          "home_team": "29dd9a87-5bcc-4774-80c3-7f50d985068b",
+          "away_team": "d52d5339-cbdd-43f3-9dfa-a42fd588b9a3",
+          "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+          "season_type": "REG",
+          "season_year": 2025,
+          "double_header": false,
+          "entry_mode": "STOMP",
+          "reference": "777993",
+          "time_zones": {
+            "venue": "US/Mountain",
+            "home": "US/Mountain",
+            "away": "US/Pacific"
+          },
+          "venue": {
+            "name": "Coors Field",
+            "market": "Colorado",
+            "capacity": 50144,
+            "surface": "grass",
+            "address": "2001 Blake Street",
+            "city": "Denver",
+            "state": "CO",
+            "zip": "80205",
+            "country": "USA",
+            "id": "85dd5cd6-7324-4b52-a1cc-68f816d0cdce",
+            "field_orientation": "N",
+            "stadium_type": "outdoor",
+            "time_zone": "US/Mountain",
+            "location": { "lat": "39.7559779", "lng": "-104.9933491" }
+          },
+          "broadcasts": [
+            { "network": "SDPA", "type": "Internet", "locale": "Away" },
+            { "network": "COLR", "type": "Internet", "locale": "Home" }
+          ],
+          "weather": {
+            "forecast": {
+              "temp_f": 71,
+              "condition": "Partly Cloudy ",
+              "humidity": 30,
+              "dew_point_f": 38,
+              "cloud_cover": 60,
+              "obs_time": "2025-05-09T11:03:53.000+00:00",
+              "wind": { "speed_mph": 8, "direction": "ENE" }
+            }
+          },
+          "home": {
+            "name": "Rockies",
+            "market": "Colorado",
+            "abbr": "COL",
+            "id": "29dd9a87-5bcc-4774-80c3-7f50d985068b",
+            "runs": 0,
+            "hits": 0,
+            "errors": 0,
+            "win": 6,
+            "loss": 31,
+            "probable_pitcher": {
+              "preferred_name": "Antonio",
+              "first_name": "Antonio",
+              "last_name": "Senzatela",
+              "jersey_number": "49",
+              "id": "1899170d-0079-4a00-8d65-0f9668e48d8a",
+              "full_name": "Antonio Senzatela",
+              "win": 1,
+              "loss": 5,
+              "era": 5.505
+            }
+          },
+          "away": {
+            "name": "Padres",
+            "market": "San Diego",
+            "abbr": "SD",
+            "id": "d52d5339-cbdd-43f3-9dfa-a42fd588b9a3",
+            "runs": 0,
+            "hits": 0,
+            "errors": 0,
+            "win": 23,
+            "loss": 13,
+            "probable_pitcher": {
+              "preferred_name": "Randy",
+              "first_name": "Randy",
+              "last_name": "Vásquez",
+              "jersey_number": "98",
+              "id": "766649ef-3ac0-4883-ada3-9d73320cf876",
+              "full_name": "Randy Vásquez",
+              "win": 1,
+              "loss": 3,
+              "era": 3.897
+            }
+          }
+        }
+      },
+      {
+        "game": {
+          "id": "b80fca82-5c6e-4ff3-8581-f7a531107f89",
+          "status": "scheduled",
+          "coverage": "full",
+          "game_number": 1,
+          "day_night": "N",
+          "scheduled": "2025-05-10T01:40:00+00:00",
+          "home_team": "43a39081-52b4-4f93-ad29-da7f329ea960",
+          "away_team": "1d678440-b4b1-4954-9b39-70afb3ebbcfa",
+          "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+          "season_type": "REG",
+          "season_year": 2025,
+          "double_header": false,
+          "entry_mode": "STOMP",
+          "reference": "777984",
+          "time_zones": {
+            "venue": "US/Pacific",
+            "home": "US/Pacific",
+            "away": "US/Eastern"
+          },
+          "venue": {
+            "name": "T-Mobile Park",
+            "market": "Seattle",
+            "capacity": 47929,
+            "surface": "grass",
+            "address": "1516 First Avenue South",
+            "city": "Seattle",
+            "state": "WA",
+            "zip": "98134",
+            "country": "USA",
+            "id": "f1c03dac-3c0f-437c-a325-8d5702cd321a",
+            "field_orientation": "NE",
+            "stadium_type": "retractable",
+            "time_zone": "US/Pacific",
+            "location": { "lat": "47.5899037", "lng": "-122.3337561" }
+          },
+          "broadcasts": [
+            { "network": "SN1", "type": "TV", "locale": "Away" },
+            {
+              "network": "ROOT Sports NW",
+              "type": "TV",
+              "locale": "Home",
+              "channel": "687"
+            }
+          ],
+          "weather": {
+            "forecast": {
+              "temp_f": 67,
+              "condition": "Cloudy ",
+              "humidity": 38,
+              "dew_point_f": 40,
+              "cloud_cover": 84,
+              "obs_time": "2025-05-09T11:03:54.000+00:00",
+              "wind": { "speed_mph": 6, "direction": "N" }
+            }
+          },
+          "home": {
+            "name": "Mariners",
+            "market": "Seattle",
+            "abbr": "SEA",
+            "id": "43a39081-52b4-4f93-ad29-da7f329ea960",
+            "runs": 0,
+            "hits": 0,
+            "errors": 0,
+            "win": 22,
+            "loss": 14,
+            "probable_pitcher": {
+              "preferred_name": "Luis",
+              "first_name": "Luis",
+              "last_name": "Castillo",
+              "jersey_number": "58",
+              "id": "71791d18-9c59-4e2f-863d-007d3cdd7efd",
+              "full_name": "Luis Castillo",
+              "win": 3,
+              "loss": 2,
+              "era": 3.287
+            }
+          },
+          "away": {
+            "name": "Blue Jays",
+            "market": "Toronto",
+            "abbr": "TOR",
+            "id": "1d678440-b4b1-4954-9b39-70afb3ebbcfa",
+            "runs": 0,
+            "hits": 0,
+            "errors": 0,
+            "win": 17,
+            "loss": 20,
+            "probable_pitcher": {
+              "preferred_name": "Kevin",
+              "first_name": "Kevin",
+              "last_name": "Gausman",
+              "jersey_number": "34",
+              "id": "cef2e01f-1349-4e31-bf1e-757ae8cb6bc6",
+              "full_name": "Kevin Gausman",
+              "win": 2,
+              "loss": 3,
+              "era": 3.825
+            }
+          }
+        }
+      },
+      {
+        "game": {
+          "id": "4f2bdc94-af4a-480b-ad85-1e0e73a28865",
+          "status": "inprogress",
+          "coverage": "full",
+          "game_number": 1,
+          "day_night": "N",
+          "scheduled": "2025-05-10T00:10:00+00:00",
+          "home_team": "eb21dadd-8f10-4095-8bf3-dfb3b779f107",
+          "away_team": "c874a065-c115-4e7d-b0f0-235584fb0e6f",
+          "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+          "season_type": "REG",
+          "season_year": 2025,
+          "double_header": false,
+          "entry_mode": "STOMP",
+          "reference": "777989",
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Eastern"
+          },
+          "venue": {
+            "name": "Daikin Park",
+            "market": "Houston",
+            "capacity": 41000,
+            "surface": "grass",
+            "address": "501 Crawford Street",
+            "city": "Houston",
+            "state": "TX",
+            "zip": "77002",
+            "country": "USA",
+            "id": "f0600f04-1386-4c61-a412-804960c46cb1",
+            "field_orientation": "N",
+            "stadium_type": "retractable",
+            "time_zone": "US/Central",
+            "location": { "lat": "29.7577058", "lng": "-95.35453989999999" }
+          },
+          "broadcasts": [
+            {
+              "network": "FDSOH",
+              "type": "TV",
+              "locale": "Away",
+              "channel": "660"
+            },
+            {
+              "network": "SCHN",
+              "type": "TV",
+              "locale": "Home",
+              "channel": "674"
+            }
+          ],
+          "weather": {
+            "forecast": {
+              "temp_f": 79,
+              "condition": "Overcast ",
+              "humidity": 42,
+              "dew_point_f": 54,
+              "cloud_cover": 0,
+              "obs_time": "2025-05-10T00:10:18.000+00:00",
+              "wind": { "speed_mph": 9, "direction": "NNW" }
+            },
+            "current_conditions": {
+              "temp_f": 79,
+              "condition": "Overcast ",
+              "humidity": 42,
+              "dew_point_f": 54,
+              "cloud_cover": 0,
+              "obs_time": "2025-05-10T00:10:18.000+00:00",
+              "wind": { "speed_mph": 9, "direction": "NNW" }
+            }
+          },
+          "outcome": {
+            "type": "pitch",
+            "current_inning": 1,
+            "current_inning_half": "T",
+            "count": {
+              "balls": 2,
+              "strikes": 2,
+              "outs": 1,
+              "inning": 1,
+              "inning_half": "T",
+              "half_over": false
+            },
+            "hitter": {
+              "preferred_name": "Matt",
+              "first_name": "Matthew",
+              "last_name": "McLain",
+              "jersey_number": "9",
+              "id": "429eaa60-463f-4c48-ae31-4e3df86674d8",
+              "full_name": "Matt McLain",
+              "outcome_id": "kKL",
+              "ab_over": false
+            },
+            "pitcher": {
+              "preferred_name": "Hunter",
+              "first_name": "Hunter",
+              "last_name": "Brown",
+              "jersey_number": "58",
+              "id": "7ba58155-1133-4f26-be65-9ce443e3fedc",
+              "full_name": "Hunter Brown",
+              "pitch_speed": 98.4,
+              "pitch_type": "FA",
+              "pitch_zone": 10,
+              "pitch_x": -47,
+              "pitch_y": 130
+            }
+          },
+          "home": {
+            "name": "Astros",
+            "market": "Houston",
+            "abbr": "HOU",
+            "id": "eb21dadd-8f10-4095-8bf3-dfb3b779f107",
+            "runs": 0,
+            "hits": 0,
+            "errors": 0,
+            "win": 18,
+            "loss": 18,
+            "probable_pitcher": {
+              "preferred_name": "Hunter",
+              "first_name": "Hunter",
+              "last_name": "Brown",
+              "jersey_number": "58",
+              "id": "7ba58155-1133-4f26-be65-9ce443e3fedc",
+              "full_name": "Hunter Brown",
+              "win": 5,
+              "loss": 1,
+              "era": 1.674
+            },
+            "starting_pitcher": {
+              "preferred_name": "Hunter",
+              "first_name": "Hunter",
+              "last_name": "Brown",
+              "jersey_number": "58",
+              "id": "7ba58155-1133-4f26-be65-9ce443e3fedc",
+              "full_name": "Hunter Brown",
+              "win": 5,
+              "loss": 1,
+              "era": 1.674
+            },
+            "current_pitcher": {
+              "preferred_name": "Hunter",
+              "first_name": "Hunter",
+              "last_name": "Brown",
+              "jersey_number": "58",
+              "id": "7ba58155-1133-4f26-be65-9ce443e3fedc",
+              "full_name": "Hunter Brown",
+              "win": 5,
+              "loss": 1,
+              "era": 1.674
+            },
+            "scoring": [
+              {
+                "number": 1,
+                "sequence": 1,
+                "runs": "X",
+                "hits": "X",
+                "errors": "X",
+                "type": "inning"
+              }
+            ]
+          },
+          "away": {
+            "name": "Reds",
+            "market": "Cincinnati",
+            "abbr": "CIN",
+            "id": "c874a065-c115-4e7d-b0f0-235584fb0e6f",
+            "runs": 0,
+            "hits": 0,
+            "errors": 0,
+            "win": 19,
+            "loss": 20,
+            "probable_pitcher": {
+              "preferred_name": "Nick",
+              "first_name": "Nicholas",
+              "last_name": "Martinez",
+              "jersey_number": "28",
+              "id": "36818090-03bc-44dc-b0f7-4fb0f4182bb1",
+              "full_name": "Nick Martinez",
+              "win": 1,
+              "loss": 3,
+              "era": 4.19
+            },
+            "starting_pitcher": {
+              "preferred_name": "Nick",
+              "first_name": "Nicholas",
+              "last_name": "Martinez",
+              "jersey_number": "28",
+              "id": "36818090-03bc-44dc-b0f7-4fb0f4182bb1",
+              "full_name": "Nick Martinez",
+              "win": 1,
+              "loss": 3,
+              "era": 4.19
+            },
+            "current_pitcher": {
+              "preferred_name": "Nick",
+              "first_name": "Nicholas",
+              "last_name": "Martinez",
+              "jersey_number": "28",
+              "id": "36818090-03bc-44dc-b0f7-4fb0f4182bb1",
+              "full_name": "Nick Martinez",
+              "win": 1,
+              "loss": 3,
+              "era": 4.19
+            },
+            "scoring": [
+              {
+                "number": 1,
+                "sequence": 1,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "game": {
+          "id": "09893ec2-ad8f-487d-9038-e127e3efe592",
+          "status": "inprogress",
+          "coverage": "full",
+          "game_number": 1,
+          "day_night": "N",
+          "scheduled": "2025-05-10T00:10:00+00:00",
+          "home_team": "aa34e0ed-f342-4ec6-b774-c79b47b60e2d",
+          "away_team": "a7723160-10b7-4277-a309-d8dd95a8ae65",
+          "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+          "season_type": "REG",
+          "season_year": 2025,
+          "double_header": false,
+          "entry_mode": "STOMP",
+          "reference": "777992",
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Pacific"
+          },
+          "venue": {
+            "name": "Target Field",
+            "market": "Minnesota",
+            "capacity": 38544,
+            "surface": "grass",
+            "address": "1 Twins Way",
+            "city": "Minneapolis",
+            "state": "MN",
+            "zip": "55403",
+            "country": "USA",
+            "id": "302f8dcd-eed6-4b83-8609-81548d51e955",
+            "field_orientation": "E",
+            "stadium_type": "outdoor",
+            "time_zone": "US/Central",
+            "location": { "lat": "44.981829", "lng": "-93.277891" }
+          },
+          "broadcasts": [
+            { "network": "Apple TV+", "type": "Internet", "locale": "National" }
+          ],
+          "weather": {
+            "forecast": {
+              "temp_f": 82,
+              "condition": "Thundery outbreaks in nearby",
+              "humidity": 35,
+              "dew_point_f": 52,
+              "cloud_cover": 50,
+              "obs_time": "2025-05-09T11:03:53.000+00:00",
+              "wind": { "speed_mph": 4, "direction": "W" }
+            },
+            "current_conditions": {
+              "temp_f": 82,
+              "condition": "Partly cloudy",
+              "humidity": 27,
+              "dew_point_f": 45,
+              "cloud_cover": 75,
+              "obs_time": "2025-05-10T00:11:00.000+00:00",
+              "wind": { "speed_mph": 10, "direction": "NNW" }
+            }
+          },
+          "outcome": {
+            "type": "pitch",
+            "current_inning": 1,
+            "current_inning_half": "T",
+            "count": {
+              "balls": 1,
+              "strikes": 0,
+              "outs": 1,
+              "inning": 1,
+              "inning_half": "T",
+              "half_over": false
+            },
+            "hitter": {
+              "preferred_name": "Willy",
+              "first_name": "Willy",
+              "last_name": "Adames",
+              "jersey_number": "2",
+              "id": "81af51ef-1387-495a-bef2-57f219415370",
+              "full_name": "Willy Adames",
+              "outcome_id": "bB",
+              "ab_over": false
+            },
+            "pitcher": {
+              "preferred_name": "Chris",
+              "first_name": "Christopher",
+              "last_name": "Paddack",
+              "jersey_number": "20",
+              "id": "cb1d6940-da1d-431f-a868-35a76a97a8da",
+              "full_name": "Chris Paddack",
+              "pitch_speed": 94.7,
+              "pitch_type": "FA",
+              "pitch_zone": 11,
+              "pitch_x": 205,
+              "pitch_y": -47
+            }
+          },
+          "home": {
+            "name": "Twins",
+            "market": "Minnesota",
+            "abbr": "MIN",
+            "id": "aa34e0ed-f342-4ec6-b774-c79b47b60e2d",
+            "runs": 0,
+            "hits": 0,
+            "errors": 0,
+            "win": 18,
+            "loss": 20,
+            "probable_pitcher": {
+              "preferred_name": "Chris",
+              "first_name": "Christopher",
+              "last_name": "Paddack",
+              "jersey_number": "20",
+              "id": "cb1d6940-da1d-431f-a868-35a76a97a8da",
+              "full_name": "Chris Paddack",
+              "win": 0,
+              "loss": 3,
+              "era": 5.567
+            },
+            "starting_pitcher": {
+              "preferred_name": "Chris",
+              "first_name": "Christopher",
+              "last_name": "Paddack",
+              "jersey_number": "20",
+              "id": "cb1d6940-da1d-431f-a868-35a76a97a8da",
+              "full_name": "Chris Paddack",
+              "win": 0,
+              "loss": 3,
+              "era": 5.567
+            },
+            "current_pitcher": {
+              "preferred_name": "Chris",
+              "first_name": "Christopher",
+              "last_name": "Paddack",
+              "jersey_number": "20",
+              "id": "cb1d6940-da1d-431f-a868-35a76a97a8da",
+              "full_name": "Chris Paddack",
+              "win": 0,
+              "loss": 3,
+              "era": 5.567
+            },
+            "scoring": [
+              {
+                "number": 1,
+                "sequence": 1,
+                "runs": "X",
+                "hits": "X",
+                "errors": "X",
+                "type": "inning"
+              }
+            ]
+          },
+          "away": {
+            "name": "Giants",
+            "market": "San Francisco",
+            "abbr": "SF",
+            "id": "a7723160-10b7-4277-a309-d8dd95a8ae65",
+            "runs": 0,
+            "hits": 0,
+            "errors": 0,
+            "win": 24,
+            "loss": 14,
+            "probable_pitcher": {
+              "preferred_name": "Jordan",
+              "first_name": "Jordan",
+              "last_name": "Hicks",
+              "jersey_number": "12",
+              "id": "b6064f09-31ae-4d05-832c-2f4c4043c7cb",
+              "full_name": "Jordan Hicks",
+              "win": 1,
+              "loss": 3,
+              "era": 6.027
+            },
+            "starting_pitcher": {
+              "preferred_name": "Jordan",
+              "first_name": "Jordan",
+              "last_name": "Hicks",
+              "jersey_number": "12",
+              "id": "b6064f09-31ae-4d05-832c-2f4c4043c7cb",
+              "full_name": "Jordan Hicks",
+              "win": 1,
+              "loss": 3,
+              "era": 6.027
+            },
+            "current_pitcher": {
+              "preferred_name": "Jordan",
+              "first_name": "Jordan",
+              "last_name": "Hicks",
+              "jersey_number": "12",
+              "id": "b6064f09-31ae-4d05-832c-2f4c4043c7cb",
+              "full_name": "Jordan Hicks",
+              "win": 1,
+              "loss": 3,
+              "era": 6.027
+            },
+            "scoring": [
+              {
+                "number": 1,
+                "sequence": 1,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "game": {
+          "id": "addc7c56-c0a6-4f30-822f-d50d561fa516",
+          "status": "inprogress",
+          "coverage": "full",
+          "game_number": 1,
+          "day_night": "N",
+          "scheduled": "2025-05-09T22:40:00+00:00",
+          "home_team": "481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd",
+          "away_team": "12079497-e414-450a-8bf2-29f91de646bf",
+          "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+          "season_type": "REG",
+          "season_year": 2025,
+          "double_header": false,
+          "entry_mode": "STOMP",
+          "reference": "777998",
+          "time_zones": {
+            "venue": "US/Eastern",
+            "home": "US/Eastern",
+            "away": "US/Eastern"
+          },
+          "venue": {
+            "name": "PNC Park",
+            "market": "Pittsburgh",
+            "capacity": 38753,
+            "surface": "grass",
+            "address": "115 Federal Street",
+            "city": "Pittsburgh",
+            "state": "PA",
+            "zip": "15212",
+            "country": "USA",
+            "id": "61314394-c8b8-411e-b891-ca41285d5362",
+            "field_orientation": "E",
+            "stadium_type": "outdoor",
+            "time_zone": "US/Eastern",
+            "location": { "lat": "40.4471507", "lng": "-80.0064087" }
+          },
+          "broadcasts": [
+            {
+              "network": "FDSSO",
+              "type": "TV",
+              "locale": "Away",
+              "channel": "646"
+            },
+            {
+              "network": "SportsNet PT",
+              "type": "TV",
+              "locale": "Home",
+              "channel": "659"
+            }
+          ],
+          "weather": {
+            "forecast": {
+              "temp_f": 58,
+              "condition": "Sunny",
+              "humidity": 36,
+              "dew_point_f": 30,
+              "cloud_cover": 25,
+              "obs_time": "2025-05-09T23:43:17.000+00:00",
+              "wind": { "speed_mph": 10, "direction": "NNW" }
+            },
+            "current_conditions": {
+              "temp_f": 58,
+              "condition": "Sunny",
+              "humidity": 36,
+              "dew_point_f": 30,
+              "cloud_cover": 25,
+              "obs_time": "2025-05-10T00:04:06.000+00:00",
+              "wind": { "speed_mph": 9, "direction": "NNW" }
+            }
+          },
+          "outcome": {
+            "type": "pitch",
+            "current_inning": 6,
+            "current_inning_half": "B",
+            "count": {
+              "balls": 3,
+              "strikes": 2,
+              "outs": 2,
+              "inning": 6,
+              "inning_half": "B",
+              "half_over": false
+            },
+            "hitter": {
+              "preferred_name": "Joey",
+              "first_name": "Joseph",
+              "last_name": "Bart",
+              "jersey_number": "14",
+              "id": "9ff4bd8c-c74e-40b3-87f4-359b8ddecc55",
+              "full_name": "Joey Bart",
+              "outcome_id": "kF",
+              "ab_over": false
+            },
+            "pitcher": {
+              "preferred_name": "Bryce",
+              "first_name": "Bryce",
+              "last_name": "Elder",
+              "jersey_number": "55",
+              "id": "8a4de81f-a497-40e4-ba42-39b4c1fbbdd3",
+              "full_name": "Bryce Elder",
+              "pitch_speed": 85.2,
+              "pitch_type": "SL",
+              "pitch_zone": 13,
+              "pitch_x": -141,
+              "pitch_y": -78
+            },
+            "runners": [
+              {
+                "preferred_name": "Andrew",
+                "first_name": "Andrew",
+                "last_name": "McCutchen",
+                "jersey_number": "22",
+                "id": "53a80099-966e-451c-a1e2-dccbb16f8dd8",
+                "full_name": "Andrew McCutchen",
+                "outcome_id": "",
+                "starting_base": 2,
+                "ending_base": 2,
+                "out": false
+              }
+            ]
+          },
+          "home": {
+            "name": "Pirates",
+            "market": "Pittsburgh",
+            "abbr": "PIT",
+            "id": "481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd",
+            "runs": 3,
+            "hits": 5,
+            "errors": 0,
+            "win": 12,
+            "loss": 26,
+            "probable_pitcher": {
+              "preferred_name": "Bailey",
+              "first_name": "Bailey",
+              "last_name": "Falter",
+              "jersey_number": "6",
+              "id": "7815f286-f332-429b-9378-fa6234af5036",
+              "full_name": "Bailey Falter",
+              "win": 1,
+              "loss": 3,
+              "era": 5.063
+            },
+            "starting_pitcher": {
+              "preferred_name": "Bailey",
+              "first_name": "Bailey",
+              "last_name": "Falter",
+              "jersey_number": "6",
+              "id": "7815f286-f332-429b-9378-fa6234af5036",
+              "full_name": "Bailey Falter",
+              "win": 1,
+              "loss": 3,
+              "era": 5.063
+            },
+            "current_pitcher": {
+              "preferred_name": "Bailey",
+              "first_name": "Bailey",
+              "last_name": "Falter",
+              "jersey_number": "6",
+              "id": "7815f286-f332-429b-9378-fa6234af5036",
+              "full_name": "Bailey Falter",
+              "win": 1,
+              "loss": 3,
+              "era": 5.063
+            },
+            "scoring": [
+              {
+                "number": 1,
+                "sequence": 1,
+                "runs": 0,
+                "hits": 1,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 2,
+                "sequence": 2,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 3,
+                "sequence": 3,
+                "runs": 1,
+                "hits": 1,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 4,
+                "sequence": 4,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 5,
+                "sequence": 5,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 6,
+                "sequence": 6,
+                "runs": 2,
+                "hits": 3,
+                "errors": 0,
+                "type": "inning"
+              }
+            ],
+            "events": [
+              {
+                "hitter_id": "fc389e0f-b6a3-48be-8636-f071e1a14249",
+                "pitcher_id": "8a4de81f-a497-40e4-ba42-39b4c1fbbdd3",
+                "inning": 3,
+                "inning_half": "B",
+                "type": "pitch",
+                "hitter_outcome": "aHR",
+                "id": "91447089-ce5a-42fe-9ce3-ca049977bd00",
+                "runners": [
+                  {
+                    "starting_base": 0,
+                    "first_name": "Alexander",
+                    "last_name": "Canario",
+                    "preferred_name": "Alexander",
+                    "jersey_number": "29",
+                    "id": "fc389e0f-b6a3-48be-8636-f071e1a14249",
+                    "full_name": "Alexander Canario"
+                  }
+                ]
+              },
+              {
+                "hitter_id": "cf997eeb-c39f-4aa5-bcfe-f2e10d7f6929",
+                "pitcher_id": "8a4de81f-a497-40e4-ba42-39b4c1fbbdd3",
+                "inning": 6,
+                "inning_half": "B",
+                "type": "pitch",
+                "hitter_outcome": "aHR",
+                "id": "4929d028-405f-4661-b881-899da5e1a87b",
+                "runners": [
+                  {
+                    "starting_base": 0,
+                    "first_name": "Jared",
+                    "last_name": "Triolo",
+                    "preferred_name": "Jared",
+                    "jersey_number": "19",
+                    "id": "cf997eeb-c39f-4aa5-bcfe-f2e10d7f6929",
+                    "full_name": "Jared Triolo"
+                  }
+                ]
+              },
+              {
+                "hitter_id": "53a80099-966e-451c-a1e2-dccbb16f8dd8",
+                "pitcher_id": "8a4de81f-a497-40e4-ba42-39b4c1fbbdd3",
+                "inning": 6,
+                "inning_half": "B",
+                "type": "pitch",
+                "hitter_outcome": "aD",
+                "id": "5da28132-edee-489e-9b6c-6f61a8054691",
+                "runners": [
+                  {
+                    "starting_base": 1,
+                    "first_name": "Bryan",
+                    "last_name": "Reynolds",
+                    "preferred_name": "Bryan",
+                    "jersey_number": "10",
+                    "id": "bf611376-2b1d-4d5f-9805-57cbfb852063",
+                    "full_name": "Bryan Reynolds"
+                  }
+                ]
+              }
+            ]
+          },
+          "away": {
+            "name": "Braves",
+            "market": "Atlanta",
+            "abbr": "ATL",
+            "id": "12079497-e414-450a-8bf2-29f91de646bf",
+            "runs": 0,
+            "hits": 2,
+            "errors": 0,
+            "win": 18,
+            "loss": 19,
+            "probable_pitcher": {
+              "preferred_name": "Bryce",
+              "first_name": "Bryce",
+              "last_name": "Elder",
+              "jersey_number": "55",
+              "id": "8a4de81f-a497-40e4-ba42-39b4c1fbbdd3",
+              "full_name": "Bryce Elder",
+              "win": 2,
+              "loss": 1,
+              "era": 5.063
+            },
+            "starting_pitcher": {
+              "preferred_name": "Bryce",
+              "first_name": "Bryce",
+              "last_name": "Elder",
+              "jersey_number": "55",
+              "id": "8a4de81f-a497-40e4-ba42-39b4c1fbbdd3",
+              "full_name": "Bryce Elder",
+              "win": 2,
+              "loss": 1,
+              "era": 5.063
+            },
+            "current_pitcher": {
+              "preferred_name": "Bryce",
+              "first_name": "Bryce",
+              "last_name": "Elder",
+              "jersey_number": "55",
+              "id": "8a4de81f-a497-40e4-ba42-39b4c1fbbdd3",
+              "full_name": "Bryce Elder",
+              "win": 2,
+              "loss": 1,
+              "era": 5.063
+            },
+            "scoring": [
+              {
+                "number": 1,
+                "sequence": 1,
+                "runs": 0,
+                "hits": 1,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 2,
+                "sequence": 2,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 3,
+                "sequence": 3,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 4,
+                "sequence": 4,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 5,
+                "sequence": 5,
+                "runs": 0,
+                "hits": 1,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 6,
+                "sequence": 6,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "game": {
+          "id": "ab879638-9e36-480b-8b4f-06a244f80f99",
+          "status": "scheduled",
+          "coverage": "full",
+          "game_number": 1,
+          "day_night": "N",
+          "scheduled": "2025-05-10T02:05:00+00:00",
+          "home_team": "27a59d3b-ff7c-48ea-b016-4798f560f5e1",
+          "away_team": "a09ec676-f887-43dc-bbb3-cf4bbaee9a18",
+          "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+          "season_type": "REG",
+          "season_year": 2025,
+          "double_header": false,
+          "entry_mode": "STOMP",
+          "reference": "777994",
+          "time_zones": {
+            "venue": "US/Pacific",
+            "home": "US/Pacific",
+            "away": "US/Eastern"
+          },
+          "venue": {
+            "name": "Sutter Health Park",
+            "market": "Athletics",
+            "capacity": 14014,
+            "surface": "grass",
+            "address": "400 Ballpark Drive",
+            "city": "West Sacramento",
+            "state": "CA",
+            "zip": "95691",
+            "country": "USA",
+            "id": "8bec37a2-c1d4-4134-a10f-53d2da5bbb2c",
+            "field_orientation": "NE",
+            "stadium_type": "outdoor",
+            "time_zone": "US/Pacific",
+            "location": { "lat": "38.579609", "lng": "-121.515038" }
+          },
+          "broadcasts": [
+            {
+              "network": "NBCS-CA",
+              "type": "TV",
+              "locale": "Home",
+              "channel": "698"
+            },
+            {
+              "network": "MLB Network",
+              "type": "TV",
+              "locale": "National",
+              "channel": "213"
+            },
+            {
+              "network": "YES",
+              "type": "TV",
+              "locale": "Away",
+              "channel": "631"
+            }
+          ],
+          "weather": {
+            "forecast": {
+              "temp_f": 90,
+              "condition": "Sunny",
+              "humidity": 29,
+              "dew_point_f": 53,
+              "cloud_cover": 0,
+              "obs_time": "2025-05-09T11:03:54.000+00:00",
+              "wind": { "speed_mph": 9, "direction": "SW" }
+            }
+          },
+          "home": {
+            "name": "Athletics",
+            "abbr": "ATH",
+            "id": "27a59d3b-ff7c-48ea-b016-4798f560f5e1",
+            "runs": 0,
+            "hits": 0,
+            "errors": 0,
+            "win": 20,
+            "loss": 18,
+            "probable_pitcher": {
+              "preferred_name": "Osvaldo",
+              "first_name": "Osvaldo",
+              "last_name": "Bido",
+              "jersey_number": "45",
+              "id": "24fd467f-0330-4e16-aeee-7d99de324c97",
+              "full_name": "Osvaldo Bido",
+              "win": 2,
+              "loss": 2,
+              "era": 4.706
+            }
+          },
+          "away": {
+            "name": "Yankees",
+            "market": "New York",
+            "abbr": "NYY",
+            "id": "a09ec676-f887-43dc-bbb3-cf4bbaee9a18",
+            "runs": 0,
+            "hits": 0,
+            "errors": 0,
+            "win": 21,
+            "loss": 16,
+            "probable_pitcher": {
+              "preferred_name": "Will",
+              "first_name": "William",
+              "last_name": "Warren",
+              "jersey_number": "98",
+              "id": "524c0ddf-afcf-4b23-80ae-855313d21840",
+              "full_name": "Will Warren",
+              "win": 1,
+              "loss": 2,
+              "era": 5.651
+            }
+          }
+        }
+      },
+      {
+        "game": {
+          "id": "3205de8c-a8ae-4aff-ad35-73665bd163c8",
+          "status": "inprogress",
+          "coverage": "full",
+          "game_number": 1,
+          "day_night": "N",
+          "scheduled": "2025-05-09T23:40:00+00:00",
+          "home_team": "47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8",
+          "away_team": "03556285-bdbb-4576-a06d-42f71f46ddc5",
+          "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+          "season_type": "REG",
+          "season_year": 2025,
+          "double_header": false,
+          "entry_mode": "STOMP",
+          "reference": "777991",
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Eastern"
+          },
+          "venue": {
+            "name": "Rate Field",
+            "market": "Chicago",
+            "capacity": 40241,
+            "surface": "grass",
+            "address": "333 West 35th Street",
+            "city": "Chicago",
+            "state": "IL",
+            "zip": "60616",
+            "country": "USA",
+            "id": "4a550fc1-c03d-4294-b63a-30ff197bedc4",
+            "field_orientation": "SE",
+            "stadium_type": "outdoor",
+            "time_zone": "US/Central",
+            "location": { "lat": "41.8300662", "lng": "-87.63483300000001" }
+          },
+          "broadcasts": [
+            {
+              "network": "CHSN",
+              "type": "TV",
+              "locale": "Home",
+              "channel": "665"
+            },
+            {
+              "network": "FDSFL",
+              "type": "TV",
+              "locale": "Away",
+              "channel": "654"
+            }
+          ],
+          "weather": {
+            "forecast": {
+              "temp_f": 58,
+              "condition": "Sunny",
+              "humidity": 36,
+              "dew_point_f": 30,
+              "cloud_cover": 0,
+              "obs_time": "2025-05-10T00:05:06.000+00:00",
+              "wind": { "speed_mph": 4, "direction": "ENE" }
+            },
+            "current_conditions": {
+              "temp_f": 58,
+              "condition": "Sunny",
+              "humidity": 36,
+              "dew_point_f": 30,
+              "cloud_cover": 0,
+              "obs_time": "2025-05-10T00:05:06.000+00:00",
+              "wind": { "speed_mph": 4, "direction": "ENE" }
+            }
+          },
+          "outcome": {
+            "type": "pitch",
+            "current_inning": 2,
+            "current_inning_half": "B",
+            "count": {
+              "balls": 2,
+              "strikes": 0,
+              "outs": 2,
+              "inning": 2,
+              "inning_half": "B",
+              "half_over": false
+            },
+            "hitter": {
+              "preferred_name": "Michael A.",
+              "first_name": "Michael A.",
+              "last_name": "Taylor",
+              "jersey_number": "21",
+              "id": "9fd5e31f-8188-48bf-a93b-c9d9dbd29265",
+              "full_name": "Michael A. Taylor",
+              "outcome_id": "bB",
+              "ab_over": false
+            },
+            "pitcher": {
+              "preferred_name": "Max",
+              "first_name": "Max",
+              "last_name": "Meyer",
+              "jersey_number": "23",
+              "id": "a42f123a-4a4b-4af3-92f2-4fdea542680b",
+              "full_name": "Max Meyer",
+              "pitch_speed": 94.5,
+              "pitch_type": "FA",
+              "pitch_zone": 2,
+              "pitch_x": -11,
+              "pitch_y": 86
+            },
+            "runners": [
+              {
+                "preferred_name": "Brooks",
+                "first_name": "Riley",
+                "last_name": "Baldwin",
+                "jersey_number": "27",
+                "id": "5ec8c6f6-caad-478e-864e-49bf7092e7a0",
+                "full_name": "Brooks Baldwin",
+                "outcome_id": "",
+                "starting_base": 1,
+                "ending_base": 1,
+                "out": false
+              }
+            ]
+          },
+          "home": {
+            "name": "White Sox",
+            "market": "Chicago",
+            "abbr": "CWS",
+            "id": "47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8",
+            "runs": 1,
+            "hits": 1,
+            "errors": 1,
+            "win": 10,
+            "loss": 28,
+            "probable_pitcher": {
+              "preferred_name": "Bryse",
+              "first_name": "Bryse",
+              "last_name": "Wilson",
+              "jersey_number": "46",
+              "id": "afebcbd0-fe00-4d21-99c5-6cee7e5eea02",
+              "full_name": "Bryse Wilson",
+              "win": 0,
+              "loss": 1,
+              "era": 5.559
+            },
+            "starting_pitcher": {
+              "preferred_name": "Bryse",
+              "first_name": "Bryse",
+              "last_name": "Wilson",
+              "jersey_number": "46",
+              "id": "afebcbd0-fe00-4d21-99c5-6cee7e5eea02",
+              "full_name": "Bryse Wilson",
+              "win": 0,
+              "loss": 1,
+              "era": 5.559
+            },
+            "current_pitcher": {
+              "preferred_name": "Bryse",
+              "first_name": "Bryse",
+              "last_name": "Wilson",
+              "jersey_number": "46",
+              "id": "afebcbd0-fe00-4d21-99c5-6cee7e5eea02",
+              "full_name": "Bryse Wilson",
+              "win": 0,
+              "loss": 1,
+              "era": 5.559
+            },
+            "scoring": [
+              {
+                "number": 1,
+                "sequence": 1,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 2,
+                "sequence": 2,
+                "runs": 1,
+                "hits": 1,
+                "errors": 0,
+                "type": "inning"
+              }
+            ],
+            "events": [
+              {
+                "hitter_id": "60cf6995-e2a5-47d7-834a-d25cdbdf7f3e",
+                "pitcher_id": "a42f123a-4a4b-4af3-92f2-4fdea542680b",
+                "inning": 2,
+                "inning_half": "B",
+                "type": "pitch",
+                "hitter_outcome": "aHR",
+                "id": "507136c3-97d8-41e6-ad79-446bfa1f47d8",
+                "runners": [
+                  {
+                    "starting_base": 0,
+                    "first_name": "Andrew",
+                    "last_name": "Vaughn",
+                    "preferred_name": "Andrew",
+                    "jersey_number": "25",
+                    "id": "60cf6995-e2a5-47d7-834a-d25cdbdf7f3e",
+                    "full_name": "Andrew Vaughn"
+                  }
+                ]
+              }
+            ]
+          },
+          "away": {
+            "name": "Marlins",
+            "market": "Miami",
+            "abbr": "MIA",
+            "id": "03556285-bdbb-4576-a06d-42f71f46ddc5",
+            "runs": 1,
+            "hits": 2,
+            "errors": 0,
+            "win": 14,
+            "loss": 22,
+            "probable_pitcher": {
+              "preferred_name": "Max",
+              "first_name": "Max",
+              "last_name": "Meyer",
+              "jersey_number": "23",
+              "id": "a42f123a-4a4b-4af3-92f2-4fdea542680b",
+              "full_name": "Max Meyer",
+              "win": 2,
+              "loss": 3,
+              "era": 3.923
+            },
+            "starting_pitcher": {
+              "preferred_name": "Max",
+              "first_name": "Max",
+              "last_name": "Meyer",
+              "jersey_number": "23",
+              "id": "a42f123a-4a4b-4af3-92f2-4fdea542680b",
+              "full_name": "Max Meyer",
+              "win": 2,
+              "loss": 3,
+              "era": 3.923
+            },
+            "current_pitcher": {
+              "preferred_name": "Max",
+              "first_name": "Max",
+              "last_name": "Meyer",
+              "jersey_number": "23",
+              "id": "a42f123a-4a4b-4af3-92f2-4fdea542680b",
+              "full_name": "Max Meyer",
+              "win": 2,
+              "loss": 3,
+              "era": 3.923
+            },
+            "scoring": [
+              {
+                "number": 1,
+                "sequence": 1,
+                "runs": 1,
+                "hits": 1,
+                "errors": 1,
+                "type": "inning"
+              },
+              {
+                "number": 2,
+                "sequence": 2,
+                "runs": 0,
+                "hits": 1,
+                "errors": 0,
+                "type": "inning"
+              }
+            ],
+            "events": [
+              {
+                "hitter_id": "135d9e6d-7c40-4efa-acff-e68b4bd5c1ef",
+                "pitcher_id": "afebcbd0-fe00-4d21-99c5-6cee7e5eea02",
+                "inning": 1,
+                "inning_half": "T",
+                "type": "pitch",
+                "hitter_outcome": "aS",
+                "id": "eb7eb919-2a8c-4600-841a-bbda45b956af",
+                "runners": [
+                  {
+                    "starting_base": 2,
+                    "first_name": "Xavier",
+                    "last_name": "Edwards",
+                    "preferred_name": "Xavier",
+                    "jersey_number": "9",
+                    "id": "2c927c42-8b7c-430a-94c5-23eccc40effa",
+                    "full_name": "Xavier Edwards"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "game": {
+          "id": "42161e3a-f7a9-46ad-9677-0bf670ac6f5d",
+          "status": "inprogress",
+          "coverage": "full",
+          "game_number": 1,
+          "day_night": "N",
+          "scheduled": "2025-05-09T23:10:00+00:00",
+          "home_team": "f246a5e5-afdb-479c-9aaa-c68beeda7af6",
+          "away_team": "55714da8-fcaf-4574-8443-59bfb511a524",
+          "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+          "season_type": "REG",
+          "season_year": 2025,
+          "double_header": false,
+          "entry_mode": "STOMP",
+          "reference": "778001",
+          "time_zones": {
+            "venue": "US/Eastern",
+            "home": "US/Eastern",
+            "away": "US/Central"
+          },
+          "venue": {
+            "name": "Citi Field",
+            "market": "New York",
+            "capacity": 42136,
+            "surface": "grass",
+            "address": "41 Seaver Way",
+            "city": "Flushing, Queens",
+            "state": "NY",
+            "zip": "11368",
+            "country": "USA",
+            "id": "265c7d6c-427a-4b8a-8def-392c41954bec",
+            "field_orientation": "NE",
+            "stadium_type": "outdoor",
+            "time_zone": "US/Eastern",
+            "location": { "lat": "40.7564124", "lng": "-73.84589369999999" }
+          },
+          "broadcasts": [
+            {
+              "network": "MLB Network",
+              "type": "TV",
+              "locale": "National",
+              "channel": "213"
+            },
+            {
+              "network": "SNY",
+              "type": "TV",
+              "locale": "Home",
+              "channel": "639"
+            },
+            {
+              "network": "MARQ",
+              "type": "TV",
+              "locale": "Away",
+              "channel": "664"
+            }
+          ],
+          "weather": {
+            "forecast": {
+              "temp_f": 60,
+              "condition": "Overcast",
+              "humidity": 96,
+              "dew_point_f": 59,
+              "cloud_cover": 100,
+              "obs_time": "2025-05-09T23:37:59.000+00:00",
+              "wind": { "speed_mph": 10, "direction": "WNW" }
+            },
+            "current_conditions": {
+              "temp_f": 54,
+              "condition": "Overcast",
+              "humidity": 90,
+              "dew_point_f": 50,
+              "cloud_cover": 100,
+              "obs_time": "2025-05-10T00:10:45.000+00:00",
+              "wind": { "speed_mph": 13, "direction": "NW" }
+            }
+          },
+          "outcome": {
+            "type": "pitch",
+            "current_inning": 4,
+            "current_inning_half": "T",
+            "count": {
+              "balls": 1,
+              "strikes": 2,
+              "outs": 0,
+              "inning": 4,
+              "inning_half": "T",
+              "half_over": false
+            },
+            "hitter": {
+              "preferred_name": "Seiya",
+              "first_name": "Seiya",
+              "last_name": "Suzuki",
+              "jersey_number": "27",
+              "id": "aa691806-f8a0-4dc7-b833-94e59dc22a34",
+              "full_name": "Seiya Suzuki",
+              "outcome_id": "kKL",
+              "ab_over": false
+            },
+            "pitcher": {
+              "preferred_name": "Clay",
+              "first_name": "Clayton",
+              "last_name": "Holmes",
+              "jersey_number": "35",
+              "id": "9a62f791-fe7a-4e1f-9823-82a361f546bd",
+              "full_name": "Clay Holmes",
+              "pitch_speed": 83.8,
+              "pitch_type": "SL",
+              "pitch_zone": 9,
+              "pitch_x": 76,
+              "pitch_y": -43
+            }
+          },
+          "home": {
+            "name": "Mets",
+            "market": "New York",
+            "abbr": "NYM",
+            "id": "f246a5e5-afdb-479c-9aaa-c68beeda7af6",
+            "runs": 5,
+            "hits": 7,
+            "errors": 0,
+            "win": 24,
+            "loss": 14,
+            "probable_pitcher": {
+              "preferred_name": "Clay",
+              "first_name": "Clayton",
+              "last_name": "Holmes",
+              "jersey_number": "35",
+              "id": "9a62f791-fe7a-4e1f-9823-82a361f546bd",
+              "full_name": "Clay Holmes",
+              "win": 4,
+              "loss": 1,
+              "era": 2.945
+            },
+            "starting_pitcher": {
+              "preferred_name": "Clay",
+              "first_name": "Clayton",
+              "last_name": "Holmes",
+              "jersey_number": "35",
+              "id": "9a62f791-fe7a-4e1f-9823-82a361f546bd",
+              "full_name": "Clay Holmes",
+              "win": 4,
+              "loss": 1,
+              "era": 2.945
+            },
+            "current_pitcher": {
+              "preferred_name": "Clay",
+              "first_name": "Clayton",
+              "last_name": "Holmes",
+              "jersey_number": "35",
+              "id": "9a62f791-fe7a-4e1f-9823-82a361f546bd",
+              "full_name": "Clay Holmes",
+              "win": 4,
+              "loss": 1,
+              "era": 2.945
+            },
+            "scoring": [
+              {
+                "number": 1,
+                "sequence": 1,
+                "runs": 1,
+                "hits": 2,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 2,
+                "sequence": 2,
+                "runs": 2,
+                "hits": 3,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 3,
+                "sequence": 3,
+                "runs": 2,
+                "hits": 2,
+                "errors": 1,
+                "type": "inning"
+              },
+              {
+                "number": 4,
+                "sequence": 4,
+                "runs": "X",
+                "hits": "X",
+                "errors": "X",
+                "type": "inning"
+              }
+            ],
+            "events": [
+              {
+                "hitter_id": "98d3d7c1-16bb-490c-8e03-73567efdbabf",
+                "pitcher_id": "0b4c4345-7609-4ab1-9aaa-41d56d7f1fda",
+                "inning": 1,
+                "inning_half": "B",
+                "type": "pitch",
+                "hitter_outcome": "aHR",
+                "id": "27251c18-04f2-486f-8bb7-37d1096c08f2",
+                "runners": [
+                  {
+                    "starting_base": 0,
+                    "first_name": "Francisco",
+                    "last_name": "Lindor",
+                    "preferred_name": "Francisco",
+                    "jersey_number": "12",
+                    "id": "98d3d7c1-16bb-490c-8e03-73567efdbabf",
+                    "full_name": "Francisco Lindor"
+                  }
+                ]
+              },
+              {
+                "hitter_id": "363a83d2-29b4-478b-8fdc-422dc464c0b9",
+                "pitcher_id": "0b4c4345-7609-4ab1-9aaa-41d56d7f1fda",
+                "inning": 2,
+                "inning_half": "B",
+                "type": "pitch",
+                "hitter_outcome": "aHR",
+                "id": "b6d21da8-def7-4601-a593-eeb46696d721",
+                "runners": [
+                  {
+                    "starting_base": 0,
+                    "first_name": "Brett",
+                    "last_name": "Baty",
+                    "preferred_name": "Brett",
+                    "jersey_number": "7",
+                    "id": "363a83d2-29b4-478b-8fdc-422dc464c0b9",
+                    "full_name": "Brett Baty"
+                  }
+                ]
+              },
+              {
+                "hitter_id": "c31c5931-b7db-447d-9207-5d6f58ec0f4f",
+                "pitcher_id": "0b4c4345-7609-4ab1-9aaa-41d56d7f1fda",
+                "inning": 2,
+                "inning_half": "B",
+                "type": "pitch",
+                "hitter_outcome": "aHR",
+                "id": "4c56ab72-67d7-4974-8e5e-1a8b66fbb1d7",
+                "runners": [
+                  {
+                    "starting_base": 0,
+                    "first_name": "Jeff",
+                    "last_name": "McNeil",
+                    "preferred_name": "Jeff",
+                    "jersey_number": "1",
+                    "id": "c31c5931-b7db-447d-9207-5d6f58ec0f4f",
+                    "full_name": "Jeff McNeil"
+                  }
+                ]
+              },
+              {
+                "hitter_id": "f5992aa1-2a18-4ede-ae5a-ed5cb4485cda",
+                "pitcher_id": "0b4c4345-7609-4ab1-9aaa-41d56d7f1fda",
+                "inning": 3,
+                "inning_half": "B",
+                "type": "pitch",
+                "hitter_outcome": "oFC",
+                "id": "850062ab-a85e-4ee1-b894-ed984fdaaa61",
+                "runners": [
+                  {
+                    "starting_base": 2,
+                    "first_name": "Francisco",
+                    "last_name": "Alvarez",
+                    "preferred_name": "Francisco",
+                    "jersey_number": "4",
+                    "id": "4be92fc3-e09a-4140-b2bf-907b227b100e",
+                    "full_name": "Francisco Alvarez"
+                  },
+                  {
+                    "starting_base": 3,
+                    "first_name": "Brandon",
+                    "last_name": "Nimmo",
+                    "preferred_name": "Brandon",
+                    "jersey_number": "9",
+                    "id": "bba23f9e-8aac-454a-b8ca-9373b5d1e5b8",
+                    "full_name": "Brandon Nimmo"
+                  }
+                ]
+              }
+            ]
+          },
+          "away": {
+            "name": "Cubs",
+            "market": "Chicago",
+            "abbr": "CHC",
+            "id": "55714da8-fcaf-4574-8443-59bfb511a524",
+            "runs": 1,
+            "hits": 2,
+            "errors": 1,
+            "win": 22,
+            "loss": 16,
+            "probable_pitcher": {
+              "preferred_name": "Jameson",
+              "first_name": "Jameson",
+              "last_name": "Taillon",
+              "jersey_number": "50",
+              "id": "0b4c4345-7609-4ab1-9aaa-41d56d7f1fda",
+              "full_name": "Jameson Taillon",
+              "win": 2,
+              "loss": 1,
+              "era": 3.857
+            },
+            "starting_pitcher": {
+              "preferred_name": "Jameson",
+              "first_name": "Jameson",
+              "last_name": "Taillon",
+              "jersey_number": "50",
+              "id": "0b4c4345-7609-4ab1-9aaa-41d56d7f1fda",
+              "full_name": "Jameson Taillon",
+              "win": 2,
+              "loss": 1,
+              "era": 3.857
+            },
+            "current_pitcher": {
+              "preferred_name": "Jameson",
+              "first_name": "Jameson",
+              "last_name": "Taillon",
+              "jersey_number": "50",
+              "id": "0b4c4345-7609-4ab1-9aaa-41d56d7f1fda",
+              "full_name": "Jameson Taillon",
+              "win": 2,
+              "loss": 1,
+              "era": 3.857
+            },
+            "scoring": [
+              {
+                "number": 1,
+                "sequence": 1,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 2,
+                "sequence": 2,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 3,
+                "sequence": 3,
+                "runs": 0,
+                "hits": 1,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 4,
+                "sequence": 4,
+                "runs": 1,
+                "hits": 1,
+                "errors": 0,
+                "type": "inning"
+              }
+            ],
+            "events": [
+              {
+                "hitter_id": "f4a9ab1b-8458-40c9-a50f-bbef4f11fe58",
+                "pitcher_id": "9a62f791-fe7a-4e1f-9823-82a361f546bd",
+                "inning": 4,
+                "inning_half": "T",
+                "type": "pitch",
+                "hitter_outcome": "aHR",
+                "id": "256a7e79-6ed1-4f47-a959-7fd47ad6e74e",
+                "runners": [
+                  {
+                    "starting_base": 0,
+                    "first_name": "Kyle",
+                    "last_name": "Tucker",
+                    "preferred_name": "Kyle",
+                    "jersey_number": "30",
+                    "id": "f4a9ab1b-8458-40c9-a50f-bbef4f11fe58",
+                    "full_name": "Kyle Tucker"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "game": {
+          "id": "2ce72603-2f51-423a-b10d-1f5ea1d86129",
+          "status": "scheduled",
+          "coverage": "full",
+          "game_number": 1,
+          "day_night": "N",
+          "scheduled": "2025-05-10T01:40:00+00:00",
+          "home_team": "25507be1-6a68-4267-bd82-e097d94b359b",
+          "away_team": "ef64da7f-cfaf-4300-87b0-9313386b977c",
+          "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+          "season_type": "REG",
+          "season_year": 2025,
+          "double_header": false,
+          "entry_mode": "STOMP",
+          "reference": "777988",
+          "time_zones": {
+            "venue": "US/Arizona",
+            "home": "US/Arizona",
+            "away": "US/Pacific"
+          },
+          "venue": {
+            "name": "Chase Field",
+            "market": "Arizona",
+            "capacity": 48359,
+            "surface": "turf",
+            "address": "401 East Jefferson Street",
+            "city": "Phoenix",
+            "state": "AZ",
+            "zip": "85004",
+            "country": "USA",
+            "id": "bf05de0d-7ced-4a19-8e17-2bbd985f8a92",
+            "field_orientation": "N",
+            "stadium_type": "retractable",
+            "time_zone": "US/Arizona",
+            "location": { "lat": "33.445302", "lng": "-112.066687" }
+          },
+          "broadcasts": [
+            { "network": "ARID", "type": "Internet", "locale": "Home" },
+            {
+              "network": "SportsNet LA",
+              "type": "TV",
+              "locale": "Away",
+              "channel": "690"
+            }
+          ],
+          "weather": {
+            "forecast": {
+              "temp_f": 100,
+              "condition": "Sunny",
+              "humidity": 12,
+              "dew_point_f": 38,
+              "cloud_cover": 0,
+              "obs_time": "2025-05-09T11:03:54.000+00:00",
+              "wind": { "speed_mph": 4, "direction": "S" }
+            }
+          },
+          "home": {
+            "name": "Diamondbacks",
+            "market": "Arizona",
+            "abbr": "AZ",
+            "id": "25507be1-6a68-4267-bd82-e097d94b359b",
+            "runs": 0,
+            "hits": 0,
+            "errors": 0,
+            "win": 20,
+            "loss": 18,
+            "probable_pitcher": {
+              "preferred_name": "Eduardo",
+              "first_name": "Eduardo",
+              "last_name": "Rodriguez",
+              "jersey_number": "57",
+              "id": "93413a68-2c05-405a-a38c-9ee983b36913",
+              "full_name": "Eduardo Rodriguez",
+              "win": 1,
+              "loss": 3,
+              "era": 5.921
+            }
+          },
+          "away": {
+            "name": "Dodgers",
+            "market": "Los Angeles",
+            "abbr": "LAD",
+            "id": "ef64da7f-cfaf-4300-87b0-9313386b977c",
+            "runs": 0,
+            "hits": 0,
+            "errors": 0,
+            "win": 25,
+            "loss": 13,
+            "probable_pitcher": {
+              "preferred_name": "Roki",
+              "first_name": "Roki",
+              "last_name": "Sasaki",
+              "jersey_number": "11",
+              "id": "1af59804-5b77-4d6f-98f7-23e97a400a1b",
+              "full_name": "Roki Sasaki",
+              "win": 1,
+              "loss": 1,
+              "era": 3.857
+            }
+          }
+        }
+      },
+      {
+        "game": {
+          "id": "c26a21cb-63a0-4cd7-8560-67b414a8247e",
+          "status": "inprogress",
+          "coverage": "full",
+          "game_number": 1,
+          "day_night": "N",
+          "scheduled": "2025-05-09T22:40:00+00:00",
+          "home_team": "575c19b7-4052-41c2-9f0a-1c5813d02f99",
+          "away_team": "d99f919b-1534-4516-8e8a-9cd106c6d8cd",
+          "season_id": "a91f72a5-9812-4acd-b3fd-482cb31468cd",
+          "season_type": "REG",
+          "season_year": 2025,
+          "double_header": false,
+          "entry_mode": "STOMP",
+          "reference": "777996",
+          "time_zones": {
+            "venue": "US/Eastern",
+            "home": "US/Eastern",
+            "away": "US/Central"
+          },
+          "venue": {
+            "name": "Comerica Park",
+            "market": "Detroit",
+            "capacity": 41083,
+            "surface": "grass",
+            "address": "2100 Woodward Avenue",
+            "city": "Detroit",
+            "state": "MI",
+            "zip": "48226",
+            "country": "USA",
+            "id": "ef9a5eef-06c6-4963-ac70-7fd02c8c8d42",
+            "field_orientation": "SE",
+            "stadium_type": "outdoor",
+            "time_zone": "US/Eastern",
+            "location": { "lat": "42.3391886", "lng": "-83.04947829999999" }
+          },
+          "broadcasts": [
+            {
+              "network": "FDSDET",
+              "type": "TV",
+              "locale": "Home",
+              "channel": "663"
+            },
+            { "network": "RSN", "type": "TV", "locale": "Away" }
+          ],
+          "weather": {
+            "forecast": {
+              "temp_f": 60,
+              "condition": "Sunny",
+              "humidity": 32,
+              "dew_point_f": 30,
+              "cloud_cover": 0,
+              "obs_time": "2025-05-10T00:05:18.000+00:00",
+              "wind": { "speed_mph": 2, "direction": "NNE" }
+            },
+            "current_conditions": {
+              "temp_f": 60,
+              "condition": "Sunny",
+              "humidity": 32,
+              "dew_point_f": 30,
+              "cloud_cover": 0,
+              "obs_time": "2025-05-10T00:05:18.000+00:00",
+              "wind": { "speed_mph": 2, "direction": "NNE" }
+            }
+          },
+          "outcome": {
+            "type": "half_over",
+            "current_inning": 7,
+            "current_inning_half": "T",
+            "count": {
+              "balls": 1,
+              "strikes": 2,
+              "outs": 3,
+              "inning": 7,
+              "inning_half": "T",
+              "half_over": true
+            },
+            "hitter": {
+              "preferred_name": "Josh",
+              "first_name": "Joshua",
+              "last_name": "Jung",
+              "jersey_number": "6",
+              "id": "97e08ec4-c8f2-4729-be55-43b20f9a1eb9",
+              "full_name": "Josh Jung",
+              "outcome_id": "oGO",
+              "ab_over": true
+            },
+            "pitcher": {
+              "preferred_name": "Tarik",
+              "first_name": "Tarik",
+              "last_name": "Skubal",
+              "jersey_number": "29",
+              "id": "22187b04-0bc4-4351-a0f6-d41013673cb6",
+              "full_name": "Tarik Skubal",
+              "pitch_speed": 88.7,
+              "pitch_type": "CH",
+              "pitch_zone": 12,
+              "pitch_x": 64,
+              "pitch_y": -152
+            }
+          },
+          "home": {
+            "name": "Tigers",
+            "market": "Detroit",
+            "abbr": "DET",
+            "id": "575c19b7-4052-41c2-9f0a-1c5813d02f99",
+            "runs": 2,
+            "hits": 2,
+            "errors": 0,
+            "win": 25,
+            "loss": 13,
+            "probable_pitcher": {
+              "preferred_name": "Tarik",
+              "first_name": "Tarik",
+              "last_name": "Skubal",
+              "jersey_number": "29",
+              "id": "22187b04-0bc4-4351-a0f6-d41013673cb6",
+              "full_name": "Tarik Skubal",
+              "win": 3,
+              "loss": 2,
+              "era": 2.213
+            },
+            "starting_pitcher": {
+              "preferred_name": "Tarik",
+              "first_name": "Tarik",
+              "last_name": "Skubal",
+              "jersey_number": "29",
+              "id": "22187b04-0bc4-4351-a0f6-d41013673cb6",
+              "full_name": "Tarik Skubal",
+              "win": 3,
+              "loss": 2,
+              "era": 2.213
+            },
+            "current_pitcher": {
+              "preferred_name": "Tarik",
+              "first_name": "Tarik",
+              "last_name": "Skubal",
+              "jersey_number": "29",
+              "id": "22187b04-0bc4-4351-a0f6-d41013673cb6",
+              "full_name": "Tarik Skubal",
+              "win": 3,
+              "loss": 2,
+              "era": 2.213
+            },
+            "scoring": [
+              {
+                "number": 1,
+                "sequence": 1,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 2,
+                "sequence": 2,
+                "runs": 1,
+                "hits": 1,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 3,
+                "sequence": 3,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 4,
+                "sequence": 4,
+                "runs": 1,
+                "hits": 1,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 5,
+                "sequence": 5,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 6,
+                "sequence": 6,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 7,
+                "sequence": 7,
+                "runs": "X",
+                "hits": "X",
+                "errors": "X",
+                "type": "inning"
+              }
+            ],
+            "events": [
+              {
+                "hitter_id": "bba0f3b8-4b7e-4a37-bdc3-367356205922",
+                "pitcher_id": "0764772b-e8ab-42b3-9ee4-2b61af785e75",
+                "inning": 2,
+                "inning_half": "B",
+                "type": "pitch",
+                "hitter_outcome": "aD",
+                "id": "c6af9005-98fe-43bd-b4e1-afbfabc701fc",
+                "runners": [
+                  {
+                    "starting_base": 1,
+                    "first_name": "Colten",
+                    "last_name": "Keith",
+                    "preferred_name": "Colt",
+                    "jersey_number": "33",
+                    "id": "73cbdd41-98c4-4dec-8c8a-1a6e1be959d9",
+                    "full_name": "Colt Keith"
+                  }
+                ]
+              },
+              {
+                "hitter_id": "73cbdd41-98c4-4dec-8c8a-1a6e1be959d9",
+                "pitcher_id": "0764772b-e8ab-42b3-9ee4-2b61af785e75",
+                "inning": 4,
+                "inning_half": "B",
+                "type": "pitch",
+                "hitter_outcome": "aS",
+                "id": "c779c2f7-ddbe-4be1-a127-36fcf74161b1",
+                "runners": [
+                  {
+                    "starting_base": 2,
+                    "first_name": "Riley",
+                    "last_name": "Greene",
+                    "preferred_name": "Riley",
+                    "jersey_number": "31",
+                    "id": "c2689320-b989-4bbc-9afb-28e06aa31077",
+                    "full_name": "Riley Greene"
+                  }
+                ]
+              }
+            ]
+          },
+          "away": {
+            "name": "Rangers",
+            "market": "Texas",
+            "abbr": "TEX",
+            "id": "d99f919b-1534-4516-8e8a-9cd106c6d8cd",
+            "runs": 1,
+            "hits": 2,
+            "errors": 0,
+            "win": 18,
+            "loss": 20,
+            "probable_pitcher": {
+              "preferred_name": "Patrick",
+              "first_name": "Patrick",
+              "last_name": "Corbin",
+              "jersey_number": "46",
+              "id": "0764772b-e8ab-42b3-9ee4-2b61af785e75",
+              "full_name": "Patrick Corbin",
+              "win": 2,
+              "loss": 1,
+              "era": 3.284
+            },
+            "starting_pitcher": {
+              "preferred_name": "Patrick",
+              "first_name": "Patrick",
+              "last_name": "Corbin",
+              "jersey_number": "46",
+              "id": "0764772b-e8ab-42b3-9ee4-2b61af785e75",
+              "full_name": "Patrick Corbin",
+              "win": 2,
+              "loss": 1,
+              "era": 3.284
+            },
+            "current_pitcher": {
+              "preferred_name": "Patrick",
+              "first_name": "Patrick",
+              "last_name": "Corbin",
+              "jersey_number": "46",
+              "id": "0764772b-e8ab-42b3-9ee4-2b61af785e75",
+              "full_name": "Patrick Corbin",
+              "win": 2,
+              "loss": 1,
+              "era": 3.284
+            },
+            "scoring": [
+              {
+                "number": 1,
+                "sequence": 1,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 2,
+                "sequence": 2,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 3,
+                "sequence": 3,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 4,
+                "sequence": 4,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 5,
+                "sequence": 5,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 6,
+                "sequence": 6,
+                "runs": 1,
+                "hits": 2,
+                "errors": 0,
+                "type": "inning"
+              },
+              {
+                "number": 7,
+                "sequence": 7,
+                "runs": 0,
+                "hits": 0,
+                "errors": 0,
+                "type": "inning"
+              }
+            ],
+            "events": [
+              {
+                "hitter_id": "83224cde-72e0-416c-8d4b-fe83f5729451",
+                "pitcher_id": "22187b04-0bc4-4351-a0f6-d41013673cb6",
+                "inning": 6,
+                "inning_half": "T",
+                "type": "pitch",
+                "hitter_outcome": "aS",
+                "id": "da562377-0045-4f2d-878f-cf60b99e533d",
+                "runners": [
+                  {
+                    "starting_base": 2,
+                    "first_name": "Josh",
+                    "last_name": "Smith",
+                    "preferred_name": "Josh",
+                    "jersey_number": "8",
+                    "id": "df34fa21-1eb8-4976-994e-fd9c8706e33c",
+                    "full_name": "Josh Smith"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "_comment": "Generation started @ 2025-05-10 00:15:06 UTC ended @ 2025-05-10 00:15:06 UTC"
+}
