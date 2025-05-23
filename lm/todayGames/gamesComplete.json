@@ -910,7 +910,7 @@
             {
                 "game": {
                     "id": "34962cdc-9740-4bfc-9760-18a87ac0de44",
-                    "status": "scheduled",
+                    "status": "inprogress",
                     "coverage": "full",
                     "game_number": 1,
                     "day_night": "D",
@@ -969,12 +969,24 @@
                     ],
                     "weather": {
                         "forecast": {
-                            "temp_f": 50,
-                            "condition": "Overcast ",
-                            "humidity": 82,
-                            "dew_point_f": 44,
-                            "cloud_cover": 96,
-                            "obs_time": "2025-05-23T11:03:50.000+00:00",
+                            "temp_f": 56,
+                            "condition": "Overcast",
+                            "humidity": 62,
+                            "dew_point_f": 42,
+                            "cloud_cover": 100,
+                            "obs_time": "2025-05-23T19:24:50.000+00:00",
+                            "wind": {
+                                "speed_mph": 7,
+                                "direction": "WSW"
+                            }
+                        },
+                        "current_conditions": {
+                            "temp_f": 58,
+                            "condition": "Overcast",
+                            "humidity": 57,
+                            "dew_point_f": 42,
+                            "cloud_cover": 100,
+                            "obs_time": "2025-05-23T20:16:21.000+00:00",
                             "wind": {
                                 "speed_mph": 7,
                                 "direction": "WSW"
@@ -987,13 +999,63 @@
                             "reason": "postponed"
                         }
                     ],
+                    "outcome": {
+                        "type": "pitch",
+                        "current_inning": 8,
+                        "current_inning_half": "B",
+                        "count": {
+                            "balls": 2,
+                            "strikes": 2,
+                            "outs": 1,
+                            "inning": 8,
+                            "inning_half": "B",
+                            "half_over": false
+                        },
+                        "hitter": {
+                            "preferred_name": "Nick",
+                            "first_name": "Nicholas",
+                            "last_name": "Sogard",
+                            "jersey_number": "20",
+                            "id": "2c79ae29-0210-402d-a944-b6921cd87f09",
+                            "full_name": "Nick Sogard",
+                            "outcome_id": "bB",
+                            "ab_over": false
+                        },
+                        "pitcher": {
+                            "preferred_name": "Emmanuel",
+                            "first_name": "Emmanuel",
+                            "last_name": "Rivera",
+                            "jersey_number": "26",
+                            "id": "52165429-3b43-45fa-b3de-e8135e2d618c",
+                            "full_name": "Emmanuel Rivera",
+                            "pitch_speed": 84.3,
+                            "pitch_type": "CH",
+                            "pitch_zone": 11,
+                            "pitch_x": 223,
+                            "pitch_y": 117
+                        },
+                        "runners": [
+                            {
+                                "preferred_name": "Carlos",
+                                "first_name": "Carlos",
+                                "last_name": "Narváez",
+                                "jersey_number": "75",
+                                "id": "b17ae291-e5e9-4f34-b552-28d0a2f9d51f",
+                                "full_name": "Carlos Narváez",
+                                "outcome_id": "",
+                                "starting_base": 2,
+                                "ending_base": 2,
+                                "out": false
+                            }
+                        ]
+                    },
                     "home": {
                         "name": "Red Sox",
                         "market": "Boston",
                         "abbr": "BOS",
                         "id": "93941372-eb4c-4c40-aced-fe3267174393",
-                        "runs": 0,
-                        "hits": 0,
+                        "runs": 11,
+                        "hits": 13,
                         "errors": 0,
                         "win": 25,
                         "loss": 26,
@@ -1007,16 +1069,282 @@
                             "win": 2,
                             "loss": 1,
                             "era": 4.021
-                        }
+                        },
+                        "starting_pitcher": {
+                            "preferred_name": "Brayan",
+                            "first_name": "Brayan",
+                            "last_name": "Bello",
+                            "jersey_number": "66",
+                            "id": "3c5c48e4-cdc8-43e1-8239-a15e78677139",
+                            "full_name": "Brayan Bello",
+                            "win": 2,
+                            "loss": 1,
+                            "era": 4.021
+                        },
+                        "current_pitcher": {
+                            "preferred_name": "Justin",
+                            "first_name": "Justin",
+                            "last_name": "Slaten",
+                            "jersey_number": "63",
+                            "id": "9d251d7a-c88a-481c-be6a-22fdfc7a1cfe",
+                            "full_name": "Justin Slaten",
+                            "win": 1,
+                            "loss": 3,
+                            "era": 4.05
+                        },
+                        "scoring": [
+                            {
+                                "number": 1,
+                                "sequence": 1,
+                                "runs": 0,
+                                "hits": 1,
+                                "errors": 0,
+                                "type": "inning"
+                            },
+                            {
+                                "number": 2,
+                                "sequence": 2,
+                                "runs": 0,
+                                "hits": 0,
+                                "errors": 1,
+                                "type": "inning"
+                            },
+                            {
+                                "number": 3,
+                                "sequence": 3,
+                                "runs": 0,
+                                "hits": 1,
+                                "errors": 0,
+                                "type": "inning"
+                            },
+                            {
+                                "number": 4,
+                                "sequence": 4,
+                                "runs": 1,
+                                "hits": 1,
+                                "errors": 0,
+                                "type": "inning"
+                            },
+                            {
+                                "number": 5,
+                                "sequence": 5,
+                                "runs": 0,
+                                "hits": 1,
+                                "errors": 0,
+                                "type": "inning"
+                            },
+                            {
+                                "number": 6,
+                                "sequence": 6,
+                                "runs": 5,
+                                "hits": 4,
+                                "errors": 1,
+                                "type": "inning"
+                            },
+                            {
+                                "number": 7,
+                                "sequence": 7,
+                                "runs": 0,
+                                "hits": 0,
+                                "errors": 0,
+                                "type": "inning"
+                            },
+                            {
+                                "number": 8,
+                                "sequence": 8,
+                                "runs": 5,
+                                "hits": 5,
+                                "errors": 0,
+                                "type": "inning"
+                            }
+                        ],
+                        "events": [
+                            {
+                                "hitter_id": "2c79ae29-0210-402d-a944-b6921cd87f09",
+                                "pitcher_id": "d94f854a-4eaf-4fe9-82c7-973ea01ec739",
+                                "inning": 4,
+                                "inning_half": "B",
+                                "type": "pitch",
+                                "hitter_outcome": "oGO",
+                                "id": "a0e52fe0-ba56-4369-b3a6-23fcdcbdf055",
+                                "runners": [
+                                    {
+                                        "starting_base": 3,
+                                        "first_name": "Trevor",
+                                        "last_name": "Story",
+                                        "preferred_name": "Trevor",
+                                        "jersey_number": "10",
+                                        "id": "f8ab2aa3-26ce-447c-9db5-83ea5f13da0c",
+                                        "full_name": "Trevor Story"
+                                    }
+                                ]
+                            },
+                            {
+                                "hitter_id": "13cfa837-07b4-421a-8ea9-cd9e921adacd",
+                                "pitcher_id": "1b02041b-941f-46af-a52e-79072e0e2a33",
+                                "inning": 6,
+                                "inning_half": "B",
+                                "type": "pitch",
+                                "hitter_outcome": "aS",
+                                "id": "68c6cfd9-f555-4287-aa9f-1f210e92d33b",
+                                "runners": [
+                                    {
+                                        "starting_base": 2,
+                                        "first_name": "Nicholas",
+                                        "last_name": "Sogard",
+                                        "preferred_name": "Nick",
+                                        "jersey_number": "20",
+                                        "id": "2c79ae29-0210-402d-a944-b6921cd87f09",
+                                        "full_name": "Nick Sogard"
+                                    }
+                                ]
+                            },
+                            {
+                                "hitter_id": "b8124420-b124-4e28-a719-c7a124917735",
+                                "pitcher_id": "6f454eeb-59bc-407d-b8ff-95f547bcb57c",
+                                "inning": 6,
+                                "inning_half": "B",
+                                "type": "pitch",
+                                "hitter_outcome": "aS",
+                                "id": "45e71ff3-a1d2-4a6f-8d45-e78272abc446",
+                                "runners": [
+                                    {
+                                        "starting_base": 3,
+                                        "first_name": "Kristian",
+                                        "last_name": "Campbell",
+                                        "preferred_name": "Kristian",
+                                        "jersey_number": "28",
+                                        "id": "88760b06-5005-459c-9669-71deb2f4ea41",
+                                        "full_name": "Kristian Campbell"
+                                    }
+                                ]
+                            },
+                            {
+                                "hitter_id": "fe966998-15e1-4022-89d5-6b4750516176",
+                                "pitcher_id": "6f454eeb-59bc-407d-b8ff-95f547bcb57c",
+                                "inning": 6,
+                                "inning_half": "B",
+                                "type": "pitch",
+                                "hitter_outcome": "aHR",
+                                "id": "c17d53e3-77c6-4c1d-954e-3f8a890c8abc",
+                                "runners": [
+                                    {
+                                        "starting_base": 0,
+                                        "first_name": "Rafael",
+                                        "last_name": "Devers",
+                                        "preferred_name": "Rafael",
+                                        "jersey_number": "11",
+                                        "id": "fe966998-15e1-4022-89d5-6b4750516176",
+                                        "full_name": "Rafael Devers"
+                                    },
+                                    {
+                                        "starting_base": 1,
+                                        "first_name": "Jarren",
+                                        "last_name": "Duran",
+                                        "preferred_name": "Jarren",
+                                        "jersey_number": "16",
+                                        "id": "b8124420-b124-4e28-a719-c7a124917735",
+                                        "full_name": "Jarren Duran"
+                                    },
+                                    {
+                                        "starting_base": 3,
+                                        "first_name": "Ceddanne",
+                                        "last_name": "Rafaela",
+                                        "preferred_name": "Ceddanne",
+                                        "jersey_number": "3",
+                                        "id": "13cfa837-07b4-421a-8ea9-cd9e921adacd",
+                                        "full_name": "Ceddanne Rafaela"
+                                    }
+                                ]
+                            },
+                            {
+                                "hitter_id": "b8124420-b124-4e28-a719-c7a124917735",
+                                "pitcher_id": "3c3e37f1-b7b1-4d64-ac0a-303dcc82f688",
+                                "inning": 8,
+                                "inning_half": "B",
+                                "type": "pitch",
+                                "hitter_outcome": "aDAD3",
+                                "id": "9d4bb1ee-4df3-45ee-998b-2bd8745d0d1a",
+                                "runners": [
+                                    {
+                                        "starting_base": 1,
+                                        "first_name": "Ceddanne",
+                                        "last_name": "Rafaela",
+                                        "preferred_name": "Ceddanne",
+                                        "jersey_number": "3",
+                                        "id": "13cfa837-07b4-421a-8ea9-cd9e921adacd",
+                                        "full_name": "Ceddanne Rafaela"
+                                    }
+                                ]
+                            },
+                            {
+                                "hitter_id": "fe966998-15e1-4022-89d5-6b4750516176",
+                                "pitcher_id": "3c3e37f1-b7b1-4d64-ac0a-303dcc82f688",
+                                "inning": 8,
+                                "inning_half": "B",
+                                "type": "pitch",
+                                "hitter_outcome": "aS",
+                                "id": "64e29ecc-4600-4613-8eeb-2e92b63904bb",
+                                "runners": [
+                                    {
+                                        "starting_base": 3,
+                                        "first_name": "Jarren",
+                                        "last_name": "Duran",
+                                        "preferred_name": "Jarren",
+                                        "jersey_number": "16",
+                                        "id": "b8124420-b124-4e28-a719-c7a124917735",
+                                        "full_name": "Jarren Duran"
+                                    }
+                                ]
+                            },
+                            {
+                                "hitter_id": "1d1881bd-d65e-4180-88bd-059044cc1755",
+                                "pitcher_id": "3c3e37f1-b7b1-4d64-ac0a-303dcc82f688",
+                                "inning": 8,
+                                "inning_half": "B",
+                                "type": "pitch",
+                                "hitter_outcome": "aHR",
+                                "id": "f8db74ea-2263-4ebb-a5b6-0c60e013ae14",
+                                "runners": [
+                                    {
+                                        "starting_base": 0,
+                                        "first_name": "Robert",
+                                        "last_name": "Refsnyder",
+                                        "preferred_name": "Rob",
+                                        "jersey_number": "30",
+                                        "id": "1d1881bd-d65e-4180-88bd-059044cc1755",
+                                        "full_name": "Rob Refsnyder"
+                                    },
+                                    {
+                                        "starting_base": 1,
+                                        "first_name": "Abraham",
+                                        "last_name": "Toro",
+                                        "preferred_name": "Abraham",
+                                        "jersey_number": "29",
+                                        "id": "3dc0e96a-7d2b-4471-9240-c117a9ac784a",
+                                        "full_name": "Abraham Toro"
+                                    },
+                                    {
+                                        "starting_base": 2,
+                                        "first_name": "Rafael",
+                                        "last_name": "Devers",
+                                        "preferred_name": "Rafael",
+                                        "jersey_number": "11",
+                                        "id": "fe966998-15e1-4022-89d5-6b4750516176",
+                                        "full_name": "Rafael Devers"
+                                    }
+                                ]
+                            }
+                        ]
                     },
                     "away": {
                         "name": "Orioles",
                         "market": "Baltimore",
                         "abbr": "BAL",
                         "id": "75729d34-bca7-4a0f-b3df-6f26c6ad3719",
-                        "runs": 0,
-                        "hits": 0,
-                        "errors": 0,
+                        "runs": 3,
+                        "hits": 10,
+                        "errors": 2,
                         "win": 16,
                         "loss": 32,
                         "probable_pitcher": {
@@ -1029,7 +1357,154 @@
                             "win": 1,
                             "loss": 3,
                             "era": 5.226
-                        }
+                        },
+                        "starting_pitcher": {
+                            "preferred_name": "Cade",
+                            "first_name": "Cade",
+                            "last_name": "Povich",
+                            "jersey_number": "37",
+                            "id": "d94f854a-4eaf-4fe9-82c7-973ea01ec739",
+                            "full_name": "Cade Povich",
+                            "win": 1,
+                            "loss": 3,
+                            "era": 5.226
+                        },
+                        "current_pitcher": {
+                            "preferred_name": "Emmanuel",
+                            "first_name": "Emmanuel",
+                            "last_name": "Rivera",
+                            "jersey_number": "26",
+                            "id": "52165429-3b43-45fa-b3de-e8135e2d618c",
+                            "full_name": "Emmanuel Rivera"
+                        },
+                        "scoring": [
+                            {
+                                "number": 1,
+                                "sequence": 1,
+                                "runs": 0,
+                                "hits": 1,
+                                "errors": 0,
+                                "type": "inning"
+                            },
+                            {
+                                "number": 2,
+                                "sequence": 2,
+                                "runs": 0,
+                                "hits": 0,
+                                "errors": 0,
+                                "type": "inning"
+                            },
+                            {
+                                "number": 3,
+                                "sequence": 3,
+                                "runs": 2,
+                                "hits": 3,
+                                "errors": 0,
+                                "type": "inning"
+                            },
+                            {
+                                "number": 4,
+                                "sequence": 4,
+                                "runs": 0,
+                                "hits": 2,
+                                "errors": 0,
+                                "type": "inning"
+                            },
+                            {
+                                "number": 5,
+                                "sequence": 5,
+                                "runs": 0,
+                                "hits": 0,
+                                "errors": 0,
+                                "type": "inning"
+                            },
+                            {
+                                "number": 6,
+                                "sequence": 6,
+                                "runs": 0,
+                                "hits": 1,
+                                "errors": 0,
+                                "type": "inning"
+                            },
+                            {
+                                "number": 7,
+                                "sequence": 7,
+                                "runs": 0,
+                                "hits": 0,
+                                "errors": 0,
+                                "type": "inning"
+                            },
+                            {
+                                "number": 8,
+                                "sequence": 8,
+                                "runs": 1,
+                                "hits": 3,
+                                "errors": 0,
+                                "type": "inning"
+                            }
+                        ],
+                        "events": [
+                            {
+                                "hitter_id": "a32aedc1-39cd-4482-8e95-13edfae116aa",
+                                "pitcher_id": "3c5c48e4-cdc8-43e1-8239-a15e78677139",
+                                "inning": 3,
+                                "inning_half": "T",
+                                "type": "pitch",
+                                "hitter_outcome": "aS",
+                                "id": "5d5bffb4-e3b4-4f28-96da-942d1c186e2e",
+                                "runners": [
+                                    {
+                                        "starting_base": 2,
+                                        "first_name": "Heston",
+                                        "last_name": "Kjerstad",
+                                        "preferred_name": "Heston",
+                                        "jersey_number": "13",
+                                        "id": "97a22126-469f-45b4-a47e-b0ff4bfc25f1",
+                                        "full_name": "Heston Kjerstad"
+                                    }
+                                ]
+                            },
+                            {
+                                "hitter_id": "e1aabb4c-3fa9-4053-b2a7-29a05607df88",
+                                "pitcher_id": "3c5c48e4-cdc8-43e1-8239-a15e78677139",
+                                "inning": 3,
+                                "inning_half": "T",
+                                "type": "pitch",
+                                "hitter_outcome": "oGO",
+                                "id": "b35afc1c-000b-4f09-943c-563dec8f3616",
+                                "runners": [
+                                    {
+                                        "starting_base": 3,
+                                        "first_name": "Jorge",
+                                        "last_name": "Mateo",
+                                        "preferred_name": "Jorge",
+                                        "jersey_number": "3",
+                                        "id": "9b8a295d-bae1-4684-bf38-9f64dc0fd22e",
+                                        "full_name": "Jorge Mateo"
+                                    }
+                                ]
+                            },
+                            {
+                                "hitter_id": "0672f3d5-5781-47bb-b111-abec96c38355",
+                                "pitcher_id": "9d251d7a-c88a-481c-be6a-22fdfc7a1cfe",
+                                "inning": 8,
+                                "inning_half": "T",
+                                "type": "pitch",
+                                "hitter_outcome": "aS",
+                                "id": "653bcc7e-fc5a-420e-bfa1-ff4e81993230",
+                                "runners": [
+                                    {
+                                        "starting_base": 3,
+                                        "first_name": "Adley",
+                                        "last_name": "Rutschman",
+                                        "preferred_name": "Adley",
+                                        "jersey_number": "35",
+                                        "id": "e1aabb4c-3fa9-4053-b2a7-29a05607df88",
+                                        "full_name": "Adley Rutschman"
+                                    }
+                                ]
+                            }
+                        ]
                     }
                 }
             },
@@ -1828,5 +2303,5 @@
             }
         ]
     },
-    "_comment": "Generation started @ 2025-05-23 14:43:55 +0000 ended @ 2025-05-23 14:43:55 +0000"
+    "_comment": "Generation started @ 2025-05-23 20:31:34 +0000 ended @ 2025-05-23 20:31:34 +0000"
 }
